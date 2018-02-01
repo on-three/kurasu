@@ -1,7 +1,9 @@
 
+ifndef EP
+$(error EP is not defined. e.g. EP=02)
+endif
 
-NUM ?= 02
-NAME := Thinking.Crow.s01e$(NUM)
+NAME := Thinking.Crow.s01e$(EP)
 DIR := ./$(NAME)
 TS := $(DIR)/$(NAME).ts
 MKV := $(DIR)/$(NAME).mkv
