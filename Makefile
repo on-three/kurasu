@@ -25,7 +25,7 @@ FFMPEG := ffmpeg
 TTML2SRT := /home/on-three/code/ttml/ttml/convert.py
 
 
-all: $(OUT_DIR) $(TTML) $(M3U8) $(SRT_JP) $(TS)
+all: $(SRT_JP) $(MKV)
 
 $(OUT_DIR):
 	mkdir $@
@@ -37,6 +37,9 @@ $(TS): $(OUT_DIR) $(M3U8)
 #	$(FFMPEG) -i $(TS) -i $(ASS_EN) -i $(SRT_JP) \
 #	-map 0 -map 1 -map 2 \
 #	-c copy -metadata:s:s:0 language=eng -metadata:s:s:1 language=jpn $@
+
+$(MKV): $(TS) $(ASS_EN)
+	touch $@
 
 $(SRT_JP): $(TTML)
 	$(TTML2SRT) $^ -o $@
