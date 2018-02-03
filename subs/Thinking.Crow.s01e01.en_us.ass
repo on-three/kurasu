@@ -11,14 +11,14 @@ PlayResY: 360
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: master.m3u8.ts
-Video File: master.m3u8.ts
+Audio File: ../Thinking.Crow.s01e01/Thinking.Crow.s01e01.ts
+Video File: ../Thinking.Crow.s01e01/Thinking.Crow.s01e01.ts
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.750000
-Scroll Position: 98
-Active Line: 106
-Video Position: 17834
+Scroll Position: 68
+Active Line: 98
+Video Position: 17981
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,16 +30,15 @@ Style: black-large,Arial,24,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.00,0:00:08.00,Default,,0,0,0,,♪\N｢There was a hungry crow｣
-Dialogue: 0,0:00:09.00,0:00:14.00,Default,,0,0,0,,♪\N｢who somehow wanted to get some feed｣
+Dialogue: 0,0:00:03.00,0:00:08.00,Default,,0,0,0,,｢There was a hungry crow｣
+Dialogue: 0,0:00:09.00,0:00:14.00,Default,,0,0,0,,｢who somehow wanted to get some feed｣
 Dialogue: 0,0:00:10.46,0:00:13.83,black-small,,0,0,0,,{\pos(52,260.286)}feed
-Dialogue: 0,0:00:15.00,0:00:20.00,Default,,0,0,0,,♪\N｢if this beak was only longer｣
-Dialogue: 0,0:00:21.00,0:00:26.00,Default,,0,0,0,,♪\N｢that feed would be a bit closer｣
-Dialogue: 0,0:00:26.00,0:00:44.00,Default,,0,0,0,,♪\N～
+Dialogue: 0,0:00:15.00,0:00:20.00,Default,,0,0,0,,｢if this beak were only longer｣
+Dialogue: 0,0:00:21.00,0:00:26.00,Default,,0,0,0,,｢that feed would be a bit closer｣
 Dialogue: 0,0:00:26.67,0:00:32.78,black-small,,0,0,0,,{\pos(542.286,239.143)}pebbles
 Dialogue: 0,0:00:31.54,0:00:38.58,black-small,,0,0,0,,{\pos(334.857,183.714)}Maybe if I...
-Dialogue: 0,0:00:44.00,0:01:00.00,Default,,0,0,0,,♪\N｢a crow can think｣
-Dialogue: 0,0:01:01.00,0:01:09.00,Default,,0,0,0,,♪\N｢can think... can think｣
+Dialogue: 0,0:00:44.00,0:01:00.00,Default,,0,0,0,,｢a crow can think｣
+Dialogue: 0,0:01:01.00,0:01:09.00,Default,,0,0,0,,｢can think... can think｣
 Dialogue: 0,0:01:11.00,0:01:16.00,Default,,0,0,0,,Observe. Formulate hypotheses.\NExperiment and reflect.
 Dialogue: 0,0:01:17.00,0:01:20.00,Default,,0,0,0,,Learn the the way of scientific thought.
 Dialogue: 0,0:01:17.86,0:01:24.83,black-large,,0,0,0,,{\pos(319.428,146.571)}Thinking Crow
@@ -48,7 +47,6 @@ Dialogue: 0,0:01:27.97,0:01:34.64,white-large,,0,0,0,,{\pos(434.857,127.143)}Thi
 Dialogue: 0,0:01:29.00,0:01:34.00,Default,,0,0,0,,We start with a ｢Thinking Observation｣.
 Dialogue: 0,0:01:37.00,0:01:42.00,Default,,0,0,0,,Today, observe this cup's shadow.
 Dialogue: 0,0:01:45.00,0:01:49.00,Default,,0,0,0,,If a finger's shadow nears the cup's shadow...
-Dialogue: 0,0:01:49.00,0:02:02.00,Default,,0,0,0,,♪\N～
 Dialogue: 0,0:02:02.00,0:02:07.00,Default,,0,0,0,,The cup's shadow 'sticks' to it
 Dialogue: 0,0:02:10.00,0:02:16.00,Default,,0,0,0,,Even If we touch from above...
 Dialogue: 0,0:02:16.00,0:02:19.00,Default,,0,0,0,,the shadow stretches upwards.
@@ -58,9 +56,8 @@ Dialogue: 0,0:02:42.00,0:02:46.00,Default,,0,0,0,,This time the finger's shadow 
 Dialogue: 0,0:02:48.00,0:02:51.00,Default,,0,0,0,,Even if we touch from above...
 Dialogue: 0,0:02:56.00,0:02:59.00,Default,,0,0,0,,the finger's shadow lengthens.
 Dialogue: 0,0:03:02.00,0:03:05.00,Default,,0,0,0,,Return our hand to its original position.
-Dialogue: 0,0:03:05.00,0:03:15.00,Default,,0,0,0,,♪\N～
 Dialogue: 0,0:03:15.00,0:03:20.00,Default,,0,0,0,,As we'd expect, now the cup's shadow lengthens.
-Dialogue: 0,0:03:26.00,0:03:30.00,Default,,0,0,0,,Even if we touch with a pencil...\N→
+Dialogue: 0,0:03:26.00,0:03:30.00,Default,,0,0,0,,Even if we touch with a pencil...
 Dialogue: 0,0:03:31.00,0:03:33.00,Default,,0,0,0,,it stretches.
 Dialogue: 0,0:03:41.00,0:03:45.00,Default,,0,0,0,,Why should this be?
 Dialogue: 0,0:03:45.00,0:03:48.00,Default,,0,0,0,,｢Thinking Observation｣.
@@ -68,10 +65,7 @@ Dialogue: 0,0:03:45.30,0:03:51.24,white-small,,0,0,0,,{\pos(535.429,161.429)}Thi
 Dialogue: 0,0:03:54.41,0:03:56.48,black-large,,0,0,0,,{\pos(306.286,262.571)}Dedenion
 Dialogue: 0,0:03:55.15,0:03:56.48,black-small,,0,0,0,,{\pos(318.286,61.429)}Hypothesis
 Dialogue: 0,0:03:55.15,0:03:56.48,black-small,,0,0,0,,{\pos(488.571,91.714)}love
-Dialogue: 0,0:03:56.00,0:05:02.00,Default,,0,0,0,,♪\N～
 Dialogue: 0,0:03:58.08,0:04:01.52,white-large,,0,0,0,,{\pos(477.714,319.143)}Episode 1:  A Strange Pipe
-Dialogue: 0,0:05:10.00,0:05:30.00,Default,,0,0,0,,♪\N～
-Dialogue: 0,0:05:31.00,0:05:36.00,Default,,0,0,0,,♪\N～
 Dialogue: 0,0:05:36.41,0:05:39.32,black-large,,0,0,0,,{\pos(516.571,271.143)}Dedeneon
 Dialogue: 0,0:05:37.32,0:05:39.32,black-small,,0,0,0,,{\pos(112.571,319.714)}Animation: Milligram
 Dialogue: 0,0:05:40.89,0:05:47.29,white-large,,0,0,0,,{\pos(408,105.428)}Yū Aoi's Thinking Practice
@@ -82,7 +76,6 @@ Dialogue: 0,0:05:58.00,0:06:01.00,Default,,0,0,0,,is lit...
 Dialogue: 0,0:06:02.37,0:06:09.45,black-small,,0,0,0,,{\pos(110.858,106)}Do this experiment with an adult.
 Dialogue: 0,0:06:05.00,0:06:08.00,Default,,0,0,0,,and we put this container over it...
 Dialogue: 0,0:06:11.00,0:06:13.00,Default,,0,0,0,,the flame
-Dialogue: 0,0:06:14.00,0:06:24.00,Default,,0,0,0,,♪\N～
 Dialogue: 0,0:06:24.00,0:06:27.00,Default,,0,0,0,,goes out.
 Dialogue: 0,0:06:27.00,0:06:30.00,Default,,0,0,0,,Now, this is the problem.
 Dialogue: 0,0:06:30.00,0:06:37.00,Default,,0,0,0,,We put a different sized candle besides the first..\N→
@@ -132,7 +125,10 @@ Dialogue: 0,0:09:35.00,0:09:39.00,Default,,0,0,0,,Why do you think the longer on
 Dialogue: 0,0:09:39.00,0:09:42.00,Default,,0,0,0,,{\pos(325.143,295.143)}It has to do with carbon dioxide.
 Dialogue: 0,0:09:42.00,0:09:45.00,Default,,0,0,0,,{\pos(320,307.714)}Normal air is heavier than carbon dioxide
 Dialogue: 0,0:09:45.00,0:09:48.00,Default,,0,0,0,,{\pos(322.286,297.429)}really...
-Dialogue: 0,0:09:48.00,0:09:51.00,Default,,0,0,0,,{\pos(323.429,303.714)}From this point on, think for yourself.
+Dialogue: 0,0:09:48.00,0:09:51.00,Default,,0,0,0,,{\pos(323.429,303.714)}From this point on, let's think for ourselves.
+Dialogue: 0,0:09:48.00,0:09:59.98,Default,,0,0,0,,{\pos(141,62)}Translation: on3
+Dialogue: 0,0:09:48.00,0:09:59.98,Default,,0,0,0,,{\pos(213,89)}https://github.com/on-three/kurasu
+Dialogue: 0,0:09:48.00,0:09:59.98,Default,,0,0,0,,{\pos(494,63)}#/tv/shows@rizon
 Dialogue: 0,0:09:51.00,0:09:56.00,Default,,0,0,0,,{\pos(327.429,319.143)}Now everyone is a thinking crow.
 Dialogue: 0,0:09:55.04,0:09:59.98,black-small,,0,0,0,,{\pos(524,230)}end
 Dialogue: 0,0:09:55.04,0:09:59.98,black-small,,0,0,0,,{\pos(274.857,117.429)}thinking scientifically
