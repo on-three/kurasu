@@ -63,7 +63,6 @@ Today, we will be observing this.
 
 14
 00:01:49,000 --> 00:01:55,006
-ｷｬｯﾌﾟに ｼｰﾙで 印を付けてみる｡
 Try putting a mark on the cap with a sticker.
 
 15
@@ -292,7 +291,6 @@ Let's look at that once more.
 
 67
 00:09:27,006 --> 00:09:30,006
-答えは…
 The answer...
 
 68
