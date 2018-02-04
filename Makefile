@@ -24,7 +24,7 @@ TTML := $(DATA_DIR)/ep$(EP).ttml
 # tools
 FFMPEG := ffmpeg
 TTML2SRT := /home/on-three/code/ttml/ttml/convert.py
-
+MIXTAPE := uploadtomixtape.sh
 
 all: $(SRT_JP) $(MKV)
 
@@ -42,4 +42,7 @@ $(MKV): $(TS) $(SRT_JP) $(ASS_EN)
 $(SRT_JP): $(TTML)
 	$(TTML2SRT) $^ -o $@
 
+mixtape: $(MKV)
+	# upload to mixtape.moe to share
+	$(MIXTAPE) $^
 
