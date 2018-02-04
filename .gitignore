@@ -1,4 +1,4 @@
 *.ts
 *.swp
 # ignore output directories
-Thinking.Crow.s01e*
+./Thinking.Crow.s01e*/*
