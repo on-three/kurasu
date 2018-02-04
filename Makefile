@@ -4,10 +4,11 @@ $(error episode number is not defined. e.g. EP=02)
 endif
 
 NAME := Thinking.Crow.s01e$(EP)
-OUT_DIR := ./$(NAME)
+OUT_DIR := ./out/$(NAME)
 SUBS_DIR := ./subs
 DATA_DIR := ./data
-TS := $(OUT_DIR)/$(NAME).ts
+VIDEO_DIR := ./video
+TS := $(VIDEO_DIR)/$(NAME).ts
 MKV := $(OUT_DIR)/$(NAME).mkv
 SRT_EN := $(SUBS_DIR)/$(NAME).en_us.srt
 SRT_JP := $(SUBS_DIR)/$(NAME).ja_jp.srt
@@ -28,18 +29,15 @@ TTML2SRT := /home/on-three/code/ttml/ttml/convert.py
 all: $(SRT_JP) $(MKV)
 
 $(OUT_DIR):
-	mkdir $@
+	mkdir -p $@
 
-$(TS): $(OUT_DIR) $(M3U8)
-	$(FFMPEG) -i $(M3U8) -c copy $@
+#$(TS): $(M3U8)
+#	$(FFMPEG) -i $(M3U8) -c copy $@
 
-#$(MKV): $(TS) $(SRT_JP) $(ASS_EN)
-#	$(FFMPEG) -i $(TS) -i $(ASS_EN) -i $(SRT_JP) \
-#	-map 0 -map 1 -map 2 \
-#	-c copy -metadata:s:s:0 language=eng -metadata:s:s:1 language=jpn $@
-
-$(MKV): $(TS) $(ASS_EN)
-	touch $@
+$(MKV): $(TS) $(SRT_JP) $(ASS_EN)
+	$(FFMPEG) -i $(TS) -i $(ASS_EN) -i $(SRT_JP) \
+	-map 0:v -map 0:a -map 1 -map 2 \
+	-metadata:s:s:0 language=eng -metadata:s:s:1 language=jpn $@
 
 $(SRT_JP): $(TTML)
 	$(TTML2SRT) $^ -o $@

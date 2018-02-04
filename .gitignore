@@ -1,4 +1,5 @@
 *.ts
 *.swp
-# ignore output directories
-./Thinking.Crow.s01e*/*
+# ignore output directores
+out
+video
