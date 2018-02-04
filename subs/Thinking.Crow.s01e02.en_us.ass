@@ -11,19 +11,20 @@ PlayResY: 360
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../Thinking.Crow.s01e02/Thinking.Crow.s01e02.ts
-Video File: ../Thinking.Crow.s01e02/Thinking.Crow.s01e02.ts
+Audio File: ../out/Thinking.Crow.s01e02/Thinking.Crow.s01e02.ts
+Video File: ../out/Thinking.Crow.s01e02/Thinking.Crow.s01e02.ts
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 28
-Active Line: 69
-Video Position: 15021
+Video Zoom Percent: 1.250000
+Scroll Position: 52
+Active Line: 76
+Video Position: 15547
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: white-small,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: white-large,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: white-large,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0.6,2,10,10,10,1
 Style: black-small,Arial,16,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: black-large,Arial,24,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
@@ -78,7 +79,7 @@ Dialogue: 0,0:06:21.29,0:06:23.29,black-small,,0,0,0,,{\pos(112.571,319.714)}Ani
 Dialogue: 0,0:06:24.80,0:06:31.24,white-large,,0,0,0,,{\pos(408,105.428)}Yū Aoi's Thinking Practice
 Dialogue: 0,0:06:31.00,0:06:37.00,Default,,0,0,0,,Today our problem deals with a platter and a baloon.
 Dialogue: 0,0:06:43.00,0:06:48.00,Default,,0,0,0,,I let go of the platter and the balloon at the same time.
-Dialogue: 0,0:06:51.00,0:06:57.00,Default,,0,0,0,,The platter falls first.\Nthe baloon falls later, more slowly.
+Dialogue: 0,0:06:51.00,0:06:57.00,Default,,0,0,0,,The platter hits the floor first.\Nthe baloon later, falling more slowly.
 Dialogue: 0,0:07:06.00,0:07:10.00,Default,,0,0,0,,Now this is the problem.
 Dialogue: 0,0:07:13.00,0:07:17.00,Default,,0,0,0,,This time I put the balloon on top of the platter.
 Dialogue: 0,0:07:17.00,0:07:20.00,Default,,0,0,0,,And then let go.
@@ -108,10 +109,10 @@ Dialogue: 0,0:08:34.49,0:08:38.73,white-large,,0,0,0,,{\pos(324.571,294.571)}tod
 Dialogue: 0,0:08:38.73,0:08:45.27,white-large,,0,0,0,,{\pos(335.429,293.429)}and tomorrow there will be probably be another
 Dialogue: 0,0:08:45.60,0:08:48.77,black-large,,0,0,0,,{\pos(390.857,36.857)}one each day
 Dialogue: 0,0:08:45.60,0:08:48.77,black-large,,0,0,0,,{\pos(460,138.571)}today's discovery
-Dialogue: 0,0:08:50.01,0:08:52.01,black-small,,0,0,0,,{\pos(174,116)}Q: When we let go what will happen?
-Dialogue: 0,0:08:50.01,0:08:52.01,black-small,,0,0,0,,{\pos(370,201)}1. The platter will fall first.
-Dialogue: 0,0:08:50.01,0:08:52.01,black-small,,0,0,0,,{\pos(366,243)}2. They will fall together.
-Dialogue: 0,0:08:50.01,0:08:52.01,black-small,,0,0,0,,{\pos(421,292)}3. The platter will fall, the balloon will rise.
+Dialogue: 0,0:08:50.01,0:08:59.28,black-small,,0,0,0,,{\pos(174,116)}Q: When we let go what will happen?
+Dialogue: 0,0:08:50.01,0:08:59.28,black-small,,0,0,0,,{\pos(394.8,201)}1. The platter will hit the floor first.
+Dialogue: 0,0:08:50.01,0:08:59.28,black-small,,0,0,0,,{\pos(391.6,243)}2. They will hit the floor together.
+Dialogue: 0,0:08:50.01,0:08:59.28,black-small,,0,0,0,,{\pos(421,292)}3. The platter will fall, the balloon will rise.
 Dialogue: 0,0:08:50.00,0:08:53.00,Default,,0,0,0,,And now, the answer.
 Dialogue: 0,0:08:54.00,0:08:58.00,Default,,0,0,0,,Did everyone think about it carefully?
 Dialogue: 0,0:09:00.00,0:09:01.00,Default,,0,0,0,,Okay. Let's do it.
