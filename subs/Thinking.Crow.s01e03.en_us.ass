@@ -10,16 +10,21 @@ PlayResX: 640
 PlayResY: 360
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: ../video/Thinking.Crow.s01e03.ts
 Video File: ../video/Thinking.Crow.s01e03.ts
 Video AR Mode: 4
 Video AR Value: 1.777778
+Video Zoom Percent: 1.625000
+Scroll Position: 73
+Active Line: 81
+Video Position: 15647
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: white-small,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: white-large,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: white-large,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0.6,2,10,10,10,1
 Style: black-small,Arial,16,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: black-large,Arial,24,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
@@ -29,28 +34,30 @@ Dialogue: 0,0:00:03.00,0:00:08.00,Default,,0,0,0,,｢There was a hungry crow｣
 Dialogue: 0,0:00:09.00,0:00:14.00,Default,,0,0,0,,｢who somehow wanted to get some feed｣
 Dialogue: 0,0:00:15.00,0:00:20.00,Default,,0,0,0,,｢if only this beak were longer｣
 Dialogue: 0,0:00:21.00,0:00:26.00,Default,,0,0,0,,｢that feed would be a bit closer｣
-Dialogue: 0,0:00:26.00,0:00:44.00,Default,,0,0,0,,♪\N～
 Dialogue: 0,0:00:44.00,0:01:00.00,Default,,0,0,0,,｢a crow can think｣
 Dialogue: 0,0:01:01.00,0:01:09.00,Default,,0,0,0,,｢can think... can think｣
 Dialogue: 0,0:01:11.00,0:01:17.00,Default,,0,0,0,,Observe, propose a hypothesis, experiment and then consider.
 Dialogue: 0,0:01:17.00,0:01:20.00,Default,,0,0,0,,Lean the way of scientific thought.
+Dialogue: 0,0:01:17.02,0:01:25.23,black-large,,0,0,0,,{\pos(309,143)}Thinking Crow
+Dialogue: 0,0:01:17.02,0:01:25.23,black-small,,0,0,0,,{\pos(321,256)}Thinking Scientifically
+Dialogue: 0,0:01:26.33,0:01:32.60,white-large,,0,0,0,,{\pos(451,171)}Thinking\NObservation
 Dialogue: 0,0:01:28.00,0:01:33.00,Default,,0,0,0,,First we start with a ｢Thinking Observation｣
 Dialogue: 0,0:01:33.00,0:01:40.00,Default,,0,0,0,,If we flick this pen cap with our finger...
-Dialogue: 0,0:01:40.00,0:01:43.00,Default,,0,0,0,,Look closely.
-Dialogue: 0,0:01:43.00,0:01:48.00,Default,,0,0,0,,Today, we will be observing this.
+Dialogue: 0,0:01:40.00,0:01:43.00,Default,,0,0,0,,watch closely.
+Dialogue: 0,0:01:43.00,0:01:48.00,Default,,0,0,0,,Today, this is what we will observe.
 Dialogue: 0,0:01:49.00,0:01:55.00,Default,,0,0,0,,Try putting a mark on the cap with a sticker.
 Dialogue: 0,0:01:55.00,0:02:02.00,Default,,0,0,0,,Watch the mark when we flick the cap.
 Dialogue: 0,0:02:05.00,0:02:09.00,Default,,0,0,0,,Flick it once more.
 Dialogue: 0,0:02:11.00,0:02:16.00,Default,,0,0,0,,This time we can't see the mark.
 Dialogue: 0,0:02:18.00,0:02:21.00,Default,,0,0,0,,And if we spin it once more...
-Dialogue: 0,0:02:24.00,0:02:28.00,Default,,0,0,0,,We see it.
+Dialogue: 0,0:02:24.00,0:02:28.00,Default,,0,0,0,,We can see it.
 Dialogue: 0,0:02:28.00,0:02:33.00,Default,,0,0,0,,What's the difference between the time when we can see the mark and when we can't?
-Dialogue: 0,0:02:33.00,0:02:37.00,Default,,0,0,0,,Try spinning it some times.
+Dialogue: 0,0:02:33.00,0:02:37.00,Default,,0,0,0,,Try spinning it a few more times.
 Dialogue: 0,0:02:40.00,0:02:43.00,Default,,0,0,0,,We can see it.
 Dialogue: 0,0:02:48.00,0:02:52.00,Default,,0,0,0,,We can't see it.
 Dialogue: 0,0:02:58.00,0:03:01.00,Default,,0,0,0,,We see it.
-Dialogue: 0,0:03:04.00,0:03:09.00,Default,,0,0,0,,Watch carefully the position of our finger when flicking it.
-Dialogue: 0,0:03:09.00,0:03:13.00,Default,,0,0,0,,Flick it on the side we've put the sticker.
+Dialogue: 0,0:03:04.00,0:03:09.00,Default,,0,0,0,,Watch carefully the position of our finger when we flick it.
+Dialogue: 0,0:03:09.00,0:03:13.00,Default,,0,0,0,,Flick it on the side with the sticker.
 Dialogue: 0,0:03:18.00,0:03:22.00,Default,,0,0,0,,We can see the mark.
 Dialogue: 0,0:03:24.00,0:03:29.00,Default,,0,0,0,,This time flick from the side we haven't put the sticker.
 Dialogue: 0,0:03:32.00,0:03:36.00,Default,,0,0,0,,We can't see the mark.
@@ -60,21 +67,26 @@ Dialogue: 0,0:03:54.00,0:03:58.00,Default,,0,0,0,,We can't see anything but the 
 Dialogue: 0,0:04:01.00,0:04:05.00,Default,,0,0,0,,If we flick on the side with the triangle...
 Dialogue: 0,0:04:06.00,0:04:10.00,Default,,0,0,0,,We can't see anything but the triangle.
 Dialogue: 0,0:04:12.00,0:04:19.00,Default,,0,0,0,,But the circle and triangle and on the same side.
-Dialogue: 0,0:04:19.00,0:04:26.00,Default,,0,0,0,,When we can see the circle, we ought not be able to see the triangle at the same time?
+Dialogue: 0,0:04:19.00,0:04:26.00,Default,,0,0,0,,When we can see the circle, shouldn't we be able to see the triangle at the same time?
 Dialogue: 0,0:04:28.00,0:04:30.00,Default,,0,0,0,,but...
 Dialogue: 0,0:04:32.00,0:04:37.00,Default,,0,0,0,,we can only see the circle.
 Dialogue: 0,0:04:37.00,0:04:41.00,Default,,0,0,0,,What's going on here?
-Dialogue: 0,0:04:41.00,0:04:52.00,Default,,0,0,0,,♪\N～
-Dialogue: 0,0:05:07.00,0:05:17.00,Default,,0,0,0,,♪\N～
-Dialogue: 0,0:05:21.00,0:06:10.00,Default,,0,0,0,,♪\N～
-Dialogue: 0,0:06:22.00,0:06:26.00,Default,,0,0,0,,Today our problem uses this balloon.
+Dialogue: 0,0:04:53.87,0:05:02.88,white-large,,0,0,0,,{\pos(92,193)}Thinking\NObservation
+Dialogue: 0,0:05:04.88,0:05:07.49,black-large,,0,0,0,,{\pos(320,261)}Dedeneon
+Dialogue: 0,0:05:04.88,0:05:07.49,black-small,,0,0,0,,{\pos(312,58)}Hypothesis
+Dialogue: 0,0:05:04.88,0:05:07.49,black-small,,0,0,0,,{\pos(486,87)}love
+Dialogue: 0,0:05:10.49,0:05:12.99,white-large,,0,0,0,,{\pos(400,320)}Episode 3: The Mystery of the Footprints
+Dialogue: 0,0:06:08.55,0:06:13.35,black-large,,0,0,0,,{\pos(520,93)}Dedenion
+Dialogue: 0,0:06:10.08,0:06:13.35,black-small,,0,0,0,,{\pos(115,318)}Animation: milligram
+Dialogue: 0,0:06:14.39,0:06:22.26,white-large,,0,0,0,,{\pos(268,228)}Yū Aoi's\NThinking Practice
+Dialogue: 0,0:06:22.00,0:06:26.00,Default,,0,0,0,,Today our problem deals with this balloon.
 Dialogue: 0,0:06:27.00,0:06:31.00,Default,,0,0,0,,We affix this balloon to this trolley here.
 Dialogue: 0,0:06:35.00,0:06:39.00,Default,,0,0,0,,When we push this trolley forward...
 Dialogue: 0,0:06:40.00,0:06:44.00,Default,,0,0,0,,What will happen to the balloon?
 Dialogue: 0,0:06:47.00,0:06:49.00,Default,,0,0,0,,It tilted backwards.
 Dialogue: 0,0:06:49.00,0:06:52.00,Default,,0,0,0,,You understand this so far, don't you?
 Dialogue: 0,0:06:53.00,0:06:56.00,Default,,0,0,0,,Now, this is the problem.
-Dialogue: 0,0:06:56.00,0:07:04.00,Default,,0,0,0,,This time we put a transparent box
+Dialogue: 0,0:06:56.00,0:07:04.00,Default,,0,0,0,,This time we put a transparent box on the trolley
 Dialogue: 0,0:07:04.00,0:07:09.00,Default,,0,0,0,,and push it
 Dialogue: 0,0:07:14.00,0:07:18.00,Default,,0,0,0,,Now, before we push the cart...
 Dialogue: 0,0:07:18.00,0:07:21.00,Default,,0,0,0,,What will happen to the balloon?
@@ -82,7 +94,29 @@ Dialogue: 0,0:07:21.00,0:07:26.00,Default,,0,0,0,,1. Like before it will tilt ba
 Dialogue: 0,0:07:26.00,0:07:30.00,Default,,0,0,0,,2. It will do the opposite, and tilt forward.
 Dialogue: 0,0:07:30.00,0:07:33.00,Default,,0,0,0,,3. It will remain as it is, and not tilt.
 Dialogue: 0,0:07:34.00,0:07:38.00,Default,,0,0,0,,Everyone, think really carefully about it, won't you?
-Dialogue: 0,0:07:50.00,0:08:40.00,Default,,0,0,0,,♪\N～
+Dialogue: 0,0:07:50.00,0:07:53.35,white-large,,0,0,0,,{\pos(330,113)}Today's Discovery
+Dialogue: 0,0:07:50.00,0:07:53.35,white-small,,0,0,0,,{\pos(386.615,286.538)}The Mystery of the\N The Sweet Chestnut
+Dialogue: 0,0:07:53.35,0:07:57.12,white-large,,0,0,0,,Not enough to mention
+Dialogue: 0,0:07:57.12,0:07:59.62,white-large,,0,0,0,,fine as a needle's point
+Dialogue: 0,0:07:59.62,0:08:03.50,white-large,,0,0,0,,today's discovery
+Dialogue: 0,0:08:03.50,0:08:06.87,white-large,,0,0,0,,While eating a sweet chestnut
+Dialogue: 0,0:08:06.87,0:08:10.20,white-large,,0,0,0,,what's this? It's awfully flattened
+Dialogue: 0,0:08:10.20,0:08:13.71,white-large,,0,0,0,,The others were all rounded
+Dialogue: 0,0:08:11.57,0:08:13.71,white-small,,0,0,0,,{\pos(294.769,154.923)}rounded
+Dialogue: 0,0:08:13.71,0:08:17.48,white-large,,0,0,0,,This side is all flat
+Dialogue: 0,0:08:15.37,0:08:17.37,white-small,,0,0,0,,{\pos(252.923,201.077)}flattened
+Dialogue: 0,0:08:17.48,0:08:20.71,white-large,,0,0,0,,Let's try to fit the flat parts together
+Dialogue: 0,0:08:20.71,0:08:22.48,white-large,,0,0,0,,So. Then maybe...
+Dialogue: 0,0:08:22.48,0:08:24.42,white-large,,0,0,0,,in this way, in the shell
+Dialogue: 0,0:08:24.42,0:08:27.55,white-large,,0,0,0,,were they stuck together
+Dialogue: 0,0:08:27.55,0:08:34.56,white-large,,0,0,0,,there's a reason in it its shape
+Dialogue: 0,0:08:34.56,0:08:40.50,white-large,,0,0,0,,my goodness, today's discovery
+Dialogue: 0,0:08:42.07,0:08:45.44,white-small,,0,0,0,,{\pos(394.462,41.077)}one each day
+Dialogue: 0,0:08:42.07,0:08:45.44,white-small,,0,0,0,,{\pos(458.462,129.692)}Today's discovery.
+Dialogue: 0,0:08:45.94,0:08:54.08,black-small,,0,0,0,,{\pos(226.462,118)}Q. When we push the cart, what will happen to the balloon?
+Dialogue: 0,0:08:45.94,0:08:54.08,black-small,,0,0,0,,{\pos(356.923,287.846)}3. It will remain as it is
+Dialogue: 0,0:08:45.94,0:08:54.08,black-small,,0,0,0,,{\pos(344.615,241.692)}2. It will tilt forward
+Dialogue: 0,0:08:45.94,0:08:54.08,black-small,,0,0,0,,{\pos(352,198)}1. It will tilt backwards
 Dialogue: 0,0:08:47.00,0:08:49.00,Default,,0,0,0,,Now the answer to our question earlier.
 Dialogue: 0,0:08:50.00,0:08:53.00,Default,,0,0,0,,Did you think it through properly?
 Dialogue: 0,0:08:55.00,0:08:59.00,Default,,0,0,0,,Now then, let's really try it.
@@ -90,11 +124,17 @@ Dialogue: 0,0:08:59.00,0:09:01.00,Default,,0,0,0,,Let's go.
 Dialogue: 0,0:09:01.00,0:09:07.00,Default,,0,0,0,,What will happen to the balloon.\NLook really carefully.
 Dialogue: 0,0:09:11.00,0:09:14.00,Default,,0,0,0,,Did you get it?
 Dialogue: 0,0:09:15.00,0:09:17.00,Default,,0,0,0,,Let's look at that once more.
-Dialogue: 0,0:09:17.00,0:09:27.00,Default,,0,0,0,,♪\N～
 Dialogue: 0,0:09:27.00,0:09:30.00,Default,,0,0,0,,The answer...
+Dialogue: 0,0:09:28.91,0:09:34.29,white-large,,0,0,0,,{\pos(456,297.692)}2. It tilts forward
 Dialogue: 0,0:09:34.00,0:09:37.00,Default,,0,0,0,,But why do you think that happens?
 Dialogue: 0,0:09:38.00,0:09:42.00,Default,,0,0,0,,In things there is a property that tries to remain the same.
 Dialogue: 0,0:09:43.00,0:09:46.00,Default,,0,0,0,,Covering the balloon with a box and pushing the cart...
-Dialogue: 0,0:09:47.00,0:09:50.00,Default,,0,0,0,,The air in the box remains in place...
+Dialogue: 0,0:09:47.00,0:09:50.00,Default,,0,0,0,,the air in the box remains in place...
+Dialogue: 0,0:09:49.67,0:09:59.98,black-large,,0,0,0,,{\pos(290.462,239.846)}Thinking Crow
+Dialogue: 0,0:09:49.67,0:09:59.98,black-small,,0,0,0,,{\pos(280,122.308)}thinking scientifically
+Dialogue: 0,0:09:49.67,0:09:59.98,black-small,,0,0,0,,{\pos(138.462,60.154)}translation: on3
+Dialogue: 0,0:09:49.67,0:09:59.98,black-small,,0,0,0,,{\pos(198.154,76.77)}https://github.com/on-three/kurasu
+Dialogue: 0,0:09:49.67,0:09:59.98,black-small,,0,0,0,,{\pos(509.539,55.847)}#/tv/shows@rizon
 Dialogue: 0,0:09:50.00,0:09:53.00,Default,,0,0,0,,From her on we think for ourselves.
 Dialogue: 0,0:09:54.00,0:09:57.00,Default,,0,0,0,,From here on we're thinking crows.
+Dialogue: 0,0:09:56.51,0:09:59.98,black-small,,0,0,0,,{\pos(529.846,232.461)}end
