@@ -16,9 +16,9 @@ Video File: ../video/Thinking.Crow.s01e03.ts
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.625000
-Scroll Position: 73
-Active Line: 81
-Video Position: 15647
+Scroll Position: 76
+Active Line: 89
+Video Position: 15763
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -97,8 +97,10 @@ Dialogue: 0,0:07:21.00,0:07:26.00,Default,,0,0,0,,1. Like before it will tilt ba
 Dialogue: 0,0:07:26.00,0:07:30.00,Default,,0,0,0,,2. It will do the opposite, and tilt forward.
 Dialogue: 0,0:07:30.00,0:07:33.00,Default,,0,0,0,,3. It will remain as it is, and not tilt.
 Dialogue: 0,0:07:34.00,0:07:38.00,Default,,0,0,0,,Everyone, think really carefully about it, won't you?
-Dialogue: 0,0:07:50.00,0:07:53.35,white-large,,0,0,0,,{\pos(330,113)}Today's Discovery
-Dialogue: 0,0:07:50.00,0:07:53.35,white-small,,0,0,0,,{\pos(386.615,286.538)}The Mystery of the\N The Sweet Chestnut
+Dialogue: 0,0:07:41.24,0:07:47.08,black-large,,0,0,0,,{\pos(276.923,248.462)}Thinking Crow
+Dialogue: 0,0:07:41.24,0:07:47.08,black-small,,0,0,0,,{\pos(275.692,127.847)}thinking scientifically
+Dialogue: 0,0:07:48.01,0:07:53.35,white-large,,0,0,0,,{\pos(330,113)}Today's Discovery
+Dialogue: 0,0:07:48.01,0:07:53.35,white-small,,0,0,0,,{\pos(386.615,286.538)}The Mystery of the\N The Sweet Chestnut
 Dialogue: 0,0:07:53.35,0:07:57.12,white-large,,0,0,0,,Not enough to mention
 Dialogue: 0,0:07:57.12,0:07:59.62,white-large,,0,0,0,,fine as a needle's point
 Dialogue: 0,0:07:59.62,0:08:03.50,white-large,,0,0,0,,today's discovery
@@ -108,12 +110,12 @@ Dialogue: 0,0:08:10.20,0:08:13.71,white-large,,0,0,0,,The others were all rounde
 Dialogue: 0,0:08:11.57,0:08:13.71,white-small,,0,0,0,,{\pos(294.769,154.923)}rounded
 Dialogue: 0,0:08:13.71,0:08:17.48,white-large,,0,0,0,,This side is all flat
 Dialogue: 0,0:08:15.37,0:08:17.37,white-small,,0,0,0,,{\pos(252.923,201.077)}flattened
-Dialogue: 0,0:08:17.48,0:08:20.71,white-large,,0,0,0,,Let's try to fit the flat parts together
-Dialogue: 0,0:08:20.71,0:08:22.48,white-large,,0,0,0,,So. Then maybe...
+Dialogue: 0,0:08:17.48,0:08:20.71,white-large,,0,0,0,,Let's try to fit the flat parts together?
+Dialogue: 0,0:08:20.71,0:08:22.48,white-large,,0,0,0,,So. Then perhaps...
 Dialogue: 0,0:08:22.48,0:08:24.42,white-large,,0,0,0,,in this way, in the shell
-Dialogue: 0,0:08:24.42,0:08:27.55,white-large,,0,0,0,,were they stuck together
+Dialogue: 0,0:08:24.42,0:08:27.55,white-large,,0,0,0,,were they stuck together?
 Dialogue: 0,0:08:27.55,0:08:34.56,white-large,,0,0,0,,there's a reason in it its shape
-Dialogue: 0,0:08:34.56,0:08:40.50,white-large,,0,0,0,,my goodness, today's discovery
+Dialogue: 0,0:08:34.56,0:08:40.50,white-large,,0,0,0,,wow, today's discovery
 Dialogue: 0,0:08:42.07,0:08:45.44,white-small,,0,0,0,,{\pos(394.462,41.077)}one each day
 Dialogue: 0,0:08:42.07,0:08:45.44,white-small,,0,0,0,,{\pos(458.462,129.692)}Today's discovery.
 Dialogue: 0,0:08:45.94,0:08:54.08,black-small,,0,0,0,,{\pos(226.462,118)}Q. When we push the cart, what will happen to the balloon?
