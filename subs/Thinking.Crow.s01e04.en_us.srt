@@ -1,0 +1,250 @@
+1
+00:00:03,000 --> 00:00:08,009
+｢There was a hungry crow｣
+
+
+2
+00:00:09,000 --> 00:00:14,009
+｢who wanted to get some feed｣
+
+
+3
+00:00:15,000 --> 00:00:20,009
+｢if only this beak were a little longer｣
+
+
+4
+00:00:21,000 --> 00:00:26,006
+｢that feed would be a bit closer｣
+
+
+5
+00:00:26,006 --> 00:00:44,006
+♪
+～
+
+
+6
+00:00:44,006 --> 00:01:00,009
+｢a crow can think｣
+
+
+7
+00:01:01,000 --> 00:01:09,006
+｢can think... can think｣
+
+
+8
+00:01:11,004 --> 00:01:17,002
+Observe, formulate a hypothesis, experiment and consider.
+
+
+9
+00:01:17,003 --> 00:01:20,006
+Learn the way of scientific thought.
+
+10
+00:01:27,006 --> 00:01:31,006
+Today we begin with a Thinking Hint.
+
+
+11
+00:01:33,003 --> 00:01:38,000
+Everyone, how can you think about the next problem?
+
+12
+00:02:18,003 --> 00:02:22,003
+That is to say, these three.
+
+13
+00:02:39,006 --> 00:02:42,006
+Now, question 2.
+
+14
+00:02:42,006 --> 00:02:47,009
+Suppose there was one bacteria in this cup.
+
+15
+00:02:48,000 --> 00:02:52,006
+Within one minute, the bacteria divides
+
+16
+00:02:52,006 --> 00:02:57,006
+That is to say, after one minute, there's two bacteria.
+In two minutes, four.
+
+17
+00:02:57,006 --> 00:03:02,006
+In three minutes, it became eight.
+
+18
+00:03:02,006 --> 00:03:05,009
+The bacteria continues dividing.
+
+19
+00:03:06,000 --> 00:03:11,006
+In one hour the cup is completely full.
+
+20
+00:03:11,006 --> 00:03:14,002
+Now this is the question.
+
+21
+00:03:14,003 --> 00:03:16,006
+Within the one hour
+
+22
+00:03:16,006 --> 00:03:20,006
+there is a point where the cup is exactly half full.
+
+23
+00:03:20,006 --> 00:03:23,009
+This point where the cup precisely half full
+
+24
+00:03:24,000 --> 00:03:27,003
+how many minutes from the start is it?
+
+25
+00:03:41,006 --> 00:03:46,003
+Please think now. You have 30 seconds.
+
+26
+00:04:08,000 --> 00:04:11,001
+It's time.
+
+27
+00:04:11,001 --> 00:04:18,006
+This bacteria has a property of doubling each minute.
+
+28
+00:04:18,006 --> 00:04:21,009
+You can think about this in the opposite way.
+
+29
+00:04:22,000 --> 00:04:27,002
+That each minute before, it continually halves.
+
+30
+00:04:27,003 --> 00:04:31,002
+That is to say when the cup is exactly half full
+
+31
+00:04:31,003 --> 00:04:37,000
+Is one minute before 60 minutes.
+59 minutes after the start time.
+
+32
+00:04:40,006 --> 00:04:44,000
+We can think in reverse.
+
+33
+00:04:48,008 --> 00:04:57,006
+♪
+～
+
+
+34
+00:05:00,006 --> 00:06:39,003
+♪
+～
+
+
+35
+00:06:50,000 --> 00:06:54,002
+Now, today our problem deals with water and some scales.
+
+36
+00:06:54,003 --> 00:06:56,005
+Please look at these scales.
+
+37
+00:06:56,005 --> 00:07:00,006
+We place a filled beaker on them.
+
+38
+00:07:00,006 --> 00:07:05,006
+It's balanced.
+
+39
+00:07:05,006 --> 00:07:10,006
+Now, i stand like this right near the scales.
+
+40
+00:07:10,006 --> 00:07:16,007
+I raise my hand and, without touching the beaker...
+
+41
+00:07:16,008 --> 00:07:24,003
+gently put my finger in the water.
+What will happen to the scales?
+
+42
+00:07:35,003 --> 00:07:38,006
+Well, let's give it a try.
+
+43
+00:07:42,006 --> 00:07:45,006
+We'll reveal the answer at the end of the program.
+
+44
+00:07:45,006 --> 00:07:49,003
+Think really carefully, won't you?
+
+45
+00:07:51,006 --> 00:08:07,000
+♪
+～
+
+
+46
+00:08:10,006 --> 00:09:00,008
+♪
+～
+
+
+47
+00:09:08,001 --> 00:09:11,006
+And now the answer to our problem.
+
+48
+00:09:11,006 --> 00:09:16,007
+Did everyone think carefully?
+
+49
+00:09:16,008 --> 00:09:19,009
+Well then, let's try it.
+
+50
+00:09:20,000 --> 00:09:25,000
+Let's go.
+Please look very carefully.
+
+51
+00:09:30,000 --> 00:09:34,000
+When I put the tip of my finger in, the scales shifted.
+
+52
+00:09:38,000 --> 00:09:42,006
+Why do you think that is, even though I only put my finger in the water?
+
+53
+00:09:42,006 --> 00:09:45,006
+When I put my finger into the water...
+
+54
+00:09:45,006 --> 00:09:48,007
+That part of my finger displaces some water.
+
+55
+00:09:48,008 --> 00:09:51,002
+Really, this...
+
+56
+00:09:51,003 --> 00:09:54,006
+From here on we think for ourselves.
+
+57
+00:09:54,006 --> 00:09:57,000
+From here on we're all thinking crows.
+
