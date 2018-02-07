@@ -14,9 +14,9 @@ Audio File: ../video/Thinking.Crow.s01e04.ts
 Video File: ../video/Thinking.Crow.s01e04.ts
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 33
-Active Line: 53
-Video Position: 12258
+Scroll Position: 27
+Active Line: 41
+Video Position: 7609
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -69,8 +69,13 @@ Dialogue: 0,0:03:24.00,0:03:27.00,Default,,0,0,0,,how many minutes from the star
 Dialogue: 0,0:03:41.00,0:03:46.00,Default,,0,0,0,,Please think now. You have 30 seconds.
 Dialogue: 0,0:04:08.00,0:04:11.00,Default,,0,0,0,,It's time.
 Dialogue: 0,0:04:11.00,0:04:18.00,Default,,0,0,0,,This bacteria has a property of doubling each minute.
+Dialogue: 0,0:04:13.87,0:04:43.93,white-small,,0,0,0,,{\pos(239,62)}1 min.
+Dialogue: 0,0:04:15.60,0:04:43.93,white-small,,0,0,0,,{\pos(379,63)}1 min.
 Dialogue: 0,0:04:18.00,0:04:21.00,Default,,0,0,0,,You can think about this in the opposite way.
 Dialogue: 0,0:04:22.00,0:04:27.00,Default,,0,0,0,,That each minute it continually halves.
+Dialogue: 0,0:04:28.15,0:04:43.93,white-small,,0,0,0,,{\pos(460,195)}60 min.\Nlater
+Dialogue: 0,0:04:28.15,0:04:33.65,white-small,,0,0,0,,{\pos(325,191)}? min.\Nlater
+Dialogue: 0,0:04:33.65,0:04:43.93,white-small,,0,0,0,,{\pos(325,191)}59 min.\Nlater
 Dialogue: 0,0:04:27.00,0:04:31.00,Default,,0,0,0,,That is to say when the cup is exactly half full
 Dialogue: 0,0:04:31.00,0:04:37.00,Default,,0,0,0,,Is one minute before 60 minutes.\N59 minutes after the start time.
 Dialogue: 0,0:04:39.86,0:04:43.96,white-large,,0,0,0,,{\pos(97,269)}Thinking Hint
