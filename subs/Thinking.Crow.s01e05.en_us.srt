@@ -1,0 +1,465 @@
+1
+00:00:03,000 --> 00:00:08,009
+♪
+｢there was a hungry crow｣
+
+
+2
+00:00:09,000 --> 00:00:14,009
+♪
+｢who wanted to get some feed｣
+
+
+3
+00:00:15,000 --> 00:00:20,009
+♪
+｢if only this beak were longer｣
+
+
+4
+00:00:21,000 --> 00:00:26,006
+♪
+｢あの餌が もっと
+こっちに来れば｣
+that feed would be a bit closer
+
+
+5
+00:00:26,006 --> 00:00:44,006
+♪
+～
+
+
+6
+00:00:44,006 --> 00:01:00,009
+♪
+｢a crow can think｣
+
+
+7
+00:01:01,000 --> 00:01:09,006
+♪
+｢can think... can think｣
+
+
+8
+00:01:11,004 --> 00:01:17,002
+(
+斎藤
+)観察し
+仮
+説を立て
+実験をし 考察する｡
+Observe, propose a hypothesis, experiment, and then consider.
+
+9
+00:01:17,003 --> 00:01:20,006
+科学の考え方を学べ｡
+Learn the way of scientific thought.
+
+10
+00:01:28,004 --> 00:01:32,009
+(山本)まずは
+｢考える観察｣から｡
+We begin with a ｢Thinking Observation｣
+
+11
+00:01:33,000 --> 00:01:36,009
+今日は 電車の音を観察してみる｡
+Today we observe the sounds a train makes.
+
+12
+00:01:37,000 --> 00:01:38,009
+(電車の音)
+
+
+13
+00:01:39,000 --> 00:01:45,005
+この ｶﾞﾀﾝｺﾞﾄﾝという音は
+どこで 鳴っているのか｡
+This 'click-clack' noise. What's making it?
+
+14
+00:01:47,005 --> 00:01:51,008
+電車から おりて観察する｡
+We obvserve from outside the train.
+
+15
+00:01:59,003 --> 00:02:03,007
+ここでは ｶﾞﾀﾝｺﾞﾄﾝ鳴っていない｡
+The 'click-clack' noise doesn't come from here.
+
+16
+00:02:07,007 --> 00:02:09,007
+移動
+してみる｡
+Let's try moving.
+
+17
+00:02:15,000 --> 00:02:16,009
+(電車の音)
+
+
+18
+00:02:17,000 --> 00:02:20,007
+ここでは ｶﾞﾀﾝｺﾞﾄﾝ鳴っている｡
+The 'click-clack' noise comes from here.
+
+19
+00:02:22,003 --> 00:02:28,000
+さっきの場所と
+何が ちがうのか？
+How is this place different from the last?
+
+20
+00:02:28,001 --> 00:02:31,008
+２つの場所を くらべてみる｡
+Let's try comparing the two places.
+
+21
+00:02:36,007 --> 00:02:39,004
+ﾚｰﾙに 注目してみると…｡
+If we pay close attention to the rails...
+
+22
+00:02:43,006 --> 00:02:48,006
+こっちには
+ﾚｰﾙに 何か付いている｡
+Here, there's something attached to the rails.
+
+23
+00:02:50,008 --> 00:02:57,004
+ここに注目して
+音を観察してみる｡
+Let's observe the noise while watching this place closely 
+
+24
+00:02:57,004 --> 00:03:04,003
+(電車の音)
+
+
+25
+00:03:04,003 --> 00:03:07,002
+車輪が ここを通るたびに…｡
+Each time the train wheeels pass here...
+
+26
+00:03:07,003 --> 00:03:10,006
+(電車の音)
+
+
+27
+00:03:10,006 --> 00:03:13,008
+音が
+
+鳴っている｡
+We hear the noise.
+
+28
+00:03:13,008 --> 00:03:17,003
+一体 これは何なのか？
+What on earth is this?
+
+29
+00:03:19,002 --> 00:03:21,004
+よく見てみると…｡
+If we look very carefully...
+
+30
+00:03:24,000 --> 00:03:28,004
+ﾚｰﾙに 切れ目が入っている｡
+there's a gap in the rails.
+
+31
+00:03:28,004 --> 00:03:30,004
+真横から見ると
+→
+If we look from the side...
+
+32
+00:03:30,004 --> 00:03:34,001
+すき間が 空いている｡
+The crack widens.
+
+33
+00:03:34,002 --> 00:03:39,009
+この切れ目を 車輪が通る時に
+音が鳴っているのか？
+Does the sound arise when the train wheels pass over this gap?
+
+34
+00:03:40,000 --> 00:03:49,002
+(電車の音)
+
+
+35
+00:03:49,003 --> 00:03:54,009
+家で 机をずらして
+切れ目を作ってみた｡
+By shifting a desk, we tried to make such a gap at home.
+
+36
+00:03:58,009 --> 00:04:00,009
+(切れ目の上を
+
+通る音)
+
+
+37
+00:04:00,009 --> 00:04:03,001
+たしかに 鳴った｡
+It certainly does make a sound.
+
+38
+00:04:14,005 --> 00:04:24,006
+♪
+～
+
+
+39
+00:04:26,006 --> 00:05:14,003
+♪
+～
+
+
+40
+00:05:22,002 --> 00:05:49,004
+♪
+～
+
+
+41
+00:05:52,001 --> 00:06:20,001
+♪
+～
+
+
+42
+00:06:39,001 --> 00:06:44,000
+(
+蒼井
+)さて 今日は
+風船と ﾊﾟｲﾌﾟを使った問題です｡
+Well then, today our problem deals with a pipe and some balloons.
+
+43
+00:06:44,000 --> 00:06:50,002
+ﾊﾟｲﾌﾟの両側に 大きな風船と
+小さな風船が 付いていますが
+→
+On each side of the pipe is a big baloon and a small one.
+
+
+44
+00:06:50,002 --> 00:06:54,006
+この２つの風船は
+もともと同じ物です｡
+These two balloons are the same type.
+
+45
+00:06:54,006 --> 00:06:58,007
+このﾊﾟｲﾌﾟは
+中が 空どうになっています｡
+What will happen to the air in this pipe?
+
+46
+00:06:58,008 --> 00:07:05,000
+でも ここに
+弁
+が付いていて
+中が 仕切られています｡
+but here, this valve partitions it.
+
+47
+00:07:05,000 --> 00:07:08,001
+なので ２つの風船の中の空気は
+→
+Surely the air in the two balloons
+
+48
+00:07:08,002 --> 00:07:11,002
+自由に行き来する事が
+できません｡
+can't move freely between them.
+
+49
+00:07:11,002 --> 00:07:14,007
+ここを ひねる事で
+中の弁が開いて
+→
+When we twist here, the valve between the two opens
+
+50
+00:07:14,007 --> 00:07:20,009
+２つの風船の中の空気が
+自由に行き来できる事になります｡
+the air in the two balloons can then move freely between them.
+
+51
+00:07:21,000 --> 00:07:24,001
+さて ここからが 問題です｡
+Now this is the problem.
+
+52
+00:07:24,001 --> 00:07:26,003
+この弁を開いた時
+→
+When I open this valve...
+
+53
+00:07:26,003 --> 00:07:30,003
+風船は どのように
+変化するでしょうか？
+How do you think the balloons will change?
+
+54
+00:07:30,004 --> 00:07:36,003
+１ 大きい風船が さらに ふくらみ
+小さい風船は しぼむ｡
+1 The large balloon will increase in size further, and the smaller balloon will shrink.
+
+55
+00:07:36,003 --> 00:07:42,008
+２ 大きい風船が しぼみ
+２つの風船が 同じ大きさになる｡
+2. The large balloon will shrink and both ballons will assume the same size.
+
+56
+00:07:42,008 --> 00:07:47,003
+３ このまま 変わらない｡
+2. The balloons will remain unchanged.
+
+57
+00:07:47,004 --> 00:07:50,004
+答えは 番組の最後で発表します｡
+We'll reveal the answer at the end of the program.
+
+58
+00:07:50,004 --> 00:07:55,002
+みなさん 考えておいて下さいね｡
+Everyone, please think about it won't you?
+
+59
+00:07:55,002 --> 00:08:04,008
+♪
+～
+
+
+60
+00:08:04,008 --> 00:08:11,006
+観察 仮説 実験
+そして考察｡
+Observation, hypothesis, experiment, and then reflection.
+
+61
+00:08:11,006 --> 00:08:14,002
+科学の考え方…
+Thinking scientifically...
+
+
+62
+00:08:24,009 --> 00:08:29,008
+では 先ほどの答えです｡
+みなさん ちゃんと考えましたか？
+And now the answer to our problem.
+Everyone did you think carefully?
+
+63
+00:08:29,008 --> 00:08:37,008
+１ 大きい風船が さらに ふくらみ
+小さい風船は しぼむ｡
+1. The larger ballon will grow bigger and the small balloon will shrink.
+
+64
+00:08:37,008 --> 00:08:44,003
+２ 大きい風船が しぼみ
+２つの風船が 同じ大きさになる｡
+2. The larger baloon will shrink and both balloons will assume the same size.
+
+65
+00:08:44,003 --> 00:08:49,004
+３ このまま 変わらない｡
+3. They will remain unchanged.
+
+66
+00:08:49,004 --> 00:08:51,009
+では やってみましょう｡
+Well then, let's try it.
+
+67
+00:08:52,000 --> 00:08:59,003
+風船がどうなるか
+よく見ていて下さいね｡
+What will happen to the balloons?
+Watch carefully, won't you?
+
+68
+00:08:59,004 --> 00:09:14,007
+(空気の音)
+
+
+69
+00:09:14,007 --> 00:09:16,008
+大きい風船は さらに ふくらみ
+→
+The larger balloon became even larger
+
+70
+00:09:16,009 --> 00:09:20,000
+小さい風船は
+しぼんでしまいました｡
+And the smaller balloon shrunk.
+
+71
+00:09:20,001 --> 00:09:22,003
+もう１回 見てみましょう｡
+Let's watch that one more time.
+
+72
+00:09:22,004 --> 00:09:29,009
+♪
+～
+
+
+73
+00:09:29,009 --> 00:09:33,002
+答えは
+大きい風船が さらに
+The answer is that the larger baloon will increase further in size
+ふくらみ
+→
+
+
+74
+00:09:33,003 --> 00:09:37,000
+小さい風船は しぼむでした｡
+and the smaller balloon will shrink.
+
+75
+00:09:37,000 --> 00:09:39,007
+どうしてでしょう｡
+Why do you suppose that is?
+
+76
+00:09:39,007 --> 00:09:44,004
+その ひみつは 風船の中の
+空気の あつ力にあります｡
+The secret is that inside each balloon there is air pressure.
+
+77
+00:09:44,004 --> 00:09:48,002
+大きい風船は
+中の空気の あつ力が低く…｡
+Inside the larger baloon that pressure is lower...
+
+78
+00:09:48,002 --> 00:09:52,001
+ここから先は 自分で考えよう｡
+from here on we think for ourselves.
+
+79
+00:09:52,002 --> 00:09:56,000
+これからは
+みんなが ｢考えるｶﾗｽ｣｡
+Now everyone is a thinking crow.
+
