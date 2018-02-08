@@ -247,20 +247,20 @@ Well then, today our problem deals with a pipe and some balloons.
 ﾊﾟｲﾌﾟの両側に 大きな風船と
 小さな風船が 付いていますが
 →
-On each side of the pipe is a big baloon and a small one.
+A large baloon and a small one are attached on either side of the pipe.
 
 
 44
 00:06:50,002 --> 00:06:54,006
 この２つの風船は
 もともと同じ物です｡
-These two balloons are the same type.
+The two balloons are of the same type.
 
 45
 00:06:54,006 --> 00:06:58,007
 このﾊﾟｲﾌﾟは
 中が 空どうになっています｡
-What will happen to the air in this pipe?
+The interior of this pipe is hollow.
 
 46
 00:06:58,008 --> 00:07:05,000
@@ -268,13 +268,13 @@ What will happen to the air in this pipe?
 弁
 が付いていて
 中が 仕切られています｡
-but here, this valve partitions it.
+But here there is a valve, which closes the pipe.
 
 47
 00:07:05,000 --> 00:07:08,001
 なので ２つの風船の中の空気は
 →
-Surely the air in the two balloons
+So therefore, the air in the two balloons
 
 48
 00:07:08,002 --> 00:07:11,002
@@ -287,13 +287,13 @@ can't move freely between them.
 ここを ひねる事で
 中の弁が開いて
 →
-When we twist here, the valve between the two opens
+When we twist here, the valve inside opens.
 
 50
 00:07:14,007 --> 00:07:20,009
 ２つの風船の中の空気が
 自由に行き来できる事になります｡
-the air in the two balloons can then move freely between them.
+the air in the two balloons can then come and go freely.
 
 51
 00:07:21,000 --> 00:07:24,001
@@ -362,7 +362,7 @@ Thinking scientifically...
 では 先ほどの答えです｡
 みなさん ちゃんと考えましたか？
 And now the answer to our problem.
-Everyone did you think carefully?
+Everyone, did you think carefully?
 
 63
 00:08:29,008 --> 00:08:37,008
@@ -425,9 +425,9 @@ Let's watch that one more time.
 00:09:29,009 --> 00:09:33,002
 答えは
 大きい風船が さらに
-The answer is that the larger baloon will increase further in size
 ふくらみ
 →
+The answer is that the larger baloon will increase further in size
 
 
 74
