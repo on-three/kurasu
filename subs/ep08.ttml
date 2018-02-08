@@ -1,0 +1,880 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cuepoints x="170" y="450" font="ＭＳ ゴシック,Osaka−等幅,ヒラギノ角ゴ ProW3,Osaka" color="0xffffff" size="36" underline="false" bold="false" italic="false" ruby="false">
+<cuepoint name="1" time="2.967"/>
+<cuepoint name="2" time="3">
+<subtitle id="201" x="210" y="450" xx="210" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="♪" gaiji_pattern="000000000000000000000000F000000FFF00001FFFF00003FFF300003FE0300003800300003000300003007F000033FFF00003FFFF00003FF8300003C00300003000300003000300003000300003000300003000300003000300003000300003000300003000700003001F00003003F0000F007F0003F00FE0007E00FE000FE01FC001FC01F8001FC00F0003F80060003F00000001E00000000C0000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+<subtitle id="202" x="254" y="450" xx="254" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="67" height="40">
+<![CDATA[｢お]]>
+</subtitle>
+<subtitle id="203" x="321" y="450" xx="321" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="44" height="40">
+<![CDATA[腹]]>
+</subtitle>
+<subtitle id="204" x="324" xx="324" y="430" yy="540" size="18" background="0x000000" opacity="0.5" lang="jpn" letterspacing="0" width="38" height="20" ruby="true">
+<![CDATA[なか]]>
+</subtitle>
+<subtitle id="205" x="365" y="450" xx="365" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="27" height="40">
+<![CDATA[ ]]>
+</subtitle>
+<subtitle id="206" x="392" y="450" xx="392" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="44" height="40">
+<![CDATA[空]]>
+</subtitle>
+<subtitle id="207" x="404" xx="404" y="430" yy="540" size="18" background="0x000000" opacity="0.5" lang="jpn" letterspacing="0" width="20" height="20" ruby="true">
+<![CDATA[す]]>
+</subtitle>
+<subtitle id="208" x="436" y="450" xx="436" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="359" height="40">
+<![CDATA[かせた ｶﾗｽがいた｣]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="3" time="8.967"/>
+<cuepoint name="4" time="9">
+<subtitle id="201" x="190" y="450" xx="190" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="♪" gaiji_pattern="000000000000000000000000F000000FFF00001FFFF00003FFF300003FE0300003800300003000300003007F000033FFF00003FFFF00003FF8300003C00300003000300003000300003000300003000300003000300003000300003000300003000300003000700003001F00003003F0000F007F0003F00FE0007E00FE000FE01FC001FC01F8001FC00F0003F80060003F00000001E00000000C0000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+<subtitle id="202" x="234" y="450" xx="234" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="187" height="40">
+<![CDATA[｢なんとか]]>
+</subtitle>
+<subtitle id="203" x="421" y="450" xx="421" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="44" height="40">
+<![CDATA[餌]]>
+</subtitle>
+<subtitle id="204" x="424" xx="424" y="430" yy="540" size="18" background="0x000000" opacity="0.5" lang="jpn" letterspacing="0" width="38" height="20" ruby="true">
+<![CDATA[えさ]]>
+</subtitle>
+<subtitle id="205" x="465" y="450" xx="465" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="330" height="40">
+<![CDATA[に ありつきたい｣]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="5" time="14.967"/>
+<cuepoint name="6" time="15">
+<subtitle id="201" x="390" y="390" xx="390" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="♪" gaiji_pattern="000000000000000000000000F000000FFF00001FFFF00003FFF300003FE0300003800300003000300003007F000033FFF00003FFFF00003FF8300003C00300003000300003000300003000300003000300003000300003000300003000300003000300003000700003001F00003003F0000F007F0003F00FE0007E00FE000FE01FC001FC01F8001FC00F0003F80060003F00000001E00000000C0000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+<subtitle id="202" x="434" y="390" xx="434" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="330" height="40">
+<![CDATA[｢この くちばしが]]>
+</subtitle>
+<subtitle id="203" x="450" y="450" xx="450" yy="620" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="307" height="40">
+<![CDATA[もっと長ければ｣]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="7" time="20.967"/>
+<cuepoint name="8" time="21">
+<subtitle id="201" x="390" y="390" xx="390" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="♪" gaiji_pattern="000000000000000000000000F000000FFF00001FFFF00003FFF300003FE0300003800300003000300003007F000033FFF00003FFFF00003FF8300003C00300003000300003000300003000300003000300003000300003000300003000300003000300003000700003001F00003003F0000F007F0003F00FE0007E00FE000FE01FC001FC01F8001FC00F0003F80060003F00000001E00000000C0000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+<subtitle id="202" x="434" y="390" xx="434" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="330" height="40">
+<![CDATA[｢あの餌が もっと]]>
+</subtitle>
+<subtitle id="203" x="450" y="450" xx="450" yy="620" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="307" height="40">
+<![CDATA[こっちに来れば｣]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="9" time="26.627"/>
+<cuepoint name="10" time="26.660">
+<subtitle id="201" x="170" y="450" xx="170" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="♪" gaiji_pattern="000000000000000000000000F000000FFF00001FFFF00003FFF300003FE0300003800300003000300003007F000033FFF00003FFFF00003FF8300003C00300003000300003000300003000300003000300003000300003000300003000300003000300003000700003001F00003003F0000F007F0003F00FE0007E00FE000FE01FC001FC01F8001FC00F0003F80060003F00000001E00000000C0000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+<subtitle id="202" x="214" y="450" xx="214" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="44" height="40">
+<![CDATA[～]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="11" time="44.627"/>
+<cuepoint name="12" time="44.660">
+<subtitle id="201" x="210" y="390" xx="210" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="♪" gaiji_pattern="000000000000000000000000F000000FFF00001FFFF00003FFF300003FE0300003800300003000300003007F000033FFF00003FFFF00003FF8300003C00300003000300003000300003000300003000300003000300003000300003000300003000300003000700003001F00003003F0000F007F0003F00FE0007E00FE000FE01FC001FC01F8001FC00F0003F80060003F00000001E00000000C0000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+<subtitle id="202" x="254" y="390" xx="254" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="508" height="40">
+<![CDATA[｢ｶﾗｽは考える ｶﾗｽは考える]]>
+</subtitle>
+<subtitle id="203" x="270" y="450" xx="270" yy="620" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="508" height="40">
+<![CDATA[ｶﾗｽは考える ｶﾗｽは考える｣]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="13" time="60.967"/>
+<cuepoint name="14" time="61">
+<subtitle id="201" x="310" y="450" xx="310" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="♪" gaiji_pattern="000000000000000000000000F000000FFF00001FFFF00003FFF300003FE0300003800300003000300003007F000033FFF00003FFFF00003FF8300003C00300003000300003000300003000300003000300003000300003000300003000300003000300003000700003001F00003003F0000F007F0003F00FE0007E00FE000FE01FC001FC01F8001FC00F0003F80060003F00000001E00000000C0000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+<subtitle id="202" x="354" y="450" xx="354" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="313" height="40">
+<![CDATA[｢考える 考える｣]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="15" time="69.660"/>
+<cuepoint name="16" time="71.462"/>
+<cuepoint name="17" time="71.495">
+<subtitle id="201" x="250" y="180" xx="250" yy="560" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="27" height="40">
+<![CDATA[(]]>
+</subtitle>
+<subtitle id="202" x="277" y="180" xx="277" yy="560" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="84" height="40">
+<![CDATA[斎藤]]>
+</subtitle>
+<subtitle id="203" x="282" xx="282" y="160" yy="540" size="18" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="0" width="74" height="20" ruby="true">
+<![CDATA[さいとう]]>
+</subtitle>
+<subtitle id="204" x="361" y="180" xx="361" yy="560" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="170" height="40">
+<![CDATA[)観察し ]]>
+</subtitle>
+<subtitle id="205" x="531" y="180" xx="531" yy="560" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="44" height="40">
+<![CDATA[仮]]>
+</subtitle>
+<subtitle id="206" x="543" xx="543" y="160" yy="540" size="18" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="0" width="20" height="20" ruby="true">
+<![CDATA[か]]>
+</subtitle>
+<subtitle id="207" x="575" y="180" xx="575" yy="560" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="164" height="40">
+<![CDATA[説を立て]]>
+</subtitle>
+<subtitle id="208" x="270" y="240" xx="270" yy="620" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="370" height="40">
+<![CDATA[実験をし 考察する｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="18" time="77.297"/>
+<cuepoint name="19" time="77.330">
+<subtitle id="201" x="290" y="450" xx="290" yy="560" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="387" height="40">
+<![CDATA[科学の考え方を学べ｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="20" time="80.660"/>
+<cuepoint name="21" time="88.231"/>
+<cuepoint name="22" time="88.264">
+<subtitle id="201" x="170" y="450" xx="170" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="622" height="40">
+<![CDATA[(山本)まずは ｢考える観察｣から｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="23" time="93.462"/>
+<cuepoint name="24" time="93.495">
+<subtitle id="201" x="170" y="390" xx="170" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="376" height="40">
+<![CDATA[今日は ｺｲﾝを使った]]>
+</subtitle>
+<subtitle id="202" x="190" y="450" xx="190" yy="620" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="610" height="40">
+<![CDATA[不思議な げん象を観察してみる｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="25" time="99.967"/>
+<cuepoint name="26" time="100">
+<subtitle id="201" x="190" y="390" xx="190" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="473" height="40">
+<![CDATA[１円玉を 10円玉２まいで]]>
+</subtitle>
+<subtitle id="202" x="210" y="450" xx="210" yy="620" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="164" height="40">
+<![CDATA[はさんで]]>
+</subtitle>
+<subtitle id="203" x="374" y="450" xx="374" yy="620" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="27" height="40">
+<![CDATA[ ]]>
+</subtitle>
+<subtitle id="204" x="401" y="450" xx="401" yy="620" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="387" height="40">
+<![CDATA[つまんで持ち上げる｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="27" time="106.297"/>
+<cuepoint name="28" time="108.726"/>
+<cuepoint name="29" time="108.759">
+<subtitle id="201" x="290" y="390" xx="290" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="393" height="40">
+<![CDATA[この 一番上の10円は]]>
+</subtitle>
+<subtitle id="202" x="310" y="450" xx="310" yy="620" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="204" height="40">
+<![CDATA[残したまま]]>
+</subtitle>
+<subtitle id="203" x="514" y="450" xx="514" yy="620" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="→" gaiji_pattern="000000000000000000000000000000000000000000000000004000000006000000007000000007800000007C00000007E00000007F00000007F807FFFFFFC07FFFFFFE07FFFFFFF07FFFFFFF87FFFFFFFC7FFFFFFFE7FFFFFFFC7FFFFFFF87FFFFFFF07FFFFFFE07FFFFFFC0000007F80000007F00000007E00000007C00000007800000007000000006000000004000000000000000000000000000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="30" time="111.891"/>
+<cuepoint name="31" time="111.924">
+<subtitle id="201" x="290" y="450" xx="290" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="387" height="40">
+<![CDATA[下の２まいを落とす｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="32" time="116.297"/>
+<cuepoint name="33" time="116.330">
+<subtitle id="201" x="290" y="450" xx="290" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="376" height="40">
+<![CDATA[上が１円 下が10円｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="34" time="120.594"/>
+<cuepoint name="35" time="120.627">
+<subtitle id="201" x="250" y="450" xx="250" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="467" height="40">
+<![CDATA[この２まいを落とすと…｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="36" time="123.594"/>
+<cuepoint name="37" time="127.495"/>
+<cuepoint name="38" time="127.528">
+<subtitle id="201" x="290" y="450" xx="290" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="370" height="40">
+<![CDATA[１円が 下になった｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="39" time="130.132"/>
+<cuepoint name="40" time="132.198"/>
+<cuepoint name="41" time="132.231">
+<subtitle id="201" x="210" y="450" xx="210" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="84" height="40">
+<![CDATA[途中]]>
+</subtitle>
+<subtitle id="202" x="215" xx="215" y="430" yy="540" size="18" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="0" width="74" height="20" ruby="true">
+<![CDATA[とちゅう]]>
+</subtitle>
+<subtitle id="203" x="294" y="450" xx="294" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="467" height="40">
+<![CDATA[で ひっくり返ったのか？]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="42" time="135.825"/>
+<cuepoint name="43" time="135.858">
+<subtitle id="201" x="330" y="450" xx="330" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="290" height="40">
+<![CDATA[もう一度 やる｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="44" time="138.066"/>
+<cuepoint name="45" time="142.495"/>
+<cuepoint name="46" time="142.528">
+<subtitle id="201" x="210" y="450" xx="210" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="530" height="40">
+<![CDATA[また １円が下になっている｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="47" time="146.363"/>
+<cuepoint name="48" time="146.396">
+<subtitle id="201" x="210" y="450" xx="210" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="530" height="40">
+<![CDATA[やはり ひっくり返っている｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="49" time="150.264"/>
+<cuepoint name="50" time="150.297">
+<subtitle id="201" x="190" y="450" xx="190" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="570" height="40">
+<![CDATA[別の組み合わせも やってみる｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="51" time="155.330"/>
+<cuepoint name="52" time="155.363">
+<subtitle id="201" x="210" y="450" xx="210" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="376" height="40">
+<![CDATA[下に 10円を １まい]]>
+</subtitle>
+<subtitle id="202" x="586" y="450" xx="586" yy="560" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="27" height="40">
+<![CDATA[ ]]>
+</subtitle>
+<subtitle id="203" x="613" y="450" xx="613" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="147" height="40">
+<![CDATA[ふやす｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="53" time="158.924"/>
+<cuepoint name="54" time="158.957">
+<subtitle id="201" x="250" y="390" xx="250" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="473" height="40">
+<![CDATA[また 一番上の10円は残し]]>
+</subtitle>
+<subtitle id="202" x="270" y="450" xx="270" yy="620" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="387" height="40">
+<![CDATA[下の３まいを落とす｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="55" time="166.594"/>
+<cuepoint name="56" time="166.627">
+<subtitle id="201" x="250" y="390" xx="250" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="124" height="40">
+<![CDATA[すると]]>
+</subtitle>
+<subtitle id="202" x="374" y="390" xx="374" yy="560" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="27" height="40">
+<![CDATA[ ]]>
+</subtitle>
+<subtitle id="203" x="401" y="390" xx="401" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="124" height="40">
+<![CDATA[３まい]]>
+</subtitle>
+<subtitle id="204" x="525" y="390" xx="525" yy="560" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="27" height="40">
+<![CDATA[ ]]>
+</subtitle>
+<subtitle id="205" x="552" y="390" xx="552" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="164" height="40">
+<![CDATA[まとめて]]>
+</subtitle>
+<subtitle id="206" x="270" y="450" xx="270" yy="620" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="284" height="40">
+<![CDATA[ひっくり返って]]>
+</subtitle>
+<subtitle id="207" x="554" y="450" xx="554" yy="620" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="→" gaiji_pattern="000000000000000000000000000000000000000000000000004000000006000000007000000007800000007C00000007E00000007F00000007F807FFFFFFC07FFFFFFE07FFFFFFF07FFFFFFF87FFFFFFFC7FFFFFFFE7FFFFFFFC7FFFFFFF87FFFFFFF07FFFFFFE07FFFFFFC0000007F80000007F00000007E00000007C00000007800000007000000006000000004000000000000000000000000000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="57" time="170.198"/>
+<cuepoint name="58" time="170.231">
+<subtitle id="201" x="230" y="450" xx="230" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="507" height="40">
+<![CDATA[１円は 一番下になるのか？]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="59" time="175.132"/>
+<cuepoint name="60" time="181.033"/>
+<cuepoint name="61" time="181.066">
+<subtitle id="201" x="250" y="450" xx="250" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="450" height="40">
+<![CDATA[１円が 真ん中になった｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="62" time="184.297"/>
+<cuepoint name="63" time="186.462"/>
+<cuepoint name="64" time="186.495">
+<subtitle id="201" x="270" y="450" xx="270" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="410" height="40">
+<![CDATA[もう一度 やってみる｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="65" time="188.693"/>
+<cuepoint name="66" time="193.660"/>
+<cuepoint name="67" time="193.693">
+<subtitle id="201" x="410" y="450" xx="410" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="147" height="40">
+<![CDATA[同じだ｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="68" time="195.693"/>
+<cuepoint name="69" time="197.891"/>
+<cuepoint name="70" time="197.924">
+<subtitle id="201" x="290" y="450" xx="290" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="370" height="40">
+<![CDATA[紙に 整理してみる｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="71" time="200.726"/>
+<cuepoint name="72" time="202.693"/>
+<cuepoint name="73" time="202.726">
+<subtitle id="201" x="290" y="390" xx="290" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="376" height="40">
+<![CDATA[最初は １円･10円が]]>
+</subtitle>
+<subtitle id="202" x="310" y="450" xx="310" yy="620" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="376" height="40">
+<![CDATA[10円･１円になった｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="74" time="211.297"/>
+<cuepoint name="75" time="211.330">
+<subtitle id="201" x="190" y="450" xx="190" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="536" height="40">
+<![CDATA[次に 下に 10円を足したら…]]>
+</subtitle>
+<subtitle id="202" x="726" y="450" xx="726" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="→" gaiji_pattern="000000000000000000000000000000000000000000000000004000000006000000007000000007800000007C00000007E00000007F00000007F807FFFFFFC07FFFFFFE07FFFFFFF07FFFFFFF87FFFFFFFC7FFFFFFFE7FFFFFFFC7FFFFFFF87FFFFFFF07FFFFFFE07FFFFFFC0000007F80000007F00000007E00000007C00000007800000007000000006000000004000000000000000000000000000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="76" time="218.099"/>
+<cuepoint name="77" time="218.132">
+<subtitle id="201" x="370" y="450" xx="370" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="227" height="40">
+<![CDATA[こうなった｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="78" time="220.462"/>
+<cuepoint name="79" time="220.495">
+<subtitle id="201" x="310" y="450" xx="310" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="330" height="40">
+<![CDATA[よく わからない｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="80" time="222.726"/>
+<cuepoint name="81" time="222.759">
+<subtitle id="201" x="230" y="390" xx="230" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="507" height="40">
+<![CDATA[もっと 別の組み合わせだと]]>
+</subtitle>
+<subtitle id="202" x="250" y="450" xx="250" yy="620" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="267" height="40">
+<![CDATA[どうなるのか｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="82" time="228.330"/>
+<cuepoint name="83" time="230.033"/>
+<cuepoint name="84" time="230.066">
+<subtitle id="201" x="230" y="390" xx="230" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="507" height="40">
+<![CDATA[今度は １円を真ん中にして]]>
+</subtitle>
+<subtitle id="202" x="250" y="450" xx="250" yy="620" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="267" height="40">
+<![CDATA[落としてみる｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="85" time="236.330"/>
+<cuepoint name="86" time="241.231"/>
+<cuepoint name="87" time="241.264">
+<subtitle id="201" x="250" y="450" xx="250" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="450" height="40">
+<![CDATA[１円が 一番下になった｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="88" time="244.858"/>
+<cuepoint name="89" time="246.594"/>
+<cuepoint name="90" time="246.627">
+<subtitle id="201" x="270" y="450" xx="270" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="410" height="40">
+<![CDATA[これも 紙にまとめる｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="91" time="249.396"/>
+<cuepoint name="92" time="253.429"/>
+<cuepoint name="93" time="253.462">
+<subtitle id="201" x="230" y="450" xx="230" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="467" height="40">
+<![CDATA[結果を じっと見ていると]]>
+</subtitle>
+<subtitle id="202" x="697" y="450" xx="697" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="→" gaiji_pattern="000000000000000000000000000000000000000000000000004000000006000000007000000007800000007C00000007E00000007F00000007F807FFFFFFC07FFFFFFE07FFFFFFF07FFFFFFF87FFFFFFFC7FFFFFFFE7FFFFFFFC7FFFFFFF87FFFFFFF07FFFFFFE07FFFFFFC0000007F80000007F00000007E00000007C00000007800000007000000006000000004000000000000000000000000000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="94" time="255.891"/>
+<cuepoint name="95" time="255.924">
+<subtitle id="201" x="290" y="450" xx="290" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="124" height="40">
+<![CDATA[規則性]]>
+</subtitle>
+<subtitle id="202" x="306" xx="306" y="430" yy="540" size="18" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="0" width="92" height="20" ruby="true">
+<![CDATA[きそくせい]]>
+</subtitle>
+<subtitle id="203" x="414" y="450" xx="414" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="267" height="40">
+<![CDATA[が見えてきた｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="96" time="258.627"/>
+<cuepoint name="97" time="258.660">
+<subtitle id="201" x="170" y="450" xx="170" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="♪" gaiji_pattern="000000000000000000000000F000000FFF00001FFFF00003FFF300003FE0300003800300003000300003007F000033FFF00003FFFF00003FF8300003C00300003000300003000300003000300003000300003000300003000300003000300003000300003000700003001F00003003F0000F007F0003F00FE0007E00FE000FE01FC001FC01F8001FC00F0003F80060003F00000001E00000000C0000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+<subtitle id="202" x="214" y="450" xx="214" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="44" height="40">
+<![CDATA[～]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="98" time="275.627"/>
+<cuepoint name="99" time="275.660">
+<subtitle id="201" x="170" y="390" xx="170" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="627" height="40">
+<![CDATA[…という事は この組み合わせだと]]>
+</subtitle>
+<subtitle id="202" x="190" y="450" xx="190" yy="620" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="267" height="40">
+<![CDATA[どうなるのか｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="100" time="280.693"/>
+<cuepoint name="101" time="288.462"/>
+<cuepoint name="102" time="288.495">
+<subtitle id="201" x="370" y="450" xx="370" yy="560" color="0x00ff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="227" height="40">
+<![CDATA[考える観察｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="103" time="291.957"/>
+<cuepoint name="104" time="308.594"/>
+<cuepoint name="105" time="308.627">
+<subtitle id="201" x="170" y="360" xx="170" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="♪" gaiji_pattern="000000000000000000000000F000000FFF00001FFFF00003FFF300003FE0300003800300003000300003007F000033FFF00003FFFF00003FF8300003C00300003000300003000300003000300003000300003000300003000300003000300003000300003000700003001F00003003F0000F007F0003F00FE0007E00FE000FE01FC001FC01F8001FC00F0003F80060003F00000001E00000000C0000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+<subtitle id="202" x="214" y="360" xx="214" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="44" height="40">
+<![CDATA[～]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="106" time="333.726"/>
+<cuepoint name="107" time="345.759"/>
+<cuepoint name="108" time="345.792">
+<subtitle id="201" x="170" y="360" xx="170" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="♪" gaiji_pattern="000000000000000000000000F000000FFF00001FFFF00003FFF300003FE0300003800300003000300003007F000033FFF00003FFFF00003FF8300003C00300003000300003000300003000300003000300003000300003000300003000300003000300003000700003001F00003003F0000F007F0003F00FE0007E00FE000FE01FC001FC01F8001FC00F0003F80060003F00000001E00000000C0000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+<subtitle id="202" x="214" y="360" xx="214" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="44" height="40">
+<![CDATA[～]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="109" time="360.495"/>
+<cuepoint name="110" time="360.528">
+<subtitle id="201" x="170" y="360" xx="170" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="427" height="40">
+<![CDATA[次回は 答えも合わせて]]>
+</subtitle>
+<subtitle id="202" x="190" y="420" xx="190" yy="620" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="227" height="40">
+<![CDATA[放送します｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="111" time="365.297"/>
+<cuepoint name="112" time="373.264"/>
+<cuepoint name="113" time="373.297">
+<subtitle id="201" x="210" y="270" xx="210" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="250" height="40">
+<![CDATA[今日は この ]]>
+</subtitle>
+<subtitle id="202" x="460" y="270" xx="460" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="44" height="40">
+<![CDATA[振]]>
+</subtitle>
+<subtitle id="203" x="472" xx="472" y="250" yy="540" size="18" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="0" width="20" height="20" ruby="true">
+<![CDATA[ふ]]>
+</subtitle>
+<subtitle id="204" x="504" y="270" xx="504" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="244" height="40">
+<![CDATA[り子を使った]]>
+</subtitle>
+<subtitle id="205" x="230" y="330" xx="230" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="187" height="40">
+<![CDATA[問題です｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="114" time="377.825"/>
+<cuepoint name="115" time="377.858">
+<subtitle id="201" x="190" y="330" xx="190" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="547" height="40">
+<![CDATA[玉をつかんで 手をはなすと…]]>
+</subtitle>
+<subtitle id="202" x="737" y="330" xx="737" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="→" gaiji_pattern="000000000000000000000000000000000000000000000000004000000006000000007000000007800000007C00000007E00000007F00000007F807FFFFFFC07FFFFFFE07FFFFFFF07FFFFFFF87FFFFFFFC7FFFFFFFE7FFFFFFFC7FFFFFFF87FFFFFFF07FFFFFFE07FFFFFFC0000007F80000007F00000007E00000007C00000007800000007000000006000000004000000000000000000000000000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="116" time="382.363"/>
+<cuepoint name="117" time="382.396">
+<subtitle id="201" x="250" y="330" xx="250" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="473" height="40">
+<![CDATA[ほら よく ゆれますよね｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="118" time="385.792"/>
+<cuepoint name="119" time="385.825">
+<subtitle id="201" x="290" y="330" xx="290" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="370" height="40">
+<![CDATA[これが 振り子です｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="120" time="388.264"/>
+<cuepoint name="121" time="388.297">
+<subtitle id="201" x="190" y="270" xx="190" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="570" height="40">
+<![CDATA[実は 今日 使っている振り子は]]>
+</subtitle>
+<subtitle id="202" x="210" y="330" xx="210" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="124" height="40">
+<![CDATA[特別で]]>
+</subtitle>
+<subtitle id="203" x="334" y="330" xx="334" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="→" gaiji_pattern="000000000000000000000000000000000000000000000000004000000006000000007000000007800000007C00000007E00000007F00000007F807FFFFFFC07FFFFFFE07FFFFFFF07FFFFFFF87FFFFFFFC7FFFFFFFE7FFFFFFFC7FFFFFFF87FFFFFFF07FFFFFFE07FFFFFFC0000007F80000007F00000007E00000007C00000007800000007000000006000000004000000000000000000000000000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="122" time="391.495"/>
+<cuepoint name="123" time="391.528">
+<subtitle id="201" x="270" y="240" xx="270" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="84" height="40">
+<![CDATA[先の]]>
+</subtitle>
+<subtitle id="202" x="354" y="240" xx="354" yy="560" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="27" height="40">
+<![CDATA[ ]]>
+</subtitle>
+<subtitle id="203" x="381" y="240" xx="381" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="164" height="40">
+<![CDATA[おもりが]]>
+</subtitle>
+<subtitle id="204" x="290" y="330" xx="290" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="227" height="40">
+<![CDATA[とても強い ]]>
+</subtitle>
+<subtitle id="205" x="517" y="330" xx="517" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="84" height="40">
+<![CDATA[磁石]]>
+</subtitle>
+<subtitle id="206" x="522" xx="522" y="310" yy="600" size="18" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="0" width="74" height="20" ruby="true">
+<![CDATA[じしゃく]]>
+</subtitle>
+<subtitle id="207" x="601" y="330" xx="601" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="107" height="40">
+<![CDATA[です｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="124" time="395.891"/>
+<cuepoint name="125" time="397.660"/>
+<cuepoint name="126" time="397.693">
+<subtitle id="201" x="270" y="450" xx="270" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="399" height="40">
+<![CDATA[ｸﾘｯﾌﾟを近づけると…]]>
+</subtitle>
+<subtitle id="202" x="669" y="450" xx="669" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="→" gaiji_pattern="000000000000000000000000000000000000000000000000004000000006000000007000000007800000007C00000007E00000007F00000007F807FFFFFFC07FFFFFFE07FFFFFFF07FFFFFFF87FFFFFFFC7FFFFFFFE7FFFFFFFC7FFFFFFF87FFFFFFF07FFFFFFE07FFFFFFC0000007F80000007F00000007E00000007C00000007800000007000000006000000004000000000000000000000000000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="127" time="401.462"/>
+<cuepoint name="128" time="401.495">
+<subtitle id="201" x="250" y="450" xx="250" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="450" height="40">
+<![CDATA[たくさん くっつきます｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="129" time="405.297"/>
+<cuepoint name="130" time="405.330">
+<subtitle id="201" x="170" y="450" xx="170" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="♪" gaiji_pattern="000000000000000000000000F000000FFF00001FFFF00003FFF300003FE0300003800300003000300003007F000033FFF00003FFFF00003FF8300003C00300003000300003000300003000300003000300003000300003000300003000300003000300003000700003001F00003003F0000F007F0003F00FE0007E00FE000FE01FC001FC01F8001FC00F0003F80060003F00000001E00000000C0000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+<subtitle id="202" x="214" y="450" xx="214" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="44" height="40">
+<![CDATA[～]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="131" time="414.033"/>
+<cuepoint name="132" time="414.066">
+<subtitle id="201" x="170" y="450" xx="170" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="651" height="40">
+<![CDATA[でも ここに用意した ｱﾙﾐﾆｳﾑの板｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="133" time="419.660"/>
+<cuepoint name="134" time="419.693">
+<subtitle id="201" x="370" y="450" xx="370" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="227" height="40">
+<![CDATA[これには…｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="135" time="422.231"/>
+<cuepoint name="136" time="427.330"/>
+<cuepoint name="137" time="427.363">
+<subtitle id="201" x="330" y="450" xx="330" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="307" height="40">
+<![CDATA[くっつきません｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="138" time="429.495"/>
+<cuepoint name="139" time="429.528">
+<subtitle id="201" x="210" y="390" xx="210" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="153" height="40">
+<![CDATA[ｱﾙﾐには]]>
+</subtitle>
+<subtitle id="202" x="230" y="450" xx="230" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="530" height="40">
+<![CDATA[磁石は くっつかないんです｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="140" time="432.759"/>
+<cuepoint name="141" time="432.792">
+<subtitle id="201" x="230" y="450" xx="230" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="490" height="40">
+<![CDATA[さて ここからが問題です｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="142" time="435.858"/>
+<cuepoint name="143" time="435.891">
+<subtitle id="201" x="230" y="240" xx="230" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="490" height="40">
+<![CDATA[この 磁石が くっつかない]]>
+</subtitle>
+<subtitle id="202" x="250" y="300" xx="250" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="262" height="40">
+<![CDATA[ｱﾙﾐﾆｳﾑの板を]]>
+</subtitle>
+<subtitle id="203" x="512" y="300" xx="512" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="→" gaiji_pattern="000000000000000000000000000000000000000000000000004000000006000000007000000007800000007C00000007E00000007F00000007F807FFFFFFC07FFFFFFE07FFFFFFF07FFFFFFF87FFFFFFFC7FFFFFFFE7FFFFFFFC7FFFFFFF87FFFFFFF07FFFFFFE07FFFFFFC0000007F80000007F00000007E00000007C00000007800000007000000006000000004000000000000000000000000000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="144" time="439.891"/>
+<cuepoint name="145" time="439.924">
+<subtitle id="201" x="270" y="300" xx="270" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="364" height="40">
+<![CDATA[つくえの上にのせて]]>
+</subtitle>
+<subtitle id="202" x="634" y="300" xx="634" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="→" gaiji_pattern="000000000000000000000000000000000000000000000000004000000006000000007000000007800000007C00000007E00000007F00000007F807FFFFFFC07FFFFFFE07FFFFFFF07FFFFFFF87FFFFFFFC7FFFFFFFE7FFFFFFFC7FFFFFFF87FFFFFFF07FFFFFFE07FFFFFFC0000007F80000007F00000007E00000007C00000007800000007000000006000000004000000000000000000000000000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="146" time="443.858"/>
+<cuepoint name="147" time="443.891">
+<subtitle id="201" x="290" y="240" xx="290" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="347" height="40">
+<![CDATA[そして この磁石を]]>
+</subtitle>
+<subtitle id="202" x="310" y="300" xx="310" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="370" height="40">
+<![CDATA[ここで はなします｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="148" time="448.099"/>
+<cuepoint name="149" time="448.132">
+<subtitle id="201" x="170" y="240" xx="170" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="387" height="40">
+<![CDATA[すると この振り子は]]>
+</subtitle>
+<subtitle id="202" x="190" y="300" xx="190" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="204" height="40">
+<![CDATA[どのように]]>
+</subtitle>
+<subtitle id="203" x="394" y="300" xx="394" yy="620" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="27" height="40">
+<![CDATA[ ]]>
+</subtitle>
+<subtitle id="204" x="421" y="300" xx="421" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="364" height="40">
+<![CDATA[ゆれるでしょうか？]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="150" time="453.825"/>
+<cuepoint name="151" time="453.858">
+<subtitle id="201" x="250" y="360" xx="250" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="370" height="40">
+<![CDATA[１｡ 板がない時より]]>
+</subtitle>
+<subtitle id="202" x="270" y="450" xx="270" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="302" height="40">
+<![CDATA[振れるｽﾋﾟｰﾄﾞが]]>
+</subtitle>
+<subtitle id="203" x="572" y="450" xx="572" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="44" height="40">
+<![CDATA[遅]]>
+</subtitle>
+<subtitle id="204" x="575" xx="575" y="430" yy="600" size="18" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="0" width="38" height="20" ruby="true">
+<![CDATA[おそ]]>
+</subtitle>
+<subtitle id="205" x="616" y="450" xx="616" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="124" height="40">
+<![CDATA[くなり]]>
+</subtitle>
+<subtitle id="206" x="740" y="450" xx="740" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="→" gaiji_pattern="000000000000000000000000000000000000000000000000004000000006000000007000000007800000007C00000007E00000007F00000007F807FFFFFFC07FFFFFFE07FFFFFFF07FFFFFFF87FFFFFFFC7FFFFFFFE7FFFFFFFC7FFFFFFF87FFFFFFF07FFFFFFE07FFFFFFC0000007F80000007F00000007E00000007C00000007800000007000000006000000004000000000000000000000000000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="152" time="458.132"/>
+<cuepoint name="153" time="458.165">
+<subtitle id="201" x="370" y="450" xx="370" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="227" height="40">
+<![CDATA[すぐ止まる｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="154" time="460.198"/>
+<cuepoint name="155" time="460.231">
+<subtitle id="201" x="270" y="390" xx="270" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="433" height="40">
+<![CDATA[２｡ ぎゃくに 加速して]]>
+</subtitle>
+<subtitle id="202" x="290" y="450" xx="290" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="387" height="40">
+<![CDATA[なかなか止まらない｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="156" time="464.924"/>
+<cuepoint name="157" time="464.957">
+<subtitle id="201" x="170" y="390" xx="170" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="67" height="40">
+<![CDATA[３｡]]>
+</subtitle>
+<subtitle id="202" x="190" y="450" xx="190" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="610" height="40">
+<![CDATA[板がない時と同じように 振れる｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="158" time="470.462"/>
+<cuepoint name="159" time="470.495">
+<subtitle id="201" x="170" y="240" xx="170" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="410" height="40">
+<![CDATA[さてさて どうなるか｡]]>
+</subtitle>
+<subtitle id="202" x="190" y="300" xx="190" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="610" height="40">
+<![CDATA[答えは 番組の最後に発表します｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="160" time="474.967"/>
+<cuepoint name="161" time="475">
+<subtitle id="201" x="170" y="240" xx="170" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="164" height="40">
+<![CDATA[みなさん]]>
+</subtitle>
+<subtitle id="202" x="190" y="300" xx="190" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="610" height="40">
+<![CDATA[よ～く 考えておいてくださいね｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="162" time="479.231"/>
+<cuepoint name="163" time="479.264">
+<subtitle id="201" x="170" y="390" xx="170" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="♪" gaiji_pattern="000000000000000000000000F000000FFF00001FFFF00003FFF300003FE0300003800300003000300003007F000033FFF00003FFFF00003FF8300003C00300003000300003000300003000300003000300003000300003000300003000300003000300003000700003001F00003003F0000F007F0003F00FE0007E00FE000FE01FC001FC01F8001FC00F0003F80060003F00000001E00000000C0000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+<subtitle id="202" x="214" y="390" xx="214" yy="560" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="44" height="40">
+<![CDATA[～]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="164" time="497.957"/>
+<cuepoint name="165" time="500.099"/>
+<cuepoint name="166" time="500.132">
+<subtitle id="201" x="250" y="450" xx="250" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="450" height="40">
+<![CDATA[では 先ほどの答えです｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="167" time="503.396"/>
+<cuepoint name="168" time="503.429">
+<subtitle id="201" x="170" y="450" xx="170" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="627" height="40">
+<![CDATA[みなさん ちゃんと考えましたか？]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="169" time="506.825"/>
+<cuepoint name="170" time="509.967"/>
+<cuepoint name="171" time="510">
+<subtitle id="201" x="170" y="300" xx="170" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="633" height="40">
+<![CDATA[では 実さいに やってみましょう｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="172" time="513.132"/>
+<cuepoint name="173" time="513.165">
+<subtitle id="201" x="170" y="240" xx="170" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="610" height="40">
+<![CDATA[まずは 板を 下に置かない場合を]]>
+</subtitle>
+<subtitle id="202" x="190" y="300" xx="190" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="307" height="40">
+<![CDATA[見てみましょう｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="174" time="519.462"/>
+<cuepoint name="175" time="523.462"/>
+<cuepoint name="176" time="523.495">
+<subtitle id="201" x="290" y="240" xx="290" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="307" height="40">
+<![CDATA[これが ふつうの]]>
+</subtitle>
+<subtitle id="202" x="310" y="300" xx="310" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="347" height="40">
+<![CDATA[じょうたいですね｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="177" time="526.594"/>
+<cuepoint name="178" time="526.627">
+<subtitle id="201" x="270" y="240" xx="270" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="416" height="40">
+<![CDATA[では ｱﾙﾐの板を置いて]]>
+</subtitle>
+<subtitle id="202" x="290" y="300" xx="290" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="267" height="40">
+<![CDATA[やってみます｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="179" time="532.528"/>
+<cuepoint name="180" time="535.330"/>
+<cuepoint name="181" time="535.363">
+<subtitle id="201" x="210" y="390" xx="210" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="427" height="40">
+<![CDATA[振り子が どう振れるか]]>
+</subtitle>
+<subtitle id="202" x="230" y="450" xx="230" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="124" height="40">
+<![CDATA[よ～く]]>
+</subtitle>
+<subtitle id="203" x="354" y="450" xx="354" yy="620" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="27" height="40">
+<![CDATA[ ]]>
+</subtitle>
+<subtitle id="204" x="381" y="450" xx="381" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="387" height="40">
+<![CDATA[見ていてくださいね｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="182" time="541.198"/>
+<cuepoint name="183" time="546.825"/>
+<cuepoint name="184" time="546.858">
+<subtitle id="201" x="190" y="300" xx="190" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="570" height="40">
+<![CDATA[すぐに 止まってしまいました｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="185" time="548.891"/>
+<cuepoint name="186" time="548.924">
+<subtitle id="201" x="210" y="300" xx="210" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="530" height="40">
+<![CDATA[もう一度 やってみましょう｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="187" time="551.462"/>
+<cuepoint name="188" time="558.759"/>
+<cuepoint name="189" time="558.792">
+<subtitle id="201" x="350" y="150" xx="350" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="124" height="40">
+<![CDATA[答えは]]>
+</subtitle>
+<subtitle id="202" x="474" y="150" xx="474" yy="560" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="27" height="40">
+<![CDATA[ ]]>
+</subtitle>
+<subtitle id="203" x="501" y="150" xx="501" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="84" height="40">
+<![CDATA[１の]]>
+</subtitle>
+<subtitle id="204" x="585" y="150" xx="585" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="→" gaiji_pattern="000000000000000000000000000000000000000000000000004000000006000000007000000007800000007C00000007E00000007F00000007F807FFFFFFC07FFFFFFE07FFFFFFF07FFFFFFF87FFFFFFFC7FFFFFFFE7FFFFFFFC7FFFFFFF87FFFFFFF07FFFFFFE07FFFFFFC0000007F80000007F00000007E00000007C00000007800000007000000006000000004000000000000000000000000000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="190" time="561.660"/>
+<cuepoint name="191" time="561.693">
+<subtitle id="201" x="250" y="150" xx="250" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="307" height="40">
+<![CDATA[｢板がない時より]]>
+</subtitle>
+<subtitle id="202" x="270" y="210" xx="270" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="462" height="40">
+<![CDATA[振れるｽﾋﾟｰﾄﾞが遅くなり]]>
+</subtitle>
+<subtitle id="203" x="732" y="210" xx="732" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="→" gaiji_pattern="000000000000000000000000000000000000000000000000004000000006000000007000000007800000007C00000007E00000007F00000007F807FFFFFFC07FFFFFFE07FFFFFFF07FFFFFFF87FFFFFFFC7FFFFFFFE7FFFFFFFC7FFFFFFF87FFFFFFF07FFFFFFE07FFFFFFC0000007F80000007F00000007E00000007C00000007800000007000000006000000004000000000000000000000000000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="192" time="564.693"/>
+<cuepoint name="193" time="564.726">
+<subtitle id="201" x="290" y="150" xx="290" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="393" height="40">
+<![CDATA[すぐ 止まる｣でした｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="194" time="567.627"/>
+<cuepoint name="195" time="567.660">
+<subtitle id="201" x="190" y="240" xx="190" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="216" height="40">
+<![CDATA[でも ｱﾙﾐは]]>
+</subtitle>
+<subtitle id="202" x="170" y="300" xx="170" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="587" height="40">
+<![CDATA[磁石に くっつかないはずなのに]]>
+</subtitle>
+<subtitle id="203" x="757" y="300" xx="757" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" substitution_string="→" gaiji_pattern="000000000000000000000000000000000000000000000000004000000006000000007000000007800000007C00000007E00000007F00000007F807FFFFFFC07FFFFFFE07FFFFFFF07FFFFFFF87FFFFFFFC7FFFFFFFE7FFFFFFFC7FFFFFFF87FFFFFFF07FFFFFFE07FFFFFFC0000007F80000007F00000007E00000007C00000007800000007000000006000000004000000000000000000000000000000000000000" gaiji_width="36" gaiji_height="36" width="44" height="40">
+<![CDATA[　]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="196" time="574.396"/>
+<cuepoint name="197" time="574.429">
+<subtitle id="201" x="170" y="300" xx="170" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="610" height="40">
+<![CDATA[どうして そうなるのでしょうか｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="198" time="578.198"/>
+<cuepoint name="199" time="578.231">
+<subtitle id="201" x="210" y="390" xx="210" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="468" height="40">
+<![CDATA[それは 磁石と ｱﾙﾐﾆｳﾑの]]>
+</subtitle>
+<subtitle id="202" x="230" y="450" xx="230" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="530" height="40">
+<![CDATA[せいしつが 関係しています｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="200" time="583.198"/>
+<cuepoint name="201" time="583.231">
+<subtitle id="201" x="190" y="390" xx="190" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="599" height="40">
+<![CDATA[ｱﾙﾐは 磁石に くっつきませんが]]>
+</subtitle>
+<subtitle id="202" x="210" y="450" xx="210" yy="620" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="307" height="40">
+<![CDATA[電気は通します｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="202" time="588.231"/>
+<cuepoint name="203" time="588.264">
+<subtitle id="201" x="310" y="450" xx="310" yy="560" color="0x00ffff" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="330" height="40">
+<![CDATA[磁石が 電気を…｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="204" time="590.231"/>
+<cuepoint name="205" time="590.264">
+<subtitle id="201" x="190" y="450" xx="190" yy="560" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="570" height="40">
+<![CDATA[ここから先は 自分で考えよう｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="206" time="593.594"/>
+<cuepoint name="207" time="593.627">
+<subtitle id="201" x="170" y="450" xx="170" yy="560" color="0xffff00" background="0x000000" opacity="0.5" lang="jpn" letterspacing="4" width="645" height="40">
+<![CDATA[これからは みんなが｢考えるｶﾗｽ｣｡]]>
+</subtitle>
+</cuepoint>
+<cuepoint name="208" time="597"/>
+</cuepoints>
