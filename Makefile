@@ -31,8 +31,8 @@ all: $(SRT_JP) $(MKV)
 $(OUT_DIR):
 	mkdir -p $@
 
-#$(TS): $(M3U8)
-#	$(FFMPEG) -i $(M3U8) -c copy $@
+download: $(M3U8)
+	$(FFMPEG) -i $(M3U8) -c copy $(TS)
 
 $(MKV): $(TS) $(SRT_JP) $(ASS_EN)
 	$(FFMPEG) -i $(TS) -i $(ASS_EN) -i $(SRT_JP) \
