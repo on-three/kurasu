@@ -26,7 +26,7 @@ FFMPEG := ffmpeg
 TTML2SRT := /home/on-three/code/ttml/ttml/convert.py
 MIXTAPE := uploadtomixtape.sh
 
-all: $(SRT_JP) $(MKV)
+all: $(SRT_EN) $(MKV)
 
 $(OUT_DIR):
 	mkdir -p $@
@@ -41,6 +41,9 @@ $(MKV): $(TS) $(SRT_JP) $(ASS_EN)
 
 $(SRT_JP): $(TTML)
 	$(TTML2SRT) $^ -o $@
+
+$(SRT_EN): $(SRT_JP)
+	cp $^ $@
 
 mixtape: $(MKV)
 	# upload to mixtape.moe to share
