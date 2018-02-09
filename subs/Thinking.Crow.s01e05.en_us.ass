@@ -14,9 +14,9 @@ Audio File: ../video/Thinking.Crow.s01e05.ts
 Video File: ../video/Thinking.Crow.s01e05.ts
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 48
-Active Line: 87
-Video Position: 17981
+Scroll Position: 39
+Active Line: 63
+Video Position: 15250
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,8 +44,9 @@ Dialogue: 0,0:01:17.99,0:01:25.76,black-small,,0,0,0,,{\pos(321,254)}thinking sc
 Dialogue: 0,0:01:27.20,0:01:32.20,white-large,,0,0,0,,{\pos(391,130)}Thinking\NObservation
 Dialogue: 0,0:01:28.00,0:01:32.00,Default,,0,0,0,,We begin with a ｢Thinking Observation｣
 Dialogue: 0,0:01:33.00,0:01:36.00,Default,,0,0,0,,Today we observe the sounds a train makes.
-Dialogue: 0,0:01:39.00,0:01:45.00,Default,,0,0,0,,This 'click-clack' noise. What's making it?
+Dialogue: 0,0:01:39.00,0:01:45.00,Default,,0,0,0,,This 'click-clack' noise. Where's it coming from?
 Dialogue: 0,0:01:47.00,0:01:51.00,Default,,0,0,0,,We observe from outside the train.
+Dialogue: 0,0:01:51.99,0:02:04.70,white-small,,0,0,0,,{\pos(207,315)}Absolutely do not approach rails
 Dialogue: 0,0:01:59.00,0:02:03.00,Default,,0,0,0,,The 'click-clack' noise doesn't come from here.
 Dialogue: 0,0:02:07.00,0:02:09.00,Default,,0,0,0,,Let's try moving.
 Dialogue: 0,0:02:17.00,0:02:20.00,Default,,0,0,0,,The 'click-clack' noise comes from here.
@@ -64,11 +65,14 @@ Dialogue: 0,0:03:30.00,0:03:34.00,Default,,0,0,0,,The crack widens.
 Dialogue: 0,0:03:34.00,0:03:39.00,Default,,0,0,0,,Does the sound arise when the train wheels pass over this gap?
 Dialogue: 0,0:03:49.00,0:03:54.00,Default,,0,0,0,,By shifting a desk, we tried to make such a gap at home.
 Dialogue: 0,0:04:00.00,0:04:03.00,Default,,0,0,0,,It certainly does make a sound.
+Dialogue: 0,0:04:03.09,0:04:10.00,white-large,,0,0,0,,{\pos(547,216)}Thinking\NObservation
 Dialogue: 0,0:04:11.93,0:04:14.53,black-large,,0,0,0,,{\pos(317,260)}Dedenion
 Dialogue: 0,0:04:11.93,0:04:14.53,black-small,,0,0,0,,{\pos(318,63)}Hypothesis
 Dialogue: 0,0:04:11.93,0:04:14.53,black-small,,0,0,0,,{\pos(491,95)}love
 Dialogue: 0,0:04:16.00,0:04:19.64,white-large,,0,0,0,,{\pos(445,262)}Episode 1.5: A Strange Pipe
 Dialogue: 0,0:04:16.00,0:04:19.64,white-large,,0,0,0,,{\pos(482,341)}Still More Hypotheses
+Dialogue: 0,0:06:20.26,0:06:29.90,black-large,,0,0,0,,{\pos(124,101)}Dedenion
+Dialogue: 0,0:06:28.13,0:06:29.90,black-small,,0,0,0,,{\pos(112,321)}Animation: milligram
 Dialogue: 0,0:06:30.74,0:06:37.88,white-large,,0,0,0,,{\pos(208,254)}Yū Aoi's\NThinking Practice
 Dialogue: 0,0:06:39.00,0:06:44.00,Default,,0,0,0,,Well then, today our problem deals with a pipe and some balloons.
 Dialogue: 0,0:06:44.00,0:06:50.00,Default,,0,0,0,,A large balloon and a small one are attached on either side of the pipe.
