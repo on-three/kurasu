@@ -1,33 +1,21 @@
 1
 00:00:03,000 --> 00:00:08,009
-♪
-｢お
-腹
-
-空
-かせた ｶﾗｽがいた｣
+｢There was a hungry crow｣
 
 
 2
 00:00:09,000 --> 00:00:14,009
-♪
-｢なんとか
-餌
-に ありつきたい｣
+｢who wanted to get some feed｣
 
 
 3
 00:00:15,000 --> 00:00:20,009
-♪
-｢この くちばしが
-もっと長ければ｣
+｢If only this beak were longer｣
 
 
 4
 00:00:21,000 --> 00:00:26,006
-♪
-｢あの餌が もっと
-こっちに来れば｣
+｢That feed would be a bit closer.｣
 
 
 5
@@ -38,223 +26,157 @@
 
 6
 00:00:44,006 --> 00:01:00,009
-♪
-｢ｶﾗｽは考える ｶﾗｽは考える
-ｶﾗｽは考える ｶﾗｽは考える｣
+｢a crow can think｣
 
 
 7
 00:01:01,000 --> 00:01:09,006
-♪
-｢考える 考える｣
+｢can think... can think｣
 
 
 8
 00:01:11,004 --> 00:01:17,002
-(
-斎藤
-)観察し
-仮
-説を立て
-実験をし 考察する｡
-
+Observe, propose a hypothesis, experiment and consider results.
 
 9
 00:01:17,003 --> 00:01:20,006
-科学の考え方を学べ｡
-
+Learn the way of scientific thought.
 
 10
 00:01:28,002 --> 00:01:32,007
-(山本)まずは ｢考える観察｣から｡
-
+We begin with a ｢Thinking Observation｣.
 
 11
 00:01:32,008 --> 00:01:39,006
-紙で輪っかを作って
-ﾊｻﾐで真ん中を切ると…｡
-
+If we make a loop out of paper, and cut through the middle with scissors...
 
 12
 00:01:44,000 --> 00:01:46,006
-２個に 分かれる｡
-
+It becomes two rings.
 
 13
 00:01:46,006 --> 00:01:50,003
-今日は これを観察する｡
-
+Today we will be observing this.
 
 14
 00:01:52,000 --> 00:01:57,001
-今度は 半回転ひねって
-くっつける｡
-
+This time we give it a half turn before attach it.
 
 15
 00:01:58,007 --> 00:02:03,003
-これの真ん中を
-ﾊｻﾐで切っていくと…｡
-
+And if we cut right down the middle with a pair of scissors...
 
 16
 00:02:10,001 --> 00:02:15,000
-ねじれているが
-１個の大きい輪っかになった｡
-
+it's twisted but it becomes one big loop.
 
 17
 00:02:17,007 --> 00:02:25,000
-次は 半回転ひねって
-もう半回転｡
-
+Next, after an initial half turn, we give it one further half turn.
 
 18
 00:02:25,001 --> 00:02:29,005
-合計 １回転ひねって
-切ってみる｡
-
+In total it's turned one full time, let's try cutting it.
 
 19
 00:02:40,001 --> 00:02:44,000
-２個の輪っかになった｡
-
+It became two rings.
 
 20
 00:02:44,000 --> 00:02:48,007
-つながっているが
-輪っかは ２個だ｡
-
+It's twisted but it's two.
 
 21
 00:02:48,007 --> 00:02:54,003
-なぜ 輪っかは １個だったり
-２個だったりするのか？
-
+Why did the ring sometimes become one ring and sometimes two?
 
 22
 00:03:00,005 --> 00:03:06,002
-帯の両わきを 色でぬり分けて
-観察してみる｡
-
+Let's try observing with color applied to both edges of the strip.
 
 23
 00:03:09,003 --> 00:03:15,002
-半回転ひねりだと
-こんなふうに つながっている｡
-
+When we give it a half twist, it's connected like this.
 
 24
 00:03:18,003 --> 00:03:24,006
-ここから たどっていくと
-赤は 青につながっていて
-→
-
+If we traverse from here, red connects to blue.
 
 25
 00:03:24,006 --> 00:03:28,009
-ぐるっと回って 赤につながって
-→
-
+And going around, it's connected to back to red.
 
 26
 00:03:29,000 --> 00:03:32,007
-元の位置に もどってくる｡
-
+We return to our inital position.
 
 27
 00:03:32,008 --> 00:03:37,002
-という事は
-帯の両わきの赤と青の線は
-→
-
+Is it that the red and blue line at the strinp's edge
 
 28
 00:03:37,003 --> 00:03:39,007
-一本で つながっている？
-
+is connected as one?
 
 29
 00:03:42,001 --> 00:03:44,001
-それで…｡
-
+And thus...
 
 30
 00:03:47,005 --> 00:03:50,001
-１つの輪っかになるのか？
-
+it becomes one single loop?
 
 31
 00:03:51,008 --> 00:03:57,003
-では 一回転ひねった時は
-どうなっていたのか？
-
+Then what happened when we gave it a full turn?
 
 32
 00:04:06,006 --> 00:04:10,007
-赤は 赤どうし つながっていて
-→
-
+Connecting red to red,
 
 33
 00:04:10,008 --> 00:04:14,002
-青は 青どうし つながっている｡
-
+and blue connecting to blue.
 
 34
 00:04:16,001 --> 00:04:18,006
-これを切ると…｡
-
+If we cut this...
 
 35
 00:04:22,008 --> 00:04:26,000
-赤と青の ２つの輪っかになる｡
-
+It becomes two loops, red and blue.
 
 36
 00:04:27,007 --> 00:04:32,001
-じゃあ こういう場合は
-どうなるのか？
-
+Then what will happen in this case?
 
 37
 00:04:32,002 --> 00:04:38,004
-３本 線を引いて
-半回転ひねって くっつける｡
-
+We draw three lines and connect a loop with a half turn.
 
 38
 00:04:40,000 --> 00:04:44,009
-そして
-線の間の白い部分を切ると
-→
-
+If we cut the white part in the space between the lines
 
 39
 00:04:45,000 --> 00:04:48,000
-輪っかは 何個 できるのか？
-
+How many rings will will there be?
 
 40
 00:04:50,001 --> 00:04:56,004
-つなぎ目を見ると 赤は黄色に
-→
-
+If we look at the place they join, first red and yellow...
 
 41
 00:04:56,004 --> 00:05:00,005
-この黄色は 赤につながっている｡
-
+then yellow is connected to red.
 
 42
 00:05:02,002 --> 00:05:06,003
-青は 青だけで つながっている｡
-
+Blue is only connected to blue.
 
 43
 00:05:08,002 --> 00:05:10,003
-どうなるのか？
-
+What will happen?
 
 44
 00:05:32,005 --> 00:06:08,006
@@ -270,79 +192,55 @@
 
 46
 00:07:17,004 --> 00:07:22,008
-(
-蒼井
-)今日は
-この糸まきを使った問題です｡
-
+Today's problem deals with a spool of thread.
 
 47
 00:07:22,008 --> 00:07:25,004
-つくえの上に 糸まきを置きます｡
-
+The spool rests on a desk.
 
 48
 00:07:25,004 --> 00:07:29,004
-少し
-
-糸が出ています｡
-
+There's a little thread coming out.
 
 49
 00:07:29,004 --> 00:07:32,005
-さて ここからが問題です｡
-
+Now, this is the problem.
 
 50
 00:07:32,006 --> 00:07:37,000
-この糸を
-このように引っぱります｡
-
+We pull the thread, like this
 
 51
 00:07:37,000 --> 00:07:39,005
-糸まきは どう動くでしょうか？
-
+How will the spool move?
 
 52
 00:07:39,005 --> 00:07:45,007
-１ こう回転して
-手から はなれる｡
-
+1. The spool will move away from our hand.
 
 53
 00:07:45,007 --> 00:07:48,007
-２ ぎゃくに
-こっち向きに回転して
-→
-
+2. The reverse. It will go this way.
 
 54
 00:07:48,008 --> 00:07:51,005
-引っぱった手に 近づく｡
-
+Getting nearer to the hand that's pulling.
 
 55
 00:07:51,005 --> 00:07:56,000
-３ その場で空回りして動かない｡
-
+3. It will spin in place without moving.
 
 56
 00:07:56,000 --> 00:07:59,008
-答えは 番組の最後に発表します｡
-
+We'll show the answer at the end of the program.
 
 57
 00:07:59,008 --> 00:08:01,008
-糸まきが どう動くか
-→
-
+How will the spool move?
 
 58
 00:08:01,008 --> 00:08:06,002
-みなさん
-よ～く考えておいて下さいね｡
-
+Everyone think really hard, okay?
 
 59
 00:08:06,002 --> 00:08:12,007
@@ -352,50 +250,40 @@
 
 60
 00:08:12,008 --> 00:08:18,007
-観察 仮説 実験 そして考察｡
-
+Observation, hypothesis, experiment, and reflection.
 
 61
 00:08:18,007 --> 00:08:22,001
-科学の考え方…
-
+Thinking scientifically...
 
 62
 00:08:26,006 --> 00:08:29,000
-では 先ほどの答えです｡
-
+And now the answer from earlier.
 
 63
 00:08:29,000 --> 00:08:31,006
-みなさん
-ちゃ～んと考えましたか？
-
+Everyone did you think carefully?
 
 64
 00:08:31,006 --> 00:08:36,002
-１ 手から はなれる｡
-
+1. It will move away from our hand.
 
 65
 00:08:36,002 --> 00:08:39,005
-２ 引っぱった手に 近づく｡
-
+2. It will move closer to the hand pulling.
 
 66
 00:08:39,005 --> 00:08:44,001
-３ その場で空回りして動かない｡
-
+3. It will turn in place without moving.
 
 67
 00:08:45,008 --> 00:08:49,000
-どうなるか
-よ～く見ていて下さいね｡
-
+What will happen?
+Watch carefully, please.
 
 68
 00:08:49,001 --> 00:08:51,008
-では…｡
-
+Then...
 
 69
 00:08:51,008 --> 00:08:58,001
@@ -405,14 +293,11 @@
 
 70
 00:08:58,001 --> 00:09:02,001
-糸まきは 引っぱった手の方向に
-転がってきました｡
-
+The spool moved towards the hand pullin the thread.
 
 71
 00:09:02,002 --> 00:09:04,005
-もう一度 やってみましょう｡
-
+Let's try that once more.
 
 72
 00:09:04,005 --> 00:09:11,002
@@ -422,26 +307,19 @@
 
 73
 00:09:11,003 --> 00:09:15,003
-やっぱり 引っぱった方向に
-転がってきました｡
-
+As we thought, it moved in the direction we're pulling.
 
 74
 00:09:15,003 --> 00:09:19,007
-では 今度は
-大きさを変えてやってみましょう｡
-
+This time, let's try changing the size.
 
 75
 00:09:19,008 --> 00:09:24,008
-この 小さな糸まきで
-やってみます｡
-
+Let's try this small spool of thread.
 
 76
 00:09:24,009 --> 00:09:27,005
-いきますよ｡
-
+Let's go.
 
 77
 00:09:27,005 --> 00:09:32,007
@@ -451,42 +329,29 @@
 
 78
 00:09:32,008 --> 00:09:37,003
-やっぱり 引っぱった手の方向に
-転がってきました｡
-
+As we thought it moves twoards the hand pulling the thread.
 
 79
 00:09:37,003 --> 00:09:39,003
-これは
-とても おもしろいので
-→
-
+As this is very curious,
 
 80
 00:09:39,003 --> 00:09:42,007
-みなさん
-家で やってみて下さいね｡
-
+everyone, please try it at home.
 
 81
 00:09:42,008 --> 00:09:45,002
-でも どうして
-こうなるのでしょう？
-
+But why should it do that?
 
 82
 00:09:45,002 --> 00:09:49,003
-それは この糸まきの…｡
-
+This is the spool's...
 
 83
 00:09:49,003 --> 00:09:53,002
-ここから先は 自分で考えよう｡
-
+From here on we think for ourselves.
 
 84
 00:09:53,003 --> 00:09:57,000
-これからは
-みんなが ｢考えるｶﾗｽ｣｡
-
+From here on evryone on is a thinking crow.
 
