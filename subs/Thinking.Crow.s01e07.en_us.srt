@@ -1,274 +1,238 @@
-1
+﻿1
 00:00:03,000 --> 00:00:08,009
 ｢The once was a hungry crow｣
-
 
 2
 00:00:09,000 --> 00:00:14,009
 ｢Who wanted to get some feed｣
 
-
 3
 00:00:15,000 --> 00:00:20,009
 ｢If only this beak were longer｣
-
 
 4
 00:00:21,000 --> 00:00:26,006
 ｢That feed would be a bit closer｣
 
-
 5
-00:00:26,006 --> 00:00:44,006
-♪
-～
-
-
-6
 00:00:44,006 --> 00:01:00,009
 ｢A crow can think｣
 
-
-7
+6
 00:01:01,000 --> 00:01:09,006
 ｢can think... can think｣
 
-
-8
+7
 00:01:11,004 --> 00:01:17,002
 Observe, propose a hypothesis, experiment and then consider results.
 
-9
+8
 00:01:17,003 --> 00:01:20,006
 Learn the way of scientific thought.
 
-10
+9
 00:01:28,002 --> 00:01:32,004
 We begin with a ｢Thinking Observation｣
 
-11
+10
 00:01:35,006 --> 00:01:40,001
 An ant walking atop a notepad.
 
-12
+11
 00:01:47,008 --> 00:01:51,009
 Let's try drawing a line across the ant's path.
 
-13
+12
 00:01:57,009 --> 00:02:02,006
 It appears to dislike it but doesn't completely understand.
 
-14
+13
 00:02:02,006 --> 00:02:06,001
 Again we block its path with a line.
 
-15
+14
 00:02:14,000 --> 00:02:17,000
 It avoids the line.
 
-16
+15
 00:02:21,007 --> 00:02:24,008
 This time we try to surround it with a circle.
 
-17
+16
 00:02:32,009 --> 00:02:37,009
 Clearly it dislikes the line.
 
-18
+17
 00:02:37,009 --> 00:02:40,004
 It's cut off.
 
-19
+18
 00:02:43,002 --> 00:02:47,007
 It gets out, and we surround it one more time.
 
-20
+19
 00:02:52,007 --> 00:02:56,008
 As we expect it's isolated.
 
-21
+20
 00:02:56,009 --> 00:02:59,003
 Observe for a short while.
 
-22
+21
 00:03:06,000 --> 00:03:11,006
 It got out. Is it already used to them?
 
-23
+22
 00:03:11,007 --> 00:03:16,006
 It walks across the lines in equanimity.
 
-24
+23
 00:03:16,006 --> 00:03:20,000
 Let's try surrounding it with a new circle.
 
-25
+24
 00:03:24,000 --> 00:03:27,005
 Once again, it has become unable to get out.
 
-26
+25
 00:03:27,005 --> 00:03:30,007
 It appears it hasn't gotten used to it.
 
-27
+26
 00:03:30,008 --> 00:03:35,008
 What's going on here?
 
-28
-00:03:46,006 --> 00:03:53,003
-♪
-～
-
-
-29
-00:04:00,001 --> 00:05:32,008
-♪
-～
-
-
-30
+27
 00:05:43,000 --> 00:05:48,001
 Today our problem deals with a magnet and some iron balls.
 
-31
+28
 00:05:48,001 --> 00:05:51,003
 This is a magnet.
 
-32
+29
 00:05:51,003 --> 00:05:55,005
 If I bring it near the iron balls...
 
-33
+30
 00:05:55,005 --> 00:05:58,005
 they stick together.
 
-34
+31
 00:05:58,005 --> 00:06:04,002
 But the iron balls themselves...
 
-35
+32
 00:06:07,007 --> 00:06:10,002
 of course don't stick together.
 
-36
+33
 00:06:10,003 --> 00:06:12,009
 Okay so far?
 
-37
+34
 00:06:12,009 --> 00:06:21,005
 Next we affix the magnet to the desk with some tape.
 
-38
+35
 00:06:23,008 --> 00:06:31,002
 Then we place another magnet of the same type atop it.
 
-39
+36
 00:06:31,002 --> 00:06:39,000
 If we bring an iron ball close, it sticks.
 
-40
+37
 00:06:39,000 --> 00:06:45,005
 Furthermore, we place one more iron ball atop...
 
-41
+38
 00:06:47,001 --> 00:06:51,000
 and this also sticks.
 
-42
+39
 00:06:51,000 --> 00:06:54,003
 Now, this is the problem.
 
-43
+40
 00:06:54,003 --> 00:06:59,008
 What will happen if we raise the topmost iron ball?
 
-44
+41
 00:06:59,009 --> 00:07:05,009
 1. Only the ball we're holding will be raised.
 
-45
+42
 00:07:05,009 --> 00:07:11,000
 2. The iron ball beneath will also be raised.
 
-46
+43
 00:07:11,001 --> 00:07:18,005
 3. Furthermore, the magnet beneath will also be raised.
 
-47
+44
 00:07:18,005 --> 00:07:23,006
 Well then, what will happen?
 We'll present the answer at the end of the program.
 
-48
+45
 00:07:23,006 --> 00:07:28,000
 Everyone, think really hard about this, won't you?
 
-49
-00:07:28,000 --> 00:07:48,006
-♪
-～
-
-
-50
-00:07:52,008 --> 00:08:43,004
-♪
-～
-
-
-51
+46
 00:08:49,005 --> 00:08:52,001
 Now, the answer from earlier.
 
-52
+47
 00:08:52,001 --> 00:08:55,001
 Everyone, did you think carefully?
 
-53
+48
 00:08:58,002 --> 00:09:00,009
 Now, let's do it for real.
 
-54
+49
 00:09:00,009 --> 00:09:03,000
 Let's go.
 
-55
+50
 00:09:09,007 --> 00:09:11,008
 The answer it number 1.
 
-56
+51
 00:09:11,008 --> 00:09:15,002
 The two iron balls together are raised.
 
-57
+52
 00:09:15,002 --> 00:09:19,008
 Further more, if we try to raise the iron balls a bit further.
 
-58
+53
 00:09:19,008 --> 00:09:22,005
 What do you suppose will happen?
 
-59
+54
 00:09:26,006 --> 00:09:28,007
 I was surprised...
 
-60
+55
 00:09:28,008 --> 00:09:33,000
 it fell. Let's try that once more.
 
-61
+56
 00:09:39,008 --> 00:09:45,001
 As we saw, it falls.
 Why do you think that is?
 
-62
+57
 00:09:45,001 --> 00:09:49,001
 When iron is brought near a magnet, instantly...
 
-63
+58
 00:09:49,001 --> 00:09:53,000
 From here on we think for ourselves.
 
-64
+59
 00:09:53,000 --> 00:09:56,000
 From here everyone is a thinking crow.
 
