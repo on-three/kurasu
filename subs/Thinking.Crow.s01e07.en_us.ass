@@ -14,36 +14,45 @@ Audio File: ../video/Thinking.Crow.s01e07.ts
 Video File: ../video/Thinking.Crow.s01e07.ts
 Video AR Mode: 4
 Video AR Value: 1.777778
+Scroll Position: 69
+Active Line: 96
+Video Position: 17659
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: white-small,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: white-large,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: white-large,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0.6,2,10,10,10,1
 Style: black-small,Arial,16,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: black-large,Arial,24,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.00,0:00:08.00,Default,,0,0,0,,｢The once was a hungry crow｣
-Dialogue: 0,0:00:09.00,0:00:14.00,Default,,0,0,0,,｢Who wanted to get some feed｣
-Dialogue: 0,0:00:15.00,0:00:20.00,Default,,0,0,0,,｢If only this beak were longer｣
-Dialogue: 0,0:00:21.00,0:00:26.00,Default,,0,0,0,,｢That feed would be a bit closer｣
-Dialogue: 0,0:00:44.00,0:01:00.00,Default,,0,0,0,,｢A crow can think｣
+Dialogue: 0,0:00:03.00,0:00:08.00,Default,,0,0,0,,｢There was a hungry crow｣
+Dialogue: 0,0:00:09.00,0:00:14.00,Default,,0,0,0,,｢who wanted to get some feed｣
+Dialogue: 0,0:00:10.46,0:00:13.83,black-small,,0,0,0,,{\pos(52,260.286)}feed
+Dialogue: 0,0:00:15.00,0:00:20.00,Default,,0,0,0,,｢if only this beak were a little longer｣
+Dialogue: 0,0:00:21.00,0:00:26.00,Default,,0,0,0,,｢that feed would be a bit closer｣
+Dialogue: 0,0:00:26.67,0:00:32.78,black-small,,0,0,0,,{\pos(542.286,239.143)}pebbles
+Dialogue: 0,0:00:31.54,0:00:38.58,black-small,,0,0,0,,{\pos(334.857,183.714)}Maybe if I...
+Dialogue: 0,0:00:44.00,0:01:00.00,Default,,0,0,0,,｢a crow can think｣
 Dialogue: 0,0:01:01.00,0:01:09.00,Default,,0,0,0,,｢can think... can think｣
-Dialogue: 0,0:01:11.00,0:01:17.00,Default,,0,0,0,,Observe, propose a hypothesis, experiment and then consider results.
+Dialogue: 0,0:01:11.00,0:01:17.00,Default,,0,0,0,,Observe, propose a hypothesis, experiment and consider results.
 Dialogue: 0,0:01:17.00,0:01:20.00,Default,,0,0,0,,Learn the way of scientific thought.
+Dialogue: 0,0:01:17.22,0:01:25.36,black-large,,0,0,0,,{\pos(330,137)}Thinking Crow
+Dialogue: 0,0:01:17.22,0:01:25.36,black-small,,0,0,0,,{\pos(323,257)}Thinking Scientifically
+Dialogue: 0,0:01:26.36,0:01:33.81,white-large,,0,0,0,,{\pos(393,127)}Thinking\NObservation
 Dialogue: 0,0:01:28.00,0:01:32.00,Default,,0,0,0,,We begin with a ｢Thinking Observation｣
 Dialogue: 0,0:01:35.00,0:01:40.00,Default,,0,0,0,,An ant walking atop a notepad.
 Dialogue: 0,0:01:47.00,0:01:51.00,Default,,0,0,0,,Let's try drawing a line across the ant's path.
-Dialogue: 0,0:01:57.00,0:02:02.00,Default,,0,0,0,,It appears to dislike it but doesn't completely understand.
+Dialogue: 0,0:01:57.00,0:02:02.00,Default,,0,0,0,,It appears to dislike it in some way we don't well understand.
 Dialogue: 0,0:02:02.00,0:02:06.00,Default,,0,0,0,,Again we block its path with a line.
 Dialogue: 0,0:02:14.00,0:02:17.00,Default,,0,0,0,,It avoids the line.
 Dialogue: 0,0:02:21.00,0:02:24.00,Default,,0,0,0,,This time we try to surround it with a circle.
-Dialogue: 0,0:02:32.00,0:02:37.00,Default,,0,0,0,,Clearly it dislikes the line.
-Dialogue: 0,0:02:37.00,0:02:40.00,Default,,0,0,0,,It's cut off.
-Dialogue: 0,0:02:43.00,0:02:47.00,Default,,0,0,0,,It gets out, and we surround it one more time.
-Dialogue: 0,0:02:52.00,0:02:56.00,Default,,0,0,0,,As we expect it's isolated.
+Dialogue: 0,0:02:32.00,0:02:37.00,Default,,0,0,0,,Clearly it dislikes the lines.
+Dialogue: 0,0:02:37.00,0:02:40.00,Default,,0,0,0,,It's trapped.
+Dialogue: 0,0:02:43.00,0:02:47.00,Default,,0,0,0,,Letting it out, we let's try surrounding it one more time.
+Dialogue: 0,0:02:52.00,0:02:56.00,Default,,0,0,0,,As we expect it's again trapped.
 Dialogue: 0,0:02:56.00,0:02:59.00,Default,,0,0,0,,Observe for a short while.
 Dialogue: 0,0:03:06.00,0:03:11.00,Default,,0,0,0,,It got out. Is it already used to them?
 Dialogue: 0,0:03:11.00,0:03:16.00,Default,,0,0,0,,It walks across the lines in equanimity.
@@ -51,6 +60,14 @@ Dialogue: 0,0:03:16.00,0:03:20.00,Default,,0,0,0,,Let's try surrounding it with 
 Dialogue: 0,0:03:24.00,0:03:27.00,Default,,0,0,0,,Once again, it has become unable to get out.
 Dialogue: 0,0:03:27.00,0:03:30.00,Default,,0,0,0,,It appears it hasn't gotten used to it.
 Dialogue: 0,0:03:30.00,0:03:35.00,Default,,0,0,0,,What's going on here?
+Dialogue: 0,0:03:35.79,0:03:42.10,white-large,,0,0,0,,{\pos(550,174)}Thinking\NObservation
+Dialogue: 0,0:03:44.34,0:03:46.94,black-large,,0,0,0,,{\pos(312,262)}Dedenion
+Dialogue: 0,0:03:44.34,0:03:46.94,black-small,,0,0,0,,{\pos(317,61)}Hypothesis
+Dialogue: 0,0:03:44.34,0:03:46.94,black-small,,0,0,0,,{\pos(489,86)}Love
+Dialogue: 0,0:03:48.37,0:03:52.14,white-large,,0,0,0,,{\pos(414,324)}Episode 6: How Did It Get Inside?
+Dialogue: 0,0:05:24.77,0:05:29.97,black-large,,0,0,0,,{\pos(508,347)}Dedenion
+Dialogue: 0,0:05:31.61,0:05:35.08,black-small,,0,0,0,,{\pos(551,320)}animation: milligram
+Dialogue: 0,0:05:36.41,0:05:43.09,white-large,,0,0,0,,{\pos(354,92)}Yū Aoi's\NThinking Practice
 Dialogue: 0,0:05:43.00,0:05:48.00,Default,,0,0,0,,Today our problem deals with a magnet and some iron balls.
 Dialogue: 0,0:05:48.00,0:05:51.00,Default,,0,0,0,,This is a magnet.
 Dialogue: 0,0:05:51.00,0:05:55.00,Default,,0,0,0,,If I bring it near the iron balls...
@@ -61,7 +78,7 @@ Dialogue: 0,0:06:10.00,0:06:12.00,Default,,0,0,0,,Okay so far?
 Dialogue: 0,0:06:12.00,0:06:21.00,Default,,0,0,0,,Next we affix the magnet to the desk with some tape.
 Dialogue: 0,0:06:23.00,0:06:31.00,Default,,0,0,0,,Then we place another magnet of the same type atop it.
 Dialogue: 0,0:06:31.00,0:06:39.00,Default,,0,0,0,,If we bring an iron ball close, it sticks.
-Dialogue: 0,0:06:39.00,0:06:45.00,Default,,0,0,0,,Furthermore, we place one more iron ball atop...
+Dialogue: 0,0:06:39.00,0:06:45.00,Default,,0,0,0,,Furthermore, we place one more iron ball on top of that one...
 Dialogue: 0,0:06:47.00,0:06:51.00,Default,,0,0,0,,and this also sticks.
 Dialogue: 0,0:06:51.00,0:06:54.00,Default,,0,0,0,,Now, this is the problem.
 Dialogue: 0,0:06:54.00,0:06:59.00,Default,,0,0,0,,What will happen if we raise the topmost iron ball?
@@ -70,17 +87,45 @@ Dialogue: 0,0:07:05.00,0:07:11.00,Default,,0,0,0,,2. The iron ball beneath will 
 Dialogue: 0,0:07:11.00,0:07:18.00,Default,,0,0,0,,3. Furthermore, the magnet beneath will also be raised.
 Dialogue: 0,0:07:18.00,0:07:23.00,Default,,0,0,0,,Well then, what will happen?\NWe'll present the answer at the end of the program.
 Dialogue: 0,0:07:23.00,0:07:28.00,Default,,0,0,0,,Everyone, think really hard about this, won't you?
+Dialogue: 0,0:07:34.75,0:07:40.40,Default,,0,0,0,,Observation, hypothesis, experiment and then reflection
+Dialogue: 0,0:07:43.44,0:07:50.08,white-large,,0,0,0,,{\pos(341,60)}Thinking Crow
+Dialogue: 0,0:07:43.44,0:07:50.08,white-small,,0,0,0,,{\pos(335,152)}Thinking Scientifically
+Dialogue: 0,0:07:46.88,0:07:50.08,white-small,,0,0,0,,{\pos(516,312)}Hawaii Mauna Kea Observatory
+Dialogue: 0,0:07:51.15,0:07:56.19,white-large,,0,0,0,,{\pos(331,113)}Today's Discovery
+Dialogue: 0,0:07:51.15,0:07:56.19,white-large,,0,0,0,,{\pos(393,295)}The Magic Marker Cap
+Dialogue: 0,0:07:56.19,0:07:59.39,white-large,,0,0,0,,Not enough to tell anyone
+Dialogue: 0,0:07:59.39,0:08:02.09,white-large,,0,0,0,,small as a sesame seed
+Dialogue: 0,0:08:02.63,0:08:06.43,white-large,,0,0,0,,Today's discovery
+Dialogue: 0,0:08:06.43,0:08:09.93,white-large,,0,0,0,,When I put on a magic marker cap
+Dialogue: 0,0:08:09.93,0:08:12.97,white-large,,0,0,0,,it makes a click
+Dialogue: 0,0:08:12.97,0:08:16.44,white-large,,0,0,0,,what's that click?
+Dialogue: 0,0:08:16.44,0:08:19.84,white-large,,0,0,0,,looking at the cap
+Dialogue: 0,0:08:19.84,0:08:23.62,white-large,,0,0,0,,there are these little bumps
+Dialogue: 0,0:08:23.62,0:08:25.78,white-large,,0,0,0,,hidden stoppers
+Dialogue: 0,0:08:25.78,0:08:30.29,white-large,,0,0,0,,This is the source of the click.
+Dialogue: 0,0:08:30.29,0:08:33.12,white-large,,0,0,0,,it's nothing
+Dialogue: 0,0:08:33.12,0:08:37.36,white-large,,0,0,0,,Today's discovery
+Dialogue: 0,0:08:37.36,0:08:43.97,white-large,,0,0,0,,And tomorrow there will probably be another.
+Dialogue: 0,0:08:44.14,0:08:47.64,black-large,,0,0,0,,{\pos(387,37)}one each day
+Dialogue: 0,0:08:44.14,0:08:47.64,black-large,,0,0,0,,{\pos(464,141)}today's discovery
+Dialogue: 0,0:08:48.47,0:08:58.28,black-small,,0,0,0,,{\pos(207,117)}Q: What will happen when we raise the iron ball?
 Dialogue: 0,0:08:49.00,0:08:52.00,Default,,0,0,0,,Now, the answer from earlier.
 Dialogue: 0,0:08:52.00,0:08:55.00,Default,,0,0,0,,Everyone, did you think carefully?
 Dialogue: 0,0:08:58.00,0:09:00.00,Default,,0,0,0,,Now, let's do it for real.
 Dialogue: 0,0:09:00.00,0:09:03.00,Default,,0,0,0,,Let's go.
-Dialogue: 0,0:09:09.00,0:09:11.00,Default,,0,0,0,,The answer it number 1.
-Dialogue: 0,0:09:11.00,0:09:15.00,Default,,0,0,0,,The two iron balls together are raised.
-Dialogue: 0,0:09:15.00,0:09:19.00,Default,,0,0,0,,Further more, if we try to raise the iron balls a bit further.
-Dialogue: 0,0:09:19.00,0:09:22.00,Default,,0,0,0,,What do you suppose will happen?
+Dialogue: 0,0:09:09.00,0:09:11.00,Default,,0,0,0,,The answer it number 2.
+Dialogue: 0,0:09:11.00,0:09:15.00,Default,,0,0,0,,The two iron balls stay together
+Dialogue: 0,0:09:15.00,0:09:19.00,Default,,0,0,0,,Furthermore, if we try to raise the iron balls a bit higher...
+Dialogue: 0,0:09:19.00,0:09:22.00,Default,,0,0,0,,what do you suppose will happen?
 Dialogue: 0,0:09:26.00,0:09:28.00,Default,,0,0,0,,I was surprised...
 Dialogue: 0,0:09:28.00,0:09:33.00,Default,,0,0,0,,it fell. Let's try that once more.
 Dialogue: 0,0:09:39.00,0:09:45.00,Default,,0,0,0,,As we saw, it falls.\NWhy do you think that is?
 Dialogue: 0,0:09:45.00,0:09:49.00,Default,,0,0,0,,When iron is brought near a magnet, instantly...
 Dialogue: 0,0:09:49.00,0:09:53.00,Default,,0,0,0,,From here on we think for ourselves.
-Dialogue: 0,0:09:53.00,0:09:56.00,Default,,0,0,0,,From here everyone is a thinking crow.
+Dialogue: 0,0:09:49.20,0:09:59.98,black-small,,0,0,0,,{\pos(139.2,62.8)}Translation: on3
+Dialogue: 0,0:09:49.20,0:09:59.98,black-small,,0,0,0,,{\pos(198.4,86.8)}https://github.com/on-three/kurasu
+Dialogue: 0,0:09:49.20,0:09:59.98,black-small,,0,0,0,,{\pos(456,62)}#/tv/shows@rizon
+Dialogue: 0,0:09:49.20,0:09:59.98,black-large,,0,0,0,,{\pos(285,238)}Thinking Crow
+Dialogue: 0,0:09:49.20,0:09:59.98,black-small,,0,0,0,,{\pos(272,122)}thinking scientifically
+Dialogue: 0,0:09:53.00,0:09:57.00,Default,,0,0,0,,From here on evryone on is a thinking crow.
+Dialogue: 0,0:09:56.17,0:09:59.98,black-small,,0,0,0,,{\pos(532,230)}end
