@@ -15,15 +15,15 @@ Video File: ../video/Thinking.Crow.s01e06.ts
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.250000
-Scroll Position: 65
-Active Line: 96
-Video Position: 17871
+Scroll Position: 68
+Active Line: 95
+Video Position: 17533
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: white-small,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: white-large,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: white-large,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0.6,2,10,10,10,1
 Style: black-small,Arial,16,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: black-large,Arial,24,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
@@ -31,8 +31,11 @@ Style: black-large,Arial,24,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.00,0:00:08.00,Default,,0,0,0,,｢There was a hungry crow｣
 Dialogue: 0,0:00:09.00,0:00:14.00,Default,,0,0,0,,｢who wanted to get some feed｣
-Dialogue: 0,0:00:15.00,0:00:20.00,Default,,0,0,0,,｢If only this beak were longer｣
-Dialogue: 0,0:00:21.00,0:00:26.00,Default,,0,0,0,,｢That feed would be a bit closer.｣
+Dialogue: 0,0:00:10.92,0:00:14.29,black-small,,0,0,0,,{\pos(52,260.286)}feed
+Dialogue: 0,0:00:15.00,0:00:20.00,Default,,0,0,0,,｢if only this beak were a little longer｣
+Dialogue: 0,0:00:21.00,0:00:26.00,Default,,0,0,0,,｢that feed would be a bit closer｣
+Dialogue: 0,0:00:27.14,0:00:33.25,black-small,,0,0,0,,{\pos(542.286,239.143)}pebbles
+Dialogue: 0,0:00:32.01,0:00:39.05,black-small,,0,0,0,,{\pos(334.857,183.714)}Maybe if I...
 Dialogue: 0,0:00:44.00,0:01:00.00,Default,,0,0,0,,｢a crow can think｣
 Dialogue: 0,0:01:01.00,0:01:09.00,Default,,0,0,0,,｢can think... can think｣
 Dialogue: 0,0:01:11.00,0:01:17.00,Default,,0,0,0,,Observe, propose a hypothesis, experiment and consider results.
@@ -75,6 +78,7 @@ Dialogue: 0,0:04:50.00,0:04:56.00,Default,,0,0,0,,If we look at the place they j
 Dialogue: 0,0:04:56.00,0:05:00.00,Default,,0,0,0,,then yellow to red.
 Dialogue: 0,0:05:02.00,0:05:06.00,Default,,0,0,0,,Blue is only connected to blue.
 Dialogue: 0,0:05:08.00,0:05:10.00,Default,,0,0,0,,What will happen?
+Dialogue: 0,0:05:20.60,0:05:27.24,white-large,,0,0,0,,{\pos(404,128.4)}Thinking\NObservation
 Dialogue: 0,0:05:29.91,0:05:32.31,black-large,,0,0,0,,{\pos(316,263.6)}Dedenion
 Dialogue: 0,0:05:29.91,0:05:32.31,black-small,,0,0,0,,{\pos(497.6,92.4)}love
 Dialogue: 0,0:05:29.91,0:05:32.31,black-small,,0,0,0,,{\pos(318.4,62.8)}hypothesis
@@ -97,14 +101,14 @@ Dialogue: 0,0:07:59.00,0:08:01.00,Default,,0,0,0,,How will the spool move?
 Dialogue: 0,0:08:01.00,0:08:06.00,Default,,0,0,0,,Everyone think really hard, okay?
 Dialogue: 0,0:08:21.61,0:08:25.68,white-large,,0,0,0,,{\pos(332.8,49.2)}Thinking Crow
 Dialogue: 0,0:08:21.61,0:08:25.68,white-small,,0,0,0,,{\pos(327.2,134.8)}Thinking Scientifically
-Dialogue: 0,0:08:23.85,0:08:25.68,white-small,,0,0,0,,{\pos(540.8,306.8)}Dragonfly
+Dialogue: 0,0:08:23.85,0:08:25.68,white-small,,0,0,0,,{\pos(540.8,306.8)}Lesser emperor dragonfly
 Dialogue: 0,0:08:12.00,0:08:18.00,Default,,0,0,0,,Observation, hypothesis, experiment, and reflection.
 Dialogue: 0,0:08:18.00,0:08:22.00,Default,,0,0,0,,Thinking scientifically...
 Dialogue: 0,0:08:26.00,0:08:29.00,Default,,0,0,0,,And now the answer from earlier.
 Dialogue: 0,0:08:26.00,0:08:31.52,white-large,,0,0,0,,{\pos(521.6,190.8)}Yu Aoi's\NThinking Practice
 Dialogue: 0,0:08:29.00,0:08:31.00,Default,,0,0,0,,Everyone did you think carefully?
 Dialogue: 0,0:08:31.00,0:08:36.00,Default,,0,0,0,,1. It will move away from our hand.
-Dialogue: 0,0:08:32.22,0:08:45.67,black-small,,0,0,0,,{\pos(196,68.4)}Q. What will happen when a hand pulls the thread?
+Dialogue: 0,0:08:32.22,0:08:45.67,black-small,,0,0,0,,{\pos(186.4,69.2)}Q. What will happen when we pull the thread?
 Dialogue: 0,0:08:39.76,0:08:45.67,black-small,,0,0,0,,{\pos(395.2,254)}3. It won't move.
 Dialogue: 0,0:08:36.00,0:08:39.00,Default,,0,0,0,,2. It will move closer to the hand pulling.
 Dialogue: 0,0:08:39.00,0:08:44.00,Default,,0,0,0,,3. It will turn in place without moving.
@@ -125,5 +129,5 @@ Dialogue: 0,0:09:49.00,0:09:53.00,Default,,0,0,0,,From here on we think for ours
 Dialogue: 0,0:09:49.40,0:09:59.98,black-small,,0,0,0,,{\pos(139.2,62.8)}Translation: on3
 Dialogue: 0,0:09:49.40,0:09:59.98,black-small,,0,0,0,,{\pos(198.4,86.8)}https://github.com/on-three/kurasu
 Dialogue: 0,0:09:49.40,0:09:59.98,black-small,,0,0,0,,{\pos(456,62)}#/tv/shows@rizon
-Dialogue: 0,0:09:49.40,0:09:59.98,black-small,,0,0,0,,{\pos(532,230)}end
+Dialogue: 0,0:09:56.17,0:09:59.98,black-small,,0,0,0,,{\pos(532,230)}end
 Dialogue: 0,0:09:53.00,0:09:57.00,Default,,0,0,0,,From here on evryone on is a thinking crow.
