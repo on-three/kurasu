@@ -1,33 +1,25 @@
 1
 00:00:03,000 --> 00:00:08,009
 ♪
-｢お
-腹
-
-空
-かせた ｶﾗｽがいた｣
+｢There was a hungry crow｣
 
 
 2
 00:00:09,000 --> 00:00:14,009
 ♪
-｢なんとか
-餌
-に ありつきたい｣
+｢Who wanted to get some feed｣
 
 
 3
 00:00:15,000 --> 00:00:20,009
 ♪
-｢この くちばしが
-もっと長ければ｣
+｢If only this beak were only longer｣
 
 
 4
 00:00:21,000 --> 00:00:26,006
 ♪
-｢あの餌が もっと
-こっちに来れば｣
+｢That feed would be a bit closer｣
 
 
 5
@@ -39,207 +31,146 @@
 6
 00:00:44,006 --> 00:01:00,009
 ♪
-｢ｶﾗｽは考える ｶﾗｽは考える
-ｶﾗｽは考える ｶﾗｽは考える｣
+｢A crow can think｣
 
 
 7
 00:01:01,000 --> 00:01:09,006
 ♪
-｢考える 考える｣
+｢can think... can think｣
 
 
 8
 00:01:11,004 --> 00:01:17,002
-(
-斎藤
-)観察し
-仮
-説を立て
-実験をし 考察する｡
-
+Observe, propose a hypothesis, experiment and consider results.
 
 9
 00:01:17,003 --> 00:01:20,006
-科学の考え方を学べ｡
-
+Learn the way of scientific thought.
 
 10
 00:01:28,002 --> 00:01:33,004
-(山本)まずは ｢考える観察｣から｡
-
+We begin with a Thinking Observation.
 
 11
 00:01:33,004 --> 00:01:39,009
-今日は ｺｲﾝを使った
-不思議な げん象を観察してみる｡
-
+Today we observe a strange pheonenon using coins.
 
 12
 00:01:40,000 --> 00:01:46,002
-１円玉を 10円玉２まいで
-はさんで
-
-つまんで持ち上げる｡
-
+Hold up a single one yen and two ten yen coins between your fingers.
 
 13
 00:01:48,007 --> 00:01:51,008
-この 一番上の10円は
-残したまま
-→
-
+This ten yen coin remains above.
 
 14
 00:01:51,009 --> 00:01:56,002
-下の２まいを落とす｡
-
+The lower two coins drop.
 
 15
 00:01:56,003 --> 00:02:00,005
-上が１円 下が10円｡
-
+The one yen coin above and the 10 yen coin below.
 
 16
 00:02:00,006 --> 00:02:03,005
-この２まいを落とすと…｡
-
+If we drop these two coins...
 
 17
 00:02:07,005 --> 00:02:10,001
-１円が 下になった｡
-
+The one yen coin ends up on top.
 
 18
 00:02:12,002 --> 00:02:15,008
-途中
-で ひっくり返ったのか？
-
+Did they switch en route?
 
 19
 00:02:15,008 --> 00:02:18,000
-もう一度 やる｡
-
+Let's do it once more.
 
 20
 00:02:22,005 --> 00:02:26,003
-また １円が下になっている｡
-
+Once more the one yen coin went to the bottom.
 
 21
 00:02:26,003 --> 00:02:30,002
-やはり ひっくり返っている｡
-
+As we thought they switched positions.
 
 22
 00:02:30,002 --> 00:02:35,003
-別の組み合わせも やってみる｡
-
+Let's try a different combination.
 
 23
 00:02:35,003 --> 00:02:38,009
-下に 10円を １まい
-
-ふやす｡
-
+We add another 10 yen coin underneath.
 
 24
 00:02:38,009 --> 00:02:46,005
-また 一番上の10円は残し
-下の３まいを落とす｡
-
+Leaving the single ten yen coin above in place, we drop the three below.
 
 25
 00:02:46,006 --> 00:02:50,001
-すると
-
-３まい
-
-まとめて
-ひっくり返って
-→
-
+Doing so, we confirm the three coins have changed position.
 
 26
 00:02:50,002 --> 00:02:55,001
-１円は 一番下になるのか？
-
+Will the one yen coin end up at the bottom?
 
 27
 00:03:01,000 --> 00:03:04,002
-１円が 真ん中になった｡
-
+The one yen coin ended up in the middle.
 
 28
 00:03:06,004 --> 00:03:08,006
-もう一度 やってみる｡
-
+Let's try once more.
 
 29
 00:03:13,006 --> 00:03:15,006
-同じだ｡
-
+It's the same.
 
 30
 00:03:17,009 --> 00:03:20,007
-紙に 整理してみる｡
-
+Let's try to organize this on paper.
 
 31
 00:03:22,007 --> 00:03:31,002
-最初は １円･10円が
-10円･１円になった｡
-
+At the start 1 yen 10 yen became 10 yen 1 yen.
 
 32
 00:03:31,003 --> 00:03:38,000
-次に 下に 10円を足したら…
-→
-
+Next if we add another 10 yen coin below.
 
 33
 00:03:38,001 --> 00:03:40,004
-こうなった｡
-
+It changed this way.
 
 34
 00:03:40,004 --> 00:03:42,007
-よく わからない｡
-
+We don't understand this well.
 
 35
 00:03:42,007 --> 00:03:48,003
-もっと 別の組み合わせだと
-どうなるのか｡
-
+What will happen with a different arrangement.
 
 36
 00:03:50,000 --> 00:03:56,003
-今度は １円を真ん中にして
-落としてみる｡
-
+This time we dropped the one yen coin in the middle.
 
 37
 00:04:01,002 --> 00:04:04,008
-１円が 一番下になった｡
-
+And it ended up underneath.
 
 38
 00:04:06,006 --> 00:04:09,003
-これも 紙にまとめる｡
-
+Let's also confirm this on paper.
 
 39
 00:04:13,004 --> 00:04:15,008
-結果を じっと見ていると
-→
-
+Looking carefully at the results..
 
 40
 00:04:15,009 --> 00:04:18,006
-規則性
-が見えてきた｡
-
+We can see some regularity.
 
 41
 00:04:18,006 --> 00:04:35,006
@@ -249,14 +180,11 @@
 
 42
 00:04:35,006 --> 00:04:40,006
-…という事は この組み合わせだと
-どうなるのか｡
-
+Given that, what will happen with this arrangement?
 
 43
 00:04:48,004 --> 00:04:51,009
-考える観察｡
-
+Thinking Observation.
 
 44
 00:05:08,006 --> 00:05:33,007
@@ -272,61 +200,39 @@
 
 46
 00:06:00,005 --> 00:06:05,002
-次回は 答えも合わせて
-放送します｡
-
+We will reveal the answer in the next program.
 
 47
 00:06:13,002 --> 00:06:17,008
-今日は この
-振
-り子を使った
-問題です｡
-
+Today's problem uses a pendulum.
 
 48
 00:06:17,008 --> 00:06:22,003
-玉をつかんで 手をはなすと…
-→
-
+Grabbing the ball and release it.
 
 49
 00:06:22,003 --> 00:06:25,007
-ほら よく ゆれますよね｡
-
+Look, it swings well.
 
 50
 00:06:25,008 --> 00:06:28,002
-これが 振り子です｡
-
+This is a pendulum.
 
 51
 00:06:28,002 --> 00:06:31,004
-実は 今日 使っている振り子は
-特別で
-→
-
+Actually, the pendulum we're using is special.
 
 52
 00:06:31,005 --> 00:06:35,008
-先の
-
-おもりが
-とても強い
-磁石
-です｡
-
+The weight at the end is a powerful magnet.
 
 53
 00:06:37,006 --> 00:06:41,004
-ｸﾘｯﾌﾟを近づけると…
-→
-
+If we bring it close to a clip.
 
 54
 00:06:41,004 --> 00:06:45,002
-たくさん くっつきます｡
-
+it sticks to it firmly.
 
 55
 00:06:45,003 --> 00:06:54,000
@@ -336,94 +242,65 @@
 
 56
 00:06:54,000 --> 00:06:59,006
-でも ここに用意した ｱﾙﾐﾆｳﾑの板｡
-
+But here we have prepared an aluminum plate.
 
 57
 00:06:59,006 --> 00:07:02,002
-これには…｡
-
+And to this
 
 58
 00:07:07,003 --> 00:07:09,004
-くっつきません｡
-
+it doesn't stick at all.
 
 59
 00:07:09,005 --> 00:07:12,007
-ｱﾙﾐには
-磁石は くっつかないんです｡
-
+Magnets don't stick to aluminum.
 
 60
 00:07:12,007 --> 00:07:15,008
-さて ここからが問題です｡
-
+Now this is the problem.
 
 61
 00:07:15,008 --> 00:07:19,008
-この 磁石が くっつかない
-ｱﾙﾐﾆｳﾑの板を
-→
-
+The aluminum plate that this magnet will not stick to
 
 62
 00:07:19,009 --> 00:07:23,008
-つくえの上にのせて
-→
-
+we place it on the desk.
 
 63
 00:07:23,008 --> 00:07:28,000
-そして この磁石を
-ここで はなします｡
-
+And we separate the magnet from it.
 
 64
 00:07:28,001 --> 00:07:33,008
-すると この振り子は
-どのように
-
-ゆれるでしょうか？
-
+If we do this how will the pendulum swing?
 
 65
 00:07:33,008 --> 00:07:38,001
-１｡ 板がない時より
-振れるｽﾋﾟｰﾄﾞが
-遅
-くなり
-→
-
+1. It will go slower than the case with no plate.
 
 66
 00:07:38,001 --> 00:07:40,001
-すぐ止まる｡
-
+and stop.
 
 67
 00:07:40,002 --> 00:07:44,009
-２｡ ぎゃくに 加速して
-なかなか止まらない｡
-
+2. Just the opposite. It will go faster and not stop at all.
 
 68
 00:07:44,009 --> 00:07:50,004
 ３｡
-板がない時と同じように 振れる｡
-
+3. It will swing the same as if there were no plate.
 
 69
 00:07:50,004 --> 00:07:54,009
-さてさて どうなるか｡
-答えは 番組の最後に発表します｡
-
+Well then what will happen?
+We'll present the anser at the end of the program.
 
 70
 00:07:55,000 --> 00:07:59,002
-みなさん
-よ～く 考えておいてくださいね｡
-
+Everyone, please think hard won't you?
 
 71
 00:07:59,002 --> 00:08:17,009
@@ -433,111 +310,78 @@
 
 72
 00:08:20,001 --> 00:08:23,003
-では 先ほどの答えです｡
-
+And now the answer from earlier.
 
 73
 00:08:23,004 --> 00:08:26,008
-みなさん ちゃんと考えましたか？
-
+Everyone did you think carefully?
 
 74
 00:08:30,000 --> 00:08:33,001
-では 実さいに やってみましょう｡
-
+Then, let's do it for real.
 
 75
 00:08:33,001 --> 00:08:39,004
-まずは 板を 下に置かない場合を
-見てみましょう｡
-
+First we try the case without the plate beneath.
 
 76
 00:08:43,004 --> 00:08:46,005
-これが ふつうの
-じょうたいですね｡
-
+This is the normal state.
 
 77
 00:08:46,006 --> 00:08:52,005
-では ｱﾙﾐの板を置いて
-やってみます｡
-
+Now we try with the aluminum plate beneath.
 
 78
 00:08:55,003 --> 00:09:01,001
-振り子が どう振れるか
-よ～く
-
-見ていてくださいね｡
-
+How do you think the pendulum will swing?
+Watch really closely, won't you?
 
 79
 00:09:06,008 --> 00:09:08,008
-すぐに 止まってしまいました｡
-
+It stopped right away.
 
 80
 00:09:08,009 --> 00:09:11,004
-もう一度 やってみましょう｡
-
+Let's try once more.
 
 81
 00:09:18,007 --> 00:09:21,006
-答えは
-
-１の
-→
-
+The answer is 1.
 
 82
 00:09:21,006 --> 00:09:24,006
-｢板がない時より
-振れるｽﾋﾟｰﾄﾞが遅くなり
-→
-
+It was "the pendulum will swing more slowly than the case without the plate
 
 83
 00:09:24,007 --> 00:09:27,006
-すぐ 止まる｣でした｡
-
+and stop right away."
 
 84
 00:09:27,006 --> 00:09:34,003
-でも ｱﾙﾐは
-磁石に くっつかないはずなのに
-→
-
+But magnest ought not stick to aluminum.
 
 85
 00:09:34,004 --> 00:09:38,001
-どうして そうなるのでしょうか｡
-
+Why should this happen?
 
 86
 00:09:38,002 --> 00:09:43,001
-それは 磁石と ｱﾙﾐﾆｳﾑの
-せいしつが 関係しています｡
-
+This is connected to a propery between magnets and aluminum.
 
 87
 00:09:43,002 --> 00:09:48,002
-ｱﾙﾐは 磁石に くっつきませんが
-電気は通します｡
-
+Magnets don't stick to aluminum, but it conducts electricity.
 
 88
 00:09:48,002 --> 00:09:50,002
-磁石が 電気を…｡
-
+And magnets and electricity...
 
 89
 00:09:50,002 --> 00:09:53,005
-ここから先は 自分で考えよう｡
-
+From here on we think for ourselves.
 
 90
 00:09:53,006 --> 00:09:57,000
-これからは みんなが｢考えるｶﾗｽ｣｡
-
+From here on we're all thinking crows.
 
