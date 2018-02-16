@@ -15,8 +15,9 @@ Video File: ../video/Thinking.Crow.s01e08.ts
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Active Line: 27
-Video Position: 4256
+Scroll Position: 51
+Active Line: 75
+Video Position: 11539
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -101,7 +102,7 @@ Dialogue: 0,0:05:59.20,0:06:05.28,black-large,,0,0,0,,{\pos(422.222,158.889)}tod
 Dialogue: 0,0:06:00.00,0:06:05.00,Default,,0,0,0,,We will reveal the answer in the next program.
 Dialogue: 0,0:06:06.64,0:06:13.28,white-large,,0,0,0,,{\pos(278.222,254)}Yu Aoi's\NThinking Practice
 Dialogue: 0,0:06:13.00,0:06:17.00,Default,,0,0,0,,Today's problem uses a pendulum.
-Dialogue: 0,0:06:17.00,0:06:22.00,Default,,0,0,0,,If we pull back the pendulum
+Dialogue: 0,0:06:17.00,0:06:22.00,Default,,0,0,0,,If we pull back the pendulum and release it
 Dialogue: 0,0:06:22.00,0:06:25.00,Default,,0,0,0,,Look, it swings well.
 Dialogue: 0,0:06:25.00,0:06:28.00,Default,,0,0,0,,This is a pendulum.
 Dialogue: 0,0:06:28.00,0:06:31.00,Default,,0,0,0,,Actually, the pendulum we're using is special.
