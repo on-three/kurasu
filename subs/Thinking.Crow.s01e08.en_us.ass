@@ -15,9 +15,9 @@ Video File: ../video/Thinking.Crow.s01e08.ts
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Scroll Position: 71
-Active Line: 102
-Video Position: 15014
+Scroll Position: 96
+Active Line: 132
+Video Position: 17773
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -45,41 +45,41 @@ Dialogue: 0,0:01:17.29,0:01:25.30,black-small,,0,0,0,,{\pos(324,255)}thinking sc
 Dialogue: 0,0:01:26.40,0:01:33.21,white-large,,0,0,0,,{\pos(399,126)}Thinking\NObservation
 Dialogue: 0,0:01:28.00,0:01:33.00,Default,,0,0,0,,We begin with a Thinking Observation.
 Dialogue: 0,0:01:33.00,0:01:39.00,Default,,0,0,0,,Today we observe a strange pheonenon using coins.
-Dialogue: 0,0:01:40.00,0:01:46.00,Default,,0,0,0,,Hold up a single one yen and two ten yen coins between your fingers.
-Dialogue: 0,0:01:48.00,0:01:51.00,Default,,0,0,0,,This ten yen coin remains above.
-Dialogue: 0,0:01:50.12,0:02:02.43,white-small,,0,0,0,,{\pos(173,111)}doesn't drop
+Dialogue: 0,0:01:40.00,0:01:46.00,Default,,0,0,0,,Hold a single 1 yen and two 10 yen coins between your fingers.
+Dialogue: 0,0:01:48.00,0:01:51.00,Default,,0,0,0,,The topmost 10 yen coin will remain in our fingers.
+Dialogue: 0,0:01:50.12,0:02:02.43,white-small,,0,0,0,,{\pos(173,111)}don't drop
 Dialogue: 0,0:01:55.46,0:02:02.43,white-small,,0,0,0,,{\pos(174,168)}one yen
 Dialogue: 0,0:01:57.40,0:02:02.43,white-small,,0,0,0,,{\pos(185,222)}ten yen
-Dialogue: 0,0:01:51.00,0:01:56.00,Default,,0,0,0,,The lower two coins drop.
-Dialogue: 0,0:01:56.00,0:02:00.00,Default,,0,0,0,,The one yen coin above and the 10 yen coin below.
+Dialogue: 0,0:01:51.00,0:01:56.00,Default,,0,0,0,,The drop the lower two coins.
+Dialogue: 0,0:01:56.00,0:02:00.00,Default,,0,0,0,,Arranged with he 1 yen coin above and the 10 yen coin below.
 Dialogue: 0,0:02:00.00,0:02:03.00,Default,,0,0,0,,If we drop these two coins...
-Dialogue: 0,0:02:07.00,0:02:10.00,Default,,0,0,0,,The one yen coin ends up on top.
-Dialogue: 0,0:02:12.00,0:02:15.00,Default,,0,0,0,,Did they switch en route?
-Dialogue: 0,0:02:15.00,0:02:18.00,Default,,0,0,0,,Let's do it once more.
-Dialogue: 0,0:02:22.00,0:02:26.00,Default,,0,0,0,,Once more the one yen coin went to the bottom.
+Dialogue: 0,0:02:07.00,0:02:10.00,Default,,0,0,0,,The 10 yen coin ends up on top.
+Dialogue: 0,0:02:12.00,0:02:15.00,Default,,0,0,0,,Did they switch places while flaling?
+Dialogue: 0,0:02:15.00,0:02:18.00,Default,,0,0,0,,Let's do that once more.
+Dialogue: 0,0:02:22.00,0:02:26.00,Default,,0,0,0,,Once more time the 1 yen coin ends up on bottom.
 Dialogue: 0,0:02:26.00,0:02:30.00,Default,,0,0,0,,As we thought they switched positions.
 Dialogue: 0,0:02:30.00,0:02:35.00,Default,,0,0,0,,Let's try a different combination.
 Dialogue: 0,0:02:35.00,0:02:38.00,Default,,0,0,0,,We add another 10 yen coin underneath.
-Dialogue: 0,0:02:38.00,0:02:46.00,Default,,0,0,0,,Leaving the single ten yen coin above in place, we drop the three below.
+Dialogue: 0,0:02:38.00,0:02:46.00,Default,,0,0,0,,Leaving the single 10 yen coin above, we drop the three below.
 Dialogue: 0,0:02:42.44,0:02:55.19,white-small,,0,0,0,,{\pos(185,82)}don't drop
-Dialogue: 0,0:02:46.00,0:02:50.00,Default,,0,0,0,,Doing so, we confirm the three coins have changed position.
-Dialogue: 0,0:02:50.00,0:02:55.00,Default,,0,0,0,,Will the one yen coin end up at the bottom?
-Dialogue: 0,0:03:01.00,0:03:04.00,Default,,0,0,0,,The one yen coin ended up in the middle.
+Dialogue: 0,0:02:46.00,0:02:50.00,Default,,0,0,0,,In this way we can confirm whether the three coins have changed position.
+Dialogue: 0,0:02:50.00,0:02:55.00,Default,,0,0,0,,Will the 1 yen coin end up at the bottom?
+Dialogue: 0,0:03:01.00,0:03:04.00,Default,,0,0,0,,The 1 yen coin ended up in the middle.
 Dialogue: 0,0:03:06.00,0:03:08.00,Default,,0,0,0,,Let's try once more.
-Dialogue: 0,0:03:13.00,0:03:15.00,Default,,0,0,0,,It's the same.
+Dialogue: 0,0:03:13.00,0:03:15.00,Default,,0,0,0,,The result is the same.
 Dialogue: 0,0:03:17.00,0:03:20.00,Default,,0,0,0,,Let's try to organize this on paper.
-Dialogue: 0,0:03:22.00,0:03:31.00,Default,,0,0,0,,At the start 1 yen 10 yen became 10 yen 1 yen.
-Dialogue: 0,0:03:31.00,0:03:38.00,Default,,0,0,0,,Next if we add another 10 yen coin below.
-Dialogue: 0,0:03:38.00,0:03:40.00,Default,,0,0,0,,It changed this way.
-Dialogue: 0,0:03:40.00,0:03:42.00,Default,,0,0,0,,We don't understand this well.
-Dialogue: 0,0:03:42.00,0:03:48.00,Default,,0,0,0,,What will happen with a different arrangement.
-Dialogue: 0,0:03:50.00,0:03:56.00,Default,,0,0,0,,This time we dropped the one yen coin in the middle.
+Dialogue: 0,0:03:22.00,0:03:31.00,Default,,0,0,0,,When we started 1 yen  then 10 yen became 10 yen then 1 yen.
+Dialogue: 0,0:03:31.00,0:03:38.00,Default,,0,0,0,,Next if we added another 10 yen coin below.
+Dialogue: 0,0:03:38.00,0:03:40.00,Default,,0,0,0,,It changed  like this.
+Dialogue: 0,0:03:40.00,0:03:42.00,Default,,0,0,0,,It's not very clear.
+Dialogue: 0,0:03:42.00,0:03:48.00,Default,,0,0,0,,What will happen with a different arrangement of coins?
+Dialogue: 0,0:03:50.00,0:03:56.00,Default,,0,0,0,,This time we drop with the 1 yen coin in the middle.
 Dialogue: 0,0:03:50.98,0:03:56.38,white-small,,0,0,0,,{\pos(183,80)}doesn't drop
 Dialogue: 0,0:04:01.00,0:04:04.00,Default,,0,0,0,,And it ended up underneath.
-Dialogue: 0,0:04:06.00,0:04:09.00,Default,,0,0,0,,Let's also confirm this on paper.
-Dialogue: 0,0:04:13.00,0:04:15.00,Default,,0,0,0,,Looking carefully at the results..
-Dialogue: 0,0:04:15.00,0:04:18.00,Default,,0,0,0,,We can see some regularity.
-Dialogue: 0,0:04:35.00,0:04:40.00,Default,,0,0,0,,Given that, what will happen with this arrangement?
+Dialogue: 0,0:04:06.00,0:04:09.00,Default,,0,0,0,,Let's also record this on paper.
+Dialogue: 0,0:04:13.00,0:04:15.00,Default,,0,0,0,,Looking carefully at the results...
+Dialogue: 0,0:04:15.00,0:04:18.00,Default,,0,0,0,,A pattern is visible.
+Dialogue: 0,0:04:35.00,0:04:40.00,Default,,0,0,0,,Given this, what will happen with this arrangement?
 Dialogue: 0,0:04:48.00,0:04:51.00,Default,,0,0,0,,Thinking Observation.
 Dialogue: 0,0:04:54.24,0:05:00.05,white-large,,0,0,0,,{\pos(561.778,222)}Thinking\NObservation
 Dialogue: 0,0:05:00.68,0:05:07.82,black-large,,0,0,0,,{\pos(243.556,46.889)}Dedenion
@@ -88,10 +88,10 @@ Dialogue: 0,0:05:00.68,0:05:07.82,black-large,,0,0,0,,{\pos(437.334,341.112)}Thi
 Dialogue: 0,0:05:07.82,0:05:12.06,white-large,,0,0,0,,{\pos(329.778,103.778)}Today's Discovery
 Dialogue: 0,0:05:07.82,0:05:12.06,white-large,,0,0,0,,{\pos(386.667,257.556)}Holes in the Ground
 Dialogue: 0,0:05:12.06,0:05:15.69,white-large,,0,0,0,,Not worth mentioning
-Dialogue: 0,0:05:15.69,0:05:18.60,white-large,,0,0,0,,but I want to tell it to someone
+Dialogue: 0,0:05:15.69,0:05:18.60,white-large,,0,0,0,,but still I want to tell it to someone
 Dialogue: 0,0:05:18.60,0:05:22.37,white-large,,0,0,0,,today's discovery
-Dialogue: 0,0:05:22.37,0:05:25.77,white-large,,0,0,0,,accidentally seen at the side of the road
-Dialogue: 0,0:05:25.77,0:05:28.74,white-large,,0,0,0,,it's full of some kind of holes
+Dialogue: 0,0:05:22.37,0:05:25.77,white-large,,0,0,0,,casually looking beneath a roadside tree
+Dialogue: 0,0:05:25.77,0:05:28.74,white-large,,0,0,0,,there's a many holes of some kind
 Dialogue: 0,0:05:28.74,0:05:30.88,white-large,,0,0,0,,what are these holes?
 Dialogue: 0,0:05:33.38,0:05:45.82,white-large,,0,0,0,,{\pos(334.222,105.555)}Q: Shihara-kun  later found something and understood why the holes were there.
 Dialogue: 0,0:05:39.58,0:05:45.82,white-large,,0,0,0,,{\pos(281.778,279.777)}What do you think he found?
@@ -102,16 +102,16 @@ Dialogue: 0,0:05:59.20,0:06:05.28,black-large,,0,0,0,,{\pos(422.222,158.889)}tod
 Dialogue: 0,0:06:00.00,0:06:05.00,Default,,0,0,0,,We will reveal the answer in the next program.
 Dialogue: 0,0:06:06.64,0:06:13.28,white-large,,0,0,0,,{\pos(278.222,254)}Yu Aoi's\NThinking Practice
 Dialogue: 0,0:06:13.00,0:06:17.00,Default,,0,0,0,,Today's problem uses a pendulum.
-Dialogue: 0,0:06:17.00,0:06:22.00,Default,,0,0,0,,Grabbing the ball and release it.
+Dialogue: 0,0:06:17.00,0:06:22.00,Default,,0,0,0,,If we pull back the pendulum
 Dialogue: 0,0:06:22.00,0:06:25.00,Default,,0,0,0,,Look, it swings well.
 Dialogue: 0,0:06:25.00,0:06:28.00,Default,,0,0,0,,This is a pendulum.
 Dialogue: 0,0:06:28.00,0:06:31.00,Default,,0,0,0,,Actually, the pendulum we're using is special.
 Dialogue: 0,0:06:31.00,0:06:35.00,Default,,0,0,0,,The weight at the end is a powerful magnet.
-Dialogue: 0,0:06:37.00,0:06:41.00,Default,,0,0,0,,If we bring it close to a clip.
-Dialogue: 0,0:06:41.00,0:06:45.00,Default,,0,0,0,,it sticks to it firmly.
-Dialogue: 0,0:06:54.00,0:06:59.00,Default,,0,0,0,,But here we have prepared an aluminum plate.
-Dialogue: 0,0:06:59.00,0:07:02.00,Default,,0,0,0,,And to this
-Dialogue: 0,0:07:07.00,0:07:09.00,Default,,0,0,0,,it doesn't stick at all.
+Dialogue: 0,0:06:37.00,0:06:41.00,Default,,0,0,0,,If we bring it close to some paper clips.
+Dialogue: 0,0:06:41.00,0:06:45.00,Default,,0,0,0,,They stick to it firmly.
+Dialogue: 0,0:06:54.00,0:06:59.00,Default,,0,0,0,,Here we have prepared an aluminum plate.
+Dialogue: 0,0:06:59.00,0:07:02.00,Default,,0,0,0,,And this plate
+Dialogue: 0,0:07:07.00,0:07:09.00,Default,,0,0,0,,doesn't stick to the magnet at all.
 Dialogue: 0,0:07:09.00,0:07:12.00,Default,,0,0,0,,Magnets don't stick to aluminum.
 Dialogue: 0,0:07:12.00,0:07:15.00,Default,,0,0,0,,Now this is the problem.
 Dialogue: 0,0:07:15.00,0:07:19.00,Default,,0,0,0,,The aluminum plate that this magnet will not stick to
@@ -122,7 +122,7 @@ Dialogue: 0,0:07:33.00,0:07:38.00,Default,,0,0,0,,1. It will go slower than the 
 Dialogue: 0,0:07:34.13,0:07:50.52,white-small,,0,0,0,,{\pos(182.223,99.333)}1. It will slow down and soon stop.
 Dialogue: 0,0:07:39.74,0:07:50.52,white-small,,0,0,0,,{\pos(191.112,152.666)}2. It will speed up and not stop at all.
 Dialogue: 0,0:07:45.08,0:07:50.52,white-small,,0,0,0,,{\pos(168.001,209.555)}3. The swing will not change.
-Dialogue: 0,0:07:38.00,0:07:40.00,Default,,0,0,0,,and stop.
+Dialogue: 0,0:07:38.00,0:07:40.00,Default,,0,0,0,,and quickly come to a stop.
 Dialogue: 0,0:07:40.00,0:07:44.00,Default,,0,0,0,,2. Just the opposite. It will go faster and not stop at all.
 Dialogue: 0,0:07:44.00,0:07:50.00,Default,,0,0,0,,3. It will swing the same as if there were no plate.
 Dialogue: 0,0:07:50.00,0:07:54.00,Default,,0,0,0,,Well then what will happen?\NWe'll present the anser at the end of the program.
