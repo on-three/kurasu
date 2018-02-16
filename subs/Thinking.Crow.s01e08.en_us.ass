@@ -15,8 +15,8 @@ Video File: ../video/Thinking.Crow.s01e08.ts
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Active Line: 21
-Video Position: 3327
+Active Line: 27
+Video Position: 4256
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,10 +52,10 @@ Dialogue: 0,0:01:57.40,0:02:02.43,white-small,,0,0,0,,{\pos(185,222)}ten yen
 Dialogue: 0,0:01:51.00,0:01:56.00,Default,,0,0,0,,Then drop the lower two coins.
 Dialogue: 0,0:01:56.00,0:02:00.00,Default,,0,0,0,,Arranged with he 1 yen coin above and the 10 yen coin below.
 Dialogue: 0,0:02:00.00,0:02:03.00,Default,,0,0,0,,If we drop these two coins...
-Dialogue: 0,0:02:07.00,0:02:10.00,Default,,0,0,0,,The 10 yen coin ends up on top.
-Dialogue: 0,0:02:12.00,0:02:15.00,Default,,0,0,0,,Did they switch places while flaling?
+Dialogue: 0,0:02:07.00,0:02:10.00,Default,,0,0,0,,The 1 yen coin ends up on bottom.
+Dialogue: 0,0:02:12.00,0:02:15.00,Default,,0,0,0,,Did they switch places while falling?
 Dialogue: 0,0:02:15.00,0:02:18.00,Default,,0,0,0,,Let's do that once more.
-Dialogue: 0,0:02:22.00,0:02:26.00,Default,,0,0,0,,Once more time the 1 yen coin ends up on bottom.
+Dialogue: 0,0:02:22.00,0:02:26.00,Default,,0,0,0,,Once more time the 1 yen coin ends up on the bottom.
 Dialogue: 0,0:02:26.00,0:02:30.00,Default,,0,0,0,,As we thought they switched positions.
 Dialogue: 0,0:02:30.00,0:02:35.00,Default,,0,0,0,,Let's try a different combination.
 Dialogue: 0,0:02:35.00,0:02:38.00,Default,,0,0,0,,We add another 10 yen coin underneath.
