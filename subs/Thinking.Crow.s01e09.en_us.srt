@@ -1,33 +1,21 @@
 1
 00:00:03,000 --> 00:00:08,009
-♪
-｢お
-腹
-
-空
-かせた ｶﾗｽがいた｣
+｢There was a hungry crow｣
 
 
 2
 00:00:09,000 --> 00:00:14,009
-♪
-｢なんとか
-餌
-に ありつきたい｣
+｢Who wanted to get some feed｣
 
 
 3
 00:00:15,000 --> 00:00:20,009
-♪
-｢この くちばしが
-もっと長ければ｣
+｢If only this beak were a little longer｣
 
 
 4
 00:00:21,000 --> 00:00:26,006
-♪
-｢あの餌が もっと
-こっちに来れば｣
+｢That feed would be a bit closer｣
 
 
 5
@@ -38,219 +26,141 @@
 
 6
 00:00:44,006 --> 00:01:00,009
-♪
-｢ｶﾗｽは考える ｶﾗｽは考える
-ｶﾗｽは考える ｶﾗｽは考える｣
+｢A crow can think｣
 
 
 7
 00:01:01,000 --> 00:01:09,006
-♪
-｢考える 考える｣
+｢can think... can think｣
 
 
 8
 00:01:11,004 --> 00:01:17,002
-(
-斎藤
-)観察し
-仮
-説を立て
-実験をし 考察する｡
-
+Observe, then propose a hypothesis, experiment and consider results.
 
 9
 00:01:17,003 --> 00:01:20,006
-科学の考え方を学べ｡
-
+Lean the way of scientific thought.
 
 10
 00:01:28,000 --> 00:01:31,004
-(山本)まずは ｢考える観察｣から｡
-
+We begin with a thinking observation.
 
 11
 00:01:33,008 --> 00:01:36,006
-おふろに たまっている
-水を 見ると
-→
-
+When we look at the water in a bathtub...
 
 12
 00:01:36,006 --> 00:01:39,005
-色が ついているように
-
-見える｡
-
+We can see it has some color.
 
 13
 00:01:42,004 --> 00:01:46,001
-緑がかった 青色だ｡
-
+It's greenish blue.
 
 14
 00:01:46,001 --> 00:01:51,002
-水は とうめいな
-
-はずなのに
-なぜ 色がついて 見えるのか？
-
+But water ought to be transparent. Why can we see a color?
 
 15
 00:01:53,007 --> 00:01:57,001
-おふろ場で
-見ているせいかもしれない｡
-
+Perhaps it's because we're looking at it in the bath.
 
 16
 00:01:57,001 --> 00:02:00,003
-ｺｯﾌﾟに
-
-くんで 外で 見てみる｡
-
+Filling a glass. let's try looking outside the bath.
 
 17
 00:02:04,004 --> 00:02:08,006
-色は 無い｡ とうめいだ｡
-
+There's no color. It's clear.
 
 18
 00:02:08,007 --> 00:02:12,006
-念のため
-空のｺｯﾌﾟと くらべてみる｡
-
+To make sure let's compare to an empty glass.
 
 19
 00:02:15,003 --> 00:02:19,002
-水が 入っているほうが
-ほんの少し 青い気もするが
-→
-
+The one with water has a little more color but
 
 20
 00:02:19,003 --> 00:02:21,006
-はっきりとは わからない｡
-
+it's hard to tell.
 
 21
 00:02:24,000 --> 00:02:28,004
-では ｺｯﾌﾟを重ねていけば
-どうなるか？
-
+What will happen if we increase the number of glasses?
 
 22
 00:02:31,006 --> 00:02:36,001
-うすい色が
-
-重なって
-青が 見えてくるのではないか？
-
+The light color has increased, and we can see blue can't we.
 
 23
 00:02:44,002 --> 00:02:47,000
-青い色が 見えてきた｡
-
+We can see blue.
 
 24
 00:02:50,004 --> 00:02:54,007
-でも これ 水の色が
-
-重なって
-こくなったんじゃなくて
-→
-
+But the water's color isn't significant.
 
 25
 00:02:54,007 --> 00:02:59,009
-ｶﾞﾗｽの色が 重なって
-青く
-
-見えているのかもしれない｡
-
+Perhaps it's the color of the glass which makes the color visible.
 
 26
 00:03:03,004 --> 00:03:05,006
-長い つつを 用意した｡
-
+We prepare a long tube.
 
 27
 00:03:05,007 --> 00:03:09,008
-両わきは とじてある｡
-
+Both ends are closed.
 
 28
 00:03:11,008 --> 00:03:15,006
-上に 開けた
-穴
-から
-水を
-
-入れていく｡
-
+We fill it with water via a hole on top.
 
 29
 00:03:21,002 --> 00:03:23,004
-水が いっぱいになった｡
-
+It's full.
 
 30
 00:03:25,003 --> 00:03:29,005
-横から見ると とうめいだが
-→
-
+When we look from the side it appears transparent.
 
 31
 00:03:29,006 --> 00:03:32,000
-たてに
-
-見ると…｡
-
+But when we look lengthwise...
 
 32
 00:03:38,003 --> 00:03:40,003
-青い｡
-
+it's blue.
 
 33
 00:03:43,006 --> 00:03:47,002
-おふろの色に かなり にている｡
-
+It's quite similar to the color in the bath.
 
 34
 00:03:47,002 --> 00:03:52,001
-やはり 水は おくゆきがあると
-青く
-
-見えるのか？
-
+So is the water blue because of its depth?
 
 35
 00:03:55,006 --> 00:03:58,002
-おふろと くらべてみる｡
-
+Let's try comparig it to the bath water.
 
 36
 00:04:01,002 --> 00:04:06,009
-同じような色だが
-少し おふろのほうが 色が こい｡
-
+It's appears to be the same color but the blue in the bath water is a little deeper.
 
 37
 00:04:09,001 --> 00:04:11,008
-水が 多いからなのか？
-
+Is it because there's more water there?
 
 38
 00:04:13,005 --> 00:04:15,007
-せんを ぬいてみる｡
-
+Let's try pulling the plug.
 
 39
 00:04:17,005 --> 00:04:20,005
-色の
-
-こさは どうなるのか？
-
+What will happen to the color?
 
 40
 00:04:37,003 --> 00:04:44,002
@@ -277,116 +187,71 @@
 
 44
 00:06:16,008 --> 00:06:20,007
-(
-蒼井
-)今日は この…
-→
-
+Today's experiment
 
 45
 00:06:20,007 --> 00:06:25,001
-よく
-
-はずむ
-とうめいな
-
-ﾎﾞｰﾙを使った実験です｡
-
+uses a clear super-ball.
 
 46
 00:06:25,001 --> 00:06:30,002
-この ﾎﾞｰﾙを
-水の入った 丸いビンに入れます｡
-
+We put the ball into a round glass of water.
 
 47
 00:06:30,002 --> 00:06:32,005
-すると どうなるか？
-
+If we do this what will happen?
 
 48
 00:06:35,005 --> 00:06:37,007
-大きく 見えます｡
-
+It looks much bigger.
 
 49
 00:06:37,007 --> 00:06:41,002
-ビンが ﾚﾝｽﾞのような
-役目をしているんですね｡
-
+The glass is acting like a lens.
 
 50
 00:06:44,003 --> 00:06:49,007
-そして 今度は このﾎﾞｰﾙに…｡
-
+Now, this time...
 
 51
 00:06:52,009 --> 00:06:55,008
-小さな
-
-ｼｰﾙを はります｡
-
+we put a small sticker on the ball.
 
 52
 00:07:01,004 --> 00:07:05,001
-これを うらから
-
-見ると…｡
-
+When we look at this from behind...
 
 53
 00:07:07,005 --> 00:07:10,007
-やはり 大きく見えます｡
-
+It looks big.
 
 54
 00:07:10,007 --> 00:07:14,003
-さて ここからが 問題です｡
-
+Now this is the problem.
 
 55
 00:07:14,003 --> 00:07:18,002
-この
-
-ﾎﾞｰﾙを
-このまま 水の中に
-
-入れます｡
-
+We put the ball in the water like this.
 
 56
 00:07:18,003 --> 00:07:21,007
-すると ｼｰﾙの見え方は
-→
-
+If we do the way we see the sticker
 
 57
 00:07:21,008 --> 00:07:25,004
-この時と くらべて
-どう
-
-変化するでしょうか？
-
+How will it change?
 
 58
 00:07:36,008 --> 00:07:40,001
-では やってみましょう｡
-
+Well then let's try it.
 
 59
 00:07:43,008 --> 00:07:46,004
-答えは 番組の最後で
-
-発表します｡
-
+We'll present the answer at the end of the program.
 
 60
 00:07:46,004 --> 00:07:50,000
-みなさん
-よ～く
-
-考えておいてくださいね｡
-
+Everyone, think about it very hard, won't you?
 
 61
 00:07:58,007 --> 00:08:02,001
@@ -403,86 +268,58 @@
 63
 00:08:54,005 --> 00:08:57,001
 では 先ほどの答えです｡
-
+And now the answer from earlier.
 
 64
 00:08:57,002 --> 00:09:00,003
-みなさん
-ちゃんと
-
-考えましたか？
-
+Everyone did you think about it carefully?
 
 65
 00:09:02,001 --> 00:09:06,009
-では 実さいに
-やってみましょう｡
-
-いきますよ｡
-
+Now, let's try it for real.
 
 66
 00:09:06,009 --> 00:09:11,000
-どうなるか
-よ～く 見ていてくださいね｡
-
+What will happen, please look carefully, won't you?
 
 67
 00:09:16,008 --> 00:09:21,001
-わかりました？
-答えは…
-
+Did you get it? The answer is...
 
 68
 00:09:25,000 --> 00:09:29,005
-ﾎﾞｰﾙ そのものは
-大きく見えるのに
-→
-
+Even though the ball looks bigger...
 
 69
 00:09:29,005 --> 00:09:34,005
-ｼｰﾙは 小さく見える｡
-
+the sticker looks smaller.
 
 70
 00:09:34,006 --> 00:09:37,001
-どうして そうなるのでしょう？
-
+Why do you think that is?
 
 71
 00:09:37,002 --> 00:09:42,005
-そもそも ｼｰﾙが 大きく見えるのは
-光が 曲がるからです｡
-
+Well at first the sticker looked big because the light was bent.
 
 72
 00:09:42,005 --> 00:09:46,003
-光は ある
-物質
-から
-別の物質に 進む時
-→
-
+Light has a property so that when it travels between different materials...
 
 73
 00:09:46,003 --> 00:09:48,004
-その さかい目で
-曲がる事があります｡
-
+At that boundary the light is bent.
 
 74
 00:09:48,004 --> 00:09:50,004
-ﾎﾞｰﾙを 水に…｡
-
+And the ball in the water...
 
 75
 00:09:50,004 --> 00:09:54,000
-ここから先は 自分で考えよう｡
-
+From here on we think for ourselves.
 
 76
 00:09:54,000 --> 00:09:57,000
-これからは みんなが｢考えるｶﾗｽ｣｡
+From here on everyone is a thinking crow.
 
 
