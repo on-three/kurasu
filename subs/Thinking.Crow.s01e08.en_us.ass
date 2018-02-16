@@ -15,9 +15,8 @@ Video File: ../video/Thinking.Crow.s01e08.ts
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Scroll Position: 96
-Active Line: 132
-Video Position: 17773
+Active Line: 21
+Video Position: 3327
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,13 +43,13 @@ Dialogue: 0,0:01:17.29,0:01:25.30,black-large,,0,0,0,,{\pos(314,136)}Thinking Cr
 Dialogue: 0,0:01:17.29,0:01:25.30,black-small,,0,0,0,,{\pos(324,255)}thinking scientifically
 Dialogue: 0,0:01:26.40,0:01:33.21,white-large,,0,0,0,,{\pos(399,126)}Thinking\NObservation
 Dialogue: 0,0:01:28.00,0:01:33.00,Default,,0,0,0,,We begin with a Thinking Observation.
-Dialogue: 0,0:01:33.00,0:01:39.00,Default,,0,0,0,,Today we observe a strange pheonenon using coins.
+Dialogue: 0,0:01:33.00,0:01:39.00,Default,,0,0,0,,Today we observe a strange phenomenon using coins.
 Dialogue: 0,0:01:40.00,0:01:46.00,Default,,0,0,0,,Hold a single 1 yen and two 10 yen coins between your fingers.
 Dialogue: 0,0:01:48.00,0:01:51.00,Default,,0,0,0,,The topmost 10 yen coin will remain in our fingers.
 Dialogue: 0,0:01:50.12,0:02:02.43,white-small,,0,0,0,,{\pos(173,111)}don't drop
 Dialogue: 0,0:01:55.46,0:02:02.43,white-small,,0,0,0,,{\pos(174,168)}one yen
 Dialogue: 0,0:01:57.40,0:02:02.43,white-small,,0,0,0,,{\pos(185,222)}ten yen
-Dialogue: 0,0:01:51.00,0:01:56.00,Default,,0,0,0,,The drop the lower two coins.
+Dialogue: 0,0:01:51.00,0:01:56.00,Default,,0,0,0,,Then drop the lower two coins.
 Dialogue: 0,0:01:56.00,0:02:00.00,Default,,0,0,0,,Arranged with he 1 yen coin above and the 10 yen coin below.
 Dialogue: 0,0:02:00.00,0:02:03.00,Default,,0,0,0,,If we drop these two coins...
 Dialogue: 0,0:02:07.00,0:02:10.00,Default,,0,0,0,,The 10 yen coin ends up on top.
