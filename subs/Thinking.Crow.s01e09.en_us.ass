@@ -14,26 +14,28 @@ Audio File: ../video/Thinking.Crow.s01e09.ts
 Video File: ../video/Thinking.Crow.s01e09.ts
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 58
-Active Line: 84
-Video Position: 17803
+Scroll Position: 70
+Active Line: 82
+Video Position: 16004
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: white-small,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: white-large,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: white-large,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0.6,2,10,10,10,1
 Style: black-small,Arial,16,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: black-large,Arial,24,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.00,0:00:08.00,Default,,0,0,0,,｢There was a hungry crow｣
-Dialogue: 0,0:00:09.00,0:00:14.00,Default,,0,0,0,,｢Who wanted to get some feed｣
-Dialogue: 0,0:00:15.00,0:00:20.00,Default,,0,0,0,,｢If only this beak were a little longer｣
-Dialogue: 0,0:00:21.00,0:00:26.00,Default,,0,0,0,,｢That feed would be a bit closer｣
-Dialogue: 0,0:00:26.00,0:00:44.00,Default,,0,0,0,,♪\N～
-Dialogue: 0,0:00:44.00,0:01:00.00,Default,,0,0,0,,｢A crow can think｣
+Dialogue: 0,0:00:09.00,0:00:14.00,Default,,0,0,0,,｢who wanted to get some feed｣
+Dialogue: 0,0:00:10.46,0:00:13.83,black-small,,0,0,0,,{\pos(52,260.286)}feed
+Dialogue: 0,0:00:15.00,0:00:20.00,Default,,0,0,0,,｢if only this beak were a little longer｣
+Dialogue: 0,0:00:21.00,0:00:26.00,Default,,0,0,0,,｢that feed would be a bit closer｣
+Dialogue: 0,0:00:26.67,0:00:32.78,black-small,,0,0,0,,{\pos(542.286,239.143)}pebbles
+Dialogue: 0,0:00:31.54,0:00:38.58,black-small,,0,0,0,,{\pos(334.857,183.714)}Maybe if I...
+Dialogue: 0,0:00:44.00,0:01:00.00,Default,,0,0,0,,｢a crow can think｣
 Dialogue: 0,0:01:01.00,0:01:09.00,Default,,0,0,0,,｢can think... can think｣
 Dialogue: 0,0:01:11.00,0:01:17.00,Default,,0,0,0,,Observe, then propose a hypothesis, experiment and consider results.
 Dialogue: 0,0:01:17.00,0:01:20.00,Default,,0,0,0,,Lean the way of scientific thought.
@@ -94,6 +96,20 @@ Dialogue: 0,0:07:29.63,0:07:36.63,white-small,,0,0,0,,{\pos(117,177)}3. It will 
 Dialogue: 0,0:07:36.00,0:07:40.00,Default,,0,0,0,,Well then let's try it.
 Dialogue: 0,0:07:43.00,0:07:46.00,Default,,0,0,0,,We'll present the answer at the end of the program.
 Dialogue: 0,0:07:46.00,0:07:50.00,Default,,0,0,0,,Everyone, think about it very hard, won't you?
+Dialogue: 0,0:07:58.09,0:08:02.13,white-large,,0,0,0,,{\pos(329.778,103.778)}Today's Discovery
+Dialogue: 0,0:07:58.09,0:08:02.13,white-large,,0,0,0,,{\pos(395.667,278.556)}Holes in the Ground
+Dialogue: 0,0:08:02.13,0:08:05.76,white-large,,0,0,0,,Not worth mentioning
+Dialogue: 0,0:08:05.76,0:08:08.67,white-large,,0,0,0,,but still I want to tell it to someone
+Dialogue: 0,0:08:08.63,0:08:12.40,white-large,,0,0,0,,today's discovery
+Dialogue: 0,0:08:12.44,0:08:15.84,white-large,,0,0,0,,casually looking beneath a roadside tree
+Dialogue: 0,0:08:15.84,0:08:18.81,white-large,,0,0,0,,there's a many holes of some kind
+Dialogue: 0,0:08:18.81,0:08:20.95,white-large,,0,0,0,,what are these holes?
+Dialogue: 0,0:08:22.61,0:08:25.95,white-large,,0,0,0,,Looking at the tree trunk
+Dialogue: 0,0:08:25.95,0:08:29.35,white-large,,0,0,0,,Cicada
+Dialogue: 0,0:08:36.53,0:08:43.30,white-large,,0,0,0,,How wonderful. Today's discovery.
+Dialogue: 0,0:08:43.30,0:08:48.57,white-large,,0,0,0,,And tomorrow there will probably be another.
+Dialogue: 0,0:08:49.47,0:08:53.18,black-large,,0,0,0,,{\pos(358.222,41.556)}one each day
+Dialogue: 0,0:08:49.47,0:08:53.18,black-large,,0,0,0,,{\pos(422.222,158.889)}today's discovery
 Dialogue: 0,0:08:53.98,0:09:01.92,black-small,,0,0,0,,{\pos(314,103)}Q: If we we put the ball in the water, how will the size of the sticker change?
 Dialogue: 0,0:08:53.98,0:09:01.92,black-small,,0,0,0,,{\pos(368,200)}1. It will look even bigger.
 Dialogue: 0,0:08:53.98,0:09:01.92,black-small,,0,0,0,,{\pos(346,248)}2. It won't change.
@@ -112,4 +128,10 @@ Dialogue: 0,0:09:42.00,0:09:46.00,Default,,0,0,0,,Light has a property so that w
 Dialogue: 0,0:09:46.00,0:09:48.00,Default,,0,0,0,,when it traverses that boundary the light is bent.
 Dialogue: 0,0:09:48.00,0:09:50.00,Default,,0,0,0,,And the ball in the water...
 Dialogue: 0,0:09:50.00,0:09:54.00,Default,,0,0,0,,From here on we think for ourselves.
+Dialogue: 0,0:09:50.10,0:10:00.88,black-small,,0,0,0,,{\pos(139.2,62.8)}Translation: on3
+Dialogue: 0,0:09:50.10,0:10:00.88,black-small,,0,0,0,,{\pos(198.4,86.8)}https://github.com/on-three/kurasu
+Dialogue: 0,0:09:50.10,0:10:00.88,black-small,,0,0,0,,{\pos(456,62)}#/tv/shows@rizon
+Dialogue: 0,0:09:50.10,0:10:00.88,black-large,,0,0,0,,{\pos(285,238)}Thinking Crow
+Dialogue: 0,0:09:50.10,0:10:00.88,black-small,,0,0,0,,{\pos(272,122)}thinking scientifically
 Dialogue: 0,0:09:54.00,0:09:57.00,Default,,0,0,0,,From here on everyone is a thinking crow.
+Dialogue: 0,0:09:57.28,0:10:00.95,black-small,,0,0,0,,{\pos(530,227)}end
