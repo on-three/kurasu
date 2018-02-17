@@ -1,33 +1,25 @@
 1
 00:00:03,000 --> 00:00:08,009
 ♪
-｢お
-腹
-
-空
-かせた ｶﾗｽがいた｣
+｢There was a hungry crow｣
 
 
 2
 00:00:09,000 --> 00:00:14,009
 ♪
-｢なんとか
-餌
-に ありつきたい｣
+｢Who wanted to get some feed｣
 
 
 3
 00:00:15,000 --> 00:00:20,009
 ♪
-｢この くちばしが
-もっと長ければ｣
+｢If only this beak were a little longer｣
 
 
 4
 00:00:21,000 --> 00:00:26,006
 ♪
-｢あの餌が もっと
-こっちに来れば｣
+｢That feed would be a bit closer｣
 
 
 5
@@ -39,14 +31,13 @@
 6
 00:00:44,006 --> 00:01:00,009
 ♪
-｢ｶﾗｽは考える ｶﾗｽは考える
-ｶﾗｽは考える ｶﾗｽは考える｣
+｢A crow can think｣
 
 
 7
 00:01:01,000 --> 00:01:09,006
 ♪
-｢考える 考える｣
+｢can think... can think｣
 
 
 8
@@ -57,214 +48,215 @@
 仮
 説を立て
 実験をし 考察する｡
-
+Observe, propose a hypothesis, then experiment and consider results.
 
 9
 00:01:17,003 --> 00:01:20,006
 科学の考え方を学べ｡
-
+Learn the way of scientific thought.
 
 10
 00:01:29,002 --> 00:01:33,004
 (山本)まずは ｢考える観察｣から｡
-
+We begin with a Thinking Observation
 
 11
 00:01:33,005 --> 00:01:39,000
 この水そう すなの所を
 よく見ると
 →
-
+Look closely at the sand in this aquarium.
 
 12
 00:01:39,000 --> 00:01:43,002
 しましまに なっている｡
-
+It's all stripey.
 
 13
 00:01:43,002 --> 00:01:48,000
 ３つの色に分かれて
 地層
 みたいな｡
-
+It's separated into three colors, like geological strata.
 
 14
 00:01:48,001 --> 00:01:52,006
 なんで 色が 分かれているのか？
+Why is it separated into these colors?
 
 
 15
 00:01:52,006 --> 00:01:54,009
 次の朝 見ると…
 →
-
+If we look at it the next morning...
 
 16
 00:01:55,000 --> 00:01:58,004
 しまが 無くなっている｡
-
+The stripes are gone.
 
 17
 00:02:00,001 --> 00:02:03,003
 すなが １色に
 
 なっている｡
-
+The sand is all a uniform color.
 
 18
 00:02:03,003 --> 00:02:06,001
 どういう事なのか？
-
+What's going on here?
 
 19
 00:02:06,002 --> 00:02:10,009
 さらに 時間を おいてみる｡
-
+Let's try looking at it at the original time.
 
 20
 00:02:11,000 --> 00:02:16,009
 夜に見ると
 また ３色に分かれている｡
-
+If we look at it at night again we see the sand separated into 3 colors.
 
 21
 00:02:16,009 --> 00:02:20,007
 夜になると 出てくるものなのか？
-
+It only comes out at night?
 
 22
 00:02:22,004 --> 00:02:26,004
 試しに すなを いじってみる｡
-
+As a test, let's poke the sand.
 
 23
 00:02:29,000 --> 00:02:33,004
 うん？ すなを
 
 動かすと…｡
-
+Hunh? When we move the sand...
 
 24
 00:02:35,004 --> 00:02:39,002
 下の層も いっしょに動く｡
-
+the layers underneath move with it.
 
 25
 00:02:42,005 --> 00:02:48,008
 もり上げると
 下の層も もり上がる｡
-
+If we pile it up, the layers underneath also pile up.
 
 26
 00:02:48,008 --> 00:02:52,000
 なんで こうなるのか？
-
+Why should this be?
 
 27
 00:02:54,003 --> 00:02:57,003
 しばらく 観察してみる｡
-
+Let's try observing for a little while.
 
 28
 00:03:03,007 --> 00:03:09,000
 あっ ﾔﾄﾞｶﾘの下に 何かが見える｡
-
+Ahh. We can see somethig beneath the hermit crab.
 
 29
 00:03:09,000 --> 00:03:11,008
 何か かげのようなものが
 →
-
+Something like a shadow.
 
 30
 00:03:11,008 --> 00:03:15,003
 下の層に うつっている｡
-
+is being cast on the lower layers.
 
 31
 00:03:17,007 --> 00:03:21,002
 これは かげなのか？
-
+Is this some kind of shadow?
 
 32
 00:03:24,007 --> 00:03:28,005
 ﾋﾟﾝｾｯﾄでも 試してみる｡
-
+Let's try testing with a pair of tweezers.
 
 33
 00:03:28,005 --> 00:03:30,007
 水に しずめると
 →
-
+When we lower it into the water
 
 34
 00:03:30,008 --> 00:03:35,000
 やはり
 かげのようなものが うつる｡
-
+as we thought, something like a shadow is cast.
 
 35
 00:03:35,000 --> 00:03:37,006
 かげ という事は
 →
-
+This shadow like thing
 
 36
 00:03:37,007 --> 00:03:42,006
 この 水そうを 照らしている
 ﾗｲﾄが 関係しているのか？
-
+might it have something to do with the light illuminating the aquarium?
 
 37
 00:03:44,003 --> 00:03:47,003
 ﾗｲﾄを 消してみる｡
-
+Let's try turnig the light off.
 
 38
 00:03:51,006 --> 00:03:54,003
 しまが 消えた｡
-
+The stripes disappeared.
 
 39
 00:03:57,003 --> 00:04:00,001
 ﾗｲﾄを 動かしてみる｡
-
+Let's try moving the light.
 
 40
 00:04:01,008 --> 00:04:04,005
 しまが 動いた｡
-
+The stripes moved.
 
 41
 00:04:09,000 --> 00:04:15,008
 やはり この ﾗｲﾄでできる かげが
 しましまの正体らしい｡
-
+As we thought, this light is the true cause of the stripes.
 
 42
 00:04:20,003 --> 00:04:25,006
 でも よく考えると
 ちょっと 変だ｡
-
+But as we think further it seems a bit strange.
 
 43
 00:04:25,006 --> 00:04:29,006
 このﾗｲﾄが
 このﾋﾟﾝｾｯﾄを 照らしている時
 →
-
+When the light shines on these tweezers
 
 44
 00:04:29,006 --> 00:04:34,001
 かげは この つくえの上にだけ
 出るはずだ｡
-
+The shadow ought only be cast onto this desk.
 
 45
 00:04:34,001 --> 00:04:39,006
 なのに なんで こんな所に
 かげが できているのか？
-
+and yet somehow a shadow appears in the sand?
 
 46
 00:04:59,006 --> 00:05:06,007
@@ -289,90 +281,90 @@
 蒼井
 )今日は この 三角形の台と
 鉄の玉を 使った問題です｡
-
+Today's problem deals with this triangular stand and a ball bearing.
 
 50
 00:06:21,003 --> 00:06:26,001
 この三角形の台は
 はかりの上に のっています｡
-
+This triangular stand is placed on a scale.
 
 51
 00:06:26,001 --> 00:06:29,003
 台には ﾚｰﾙが付いています｡
-
+There's a rail attached to this stand.
 
 52
 00:06:29,003 --> 00:06:33,004
 ﾚｰﾙの 上の部分には
 ﾃｰﾌﾟが 付いていて
 →
-
+There's a little tape attached at the top of the rail.
 
 53
 00:06:33,004 --> 00:06:36,003
 玉が はり付き 止まります｡
-
+firmly fixing the ball in place.
 
 54
 00:06:36,003 --> 00:06:40,001
 ここに 玉を のせると…｡
-
+When the ball is sitting there...
 
 55
 00:06:43,007 --> 00:06:45,008
 200ｸﾞﾗﾑ ちょうど｡
-
+it's exactly 200 grams.
 
 56
 00:06:45,008 --> 00:06:49,002
 鉄の玉と 台を合わせた重さです｡
-
+The weight of the ball and the stand together.
 
 57
 00:06:49,002 --> 00:06:51,006
 ここからが 問題です｡
-
+Now this is the problem.
 
 58
 00:06:51,007 --> 00:06:56,004
 しばらくすると
 玉が ﾃｰﾌﾟから 自然に はがれ
 →
-
+A short time later the ball will come off the tape
 
 59
 00:06:56,005 --> 00:06:58,006
 転がり始めます｡
-
+it will begin rolling.
 
 60
 00:06:58,007 --> 00:07:02,002
 玉が この坂を 転がってる間
 →
-
+While the ball is rolling down this incline
 
 61
 00:07:02,003 --> 00:07:06,007
 はかりが しめす数字は
 どうなるでしょうか？
-
+what will happen to the displayed weight?
 
 62
 00:07:18,005 --> 00:07:20,006
 さてさて どうなるか？
-
+Well, what will happen?
 
 63
 00:07:20,006 --> 00:07:23,006
 答えは 番組の最後に 発表します｡
-
+We'll present the answer at the end of the program.
 
 64
 00:07:23,007 --> 00:07:27,005
 みなさん
 よ～く 考えておいてくださいね｡
-
+Everyone, please think hard about it, won't you?
 
 65
 00:07:27,006 --> 00:07:38,008
@@ -385,12 +377,12 @@
 観察 仮説 実験
 
 そして 考察｡
-
+Observation, hypothesis, experiment and reflection.
 
 67
 00:07:45,006 --> 00:07:50,004
 科学の考え方 ｢考えるｶﾗｽ｣｡
-
+Thinking scientifically. Thinking Crow.
 
 68
 00:07:50,004 --> 00:07:58,003
@@ -401,24 +393,24 @@
 69
 00:08:00,009 --> 00:08:03,005
 では 先ほどの答えです｡
-
+And now the answer from earlier.
 
 70
 00:08:03,005 --> 00:08:06,003
 みなさん ちゃんと考えましたか？
-
+Everyone, did you think about it carefully?
 
 71
 00:08:18,006 --> 00:08:22,007
 では 実さいに
 やってみましょう｡
-
+Then, let's try it for real.
 
 72
 00:08:22,007 --> 00:08:31,001
 玉を ﾃｰﾌﾟに付けて
 手を 放します｡
-
+We affix the ball to the tape and remove our hands.
 
 73
 00:08:31,001 --> 00:08:37,009
@@ -426,31 +418,31 @@
 
 はがれて
 玉が 転がるのを待ちます｡
-
+We wait for the ball to come free from the tape on its own and start rolling.
 
 74
 00:08:38,000 --> 00:08:40,000
 わたしが
 少し さわっただけでも
 →
-
+Because if I touched it even a small amount
 
 75
 00:08:40,000 --> 00:08:43,003
 はかりの数字が
 変わってしまうからです｡
-
+the indicated weight would easily change.
 
 76
 00:08:43,004 --> 00:08:46,004
 さて 重さは どうなるか？
-
+Well then, what will to the weight?
 
 77
 00:08:46,004 --> 00:08:50,002
 はかりの数字を
 見ておいてくださいね｡
-
+Please look closely at the weight shown on the scale, please.
 
 78
 00:08:50,002 --> 00:09:15,005
@@ -461,12 +453,12 @@
 79
 00:09:15,006 --> 00:09:17,007
 わかりましたか？
-
+Did it change?
 
 80
 00:09:17,007 --> 00:09:19,009
 もう一度 見てみましょう｡
-
+Let's look at that one more time
 
 81
 00:09:19,009 --> 00:09:29,008
@@ -477,37 +469,37 @@
 82
 00:09:29,008 --> 00:09:33,001
 という事で 答えは…
-
+Then the answer...
 
 83
 00:09:36,001 --> 00:09:38,006
 どうしてでしょう？
-
+Why do you think this is?
 
 84
 00:09:40,003 --> 00:09:42,004
 ﾃｰﾌﾟで とめられている時
 →
-
+When the ball is held by the tape...
 
 85
 00:09:42,004 --> 00:09:47,000
 玉の重さは 全部
 この台に かかっていますよね｡
-
+The weight of the ball is entirely contributed to this stand.
 
 86
 00:09:47,000 --> 00:09:49,003
 でも 玉が 転がっている間は…｡
-
+But when the ball is rolling...
 
 87
 00:09:49,004 --> 00:09:53,005
 ここから先は 自分で考えよう｡
-
+From here on we think for ourselves.
 
 88
 00:09:53,005 --> 00:09:57,000
 これからは みんなが｢考えるｶﾗｽ｣｡
-
+From here on we're all thinking crows.
 
