@@ -14,9 +14,9 @@ Audio File: ../video/Thinking.Crow.s01e09.ts
 Video File: ../video/Thinking.Crow.s01e09.ts
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 70
-Active Line: 82
-Video Position: 16004
+Scroll Position: 60
+Active Line: 96
+Video Position: 17053
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -69,9 +69,10 @@ Dialogue: 0,0:04:01.00,0:04:06.00,Default,,0,0,0,,Its appears to be the same col
 Dialogue: 0,0:04:09.00,0:04:11.00,Default,,0,0,0,,Is it because there's more water there?
 Dialogue: 0,0:04:13.00,0:04:15.00,Default,,0,0,0,,Let's try pulling the plug.
 Dialogue: 0,0:04:17.00,0:04:20.00,Default,,0,0,0,,What will happen to the color?
+Dialogue: 0,0:04:22.67,0:04:32.95,white-large,,0,0,0,,{\pos(385,126)}Thinking\NObservation
 Dialogue: 0,0:04:34.72,0:04:37.32,black-large,,0,0,0,,{\pos(311,259)}Dedenion
 Dialogue: 0,0:04:34.72,0:04:37.32,black-small,,0,0,0,,{\pos(497,94)}love
-Dialogue: 0,0:04:34.72,0:04:37.32,black-small,,0,0,0,,{\pos(316,61)}Dedenion
+Dialogue: 0,0:04:34.72,0:04:37.32,black-small,,0,0,0,,{\pos(316,61)}algorithm
 Dialogue: 0,0:04:38.76,0:04:42.43,white-large,,0,0,0,,{\pos(413,345)}Episode 7: Just One Off.
 Dialogue: 0,0:06:05.24,0:06:08.68,black-large,,0,0,0,,{\pos(513,345)}Dedenion
 Dialogue: 0,0:06:06.91,0:06:08.68,black-small,,0,0,0,,{\pos(116,354)}animation: milligram
@@ -87,7 +88,7 @@ Dialogue: 0,0:06:52.00,0:06:55.00,Default,,0,0,0,,we put a small sticker on the 
 Dialogue: 0,0:07:01.00,0:07:05.00,Default,,0,0,0,,When we look at this from the opposite side...
 Dialogue: 0,0:07:07.00,0:07:10.00,Default,,0,0,0,,It looks big.
 Dialogue: 0,0:07:10.00,0:07:14.00,Default,,0,0,0,,Now this is the problem.
-Dialogue: 0,0:07:14.00,0:07:18.00,Default,,0,0,0,,If put the ball in the water like this,
+Dialogue: 0,0:07:14.00,0:07:18.00,Default,,0,0,0,,If we put the ball in the water like this,
 Dialogue: 0,0:07:18.00,0:07:21.00,Default,,0,0,0,,our view of the sticker...
 Dialogue: 0,0:07:21.00,0:07:25.00,Default,,0,0,0,,How will it change?
 Dialogue: 0,0:07:26.46,0:07:36.63,white-small,,0,0,0,,{\pos(127,80)}1. It will look even bigger
@@ -105,7 +106,9 @@ Dialogue: 0,0:08:12.44,0:08:15.84,white-large,,0,0,0,,casually looking beneath a
 Dialogue: 0,0:08:15.84,0:08:18.81,white-large,,0,0,0,,there's a many holes of some kind
 Dialogue: 0,0:08:18.81,0:08:20.95,white-large,,0,0,0,,what are these holes?
 Dialogue: 0,0:08:22.61,0:08:25.95,white-large,,0,0,0,,Looking at the tree trunk
-Dialogue: 0,0:08:25.95,0:08:29.35,white-large,,0,0,0,,Cicada
+Dialogue: 0,0:08:25.95,0:08:29.35,white-large,,0,0,0,,There are cicada skins
+Dialogue: 0,0:08:29.35,0:08:32.92,white-large,,0,0,0,,So. The cicada came out of ...
+Dialogue: 0,0:08:33.42,0:08:36.53,white-large,,0,0,0,,the holes?
 Dialogue: 0,0:08:36.53,0:08:43.30,white-large,,0,0,0,,How wonderful. Today's discovery.
 Dialogue: 0,0:08:43.30,0:08:48.57,white-large,,0,0,0,,And tomorrow there will probably be another.
 Dialogue: 0,0:08:49.47,0:08:53.18,black-large,,0,0,0,,{\pos(358.222,41.556)}one each day
