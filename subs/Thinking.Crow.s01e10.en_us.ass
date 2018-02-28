@@ -14,27 +14,34 @@ Audio File: ../video/Thinking.Crow.s01e10.ts
 Video File: ../video/Thinking.Crow.s01e10.ts
 Video AR Mode: 4
 Video AR Value: 1.777778
-Active Line: 91
-Video Position: 17653
+Scroll Position: 72
+Active Line: 107
+Video Position: 17981
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: white-small,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: white-large,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: white-large,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0.6,2,10,10,10,1
 Style: black-small,Arial,16,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: black-large,Arial,24,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.00,0:00:08.00,Default,,0,0,0,,｢There was a hungry crow｣
-Dialogue: 0,0:00:09.00,0:00:14.00,Default,,0,0,0,,｢Who wanted to get some feed｣
-Dialogue: 0,0:00:15.00,0:00:20.00,Default,,0,0,0,,｢If only this beak were a little longer｣
-Dialogue: 0,0:00:21.00,0:00:26.00,Default,,0,0,0,,｢That feed would be a bit closer｣
-Dialogue: 0,0:00:44.00,0:01:00.00,Default,,0,0,0,,｢A crow can think｣
+Dialogue: 0,0:00:09.00,0:00:14.00,Default,,0,0,0,,｢who wanted to get some feed｣
+Dialogue: 0,0:00:10.46,0:00:13.83,black-small,,0,0,0,,{\pos(52,260.286)}feed
+Dialogue: 0,0:00:15.00,0:00:20.00,Default,,0,0,0,,｢if only this beak were a little longer｣
+Dialogue: 0,0:00:21.00,0:00:26.00,Default,,0,0,0,,｢that feed would be a bit closer｣
+Dialogue: 0,0:00:26.67,0:00:32.78,black-small,,0,0,0,,{\pos(542.286,239.143)}pebbles
+Dialogue: 0,0:00:31.54,0:00:38.58,black-small,,0,0,0,,{\pos(334.857,183.714)}Maybe if I...
+Dialogue: 0,0:00:44.00,0:01:00.00,Default,,0,0,0,,｢a crow can think｣
 Dialogue: 0,0:01:01.00,0:01:09.00,Default,,0,0,0,,｢can think... can think｣
+Dialogue: 0,0:01:17.12,0:01:25.30,black-large,,0,0,0,,{\pos(307,146)}Thinking Crow
+Dialogue: 0,0:01:17.12,0:01:25.30,black-small,,0,0,0,,{\pos(321,258)}thinking scientifically
 Dialogue: 0,0:01:11.00,0:01:17.00,Default,,0,0,0,,Observe, propose a hypothesis, then experiment and consider results.
 Dialogue: 0,0:01:17.00,0:01:20.00,Default,,0,0,0,,Learn the way of scientific thought.
+Dialogue: 0,0:01:26.63,0:01:32.04,white-large,,0,0,0,,{\pos(444,160)}Thinking\NObservation
 Dialogue: 0,0:01:29.00,0:01:33.00,Default,,0,0,0,,We begin with a Thinking Observation
 Dialogue: 0,0:01:33.00,0:01:39.00,Default,,0,0,0,,Look closely at the sand in this aquarium.
 Dialogue: 0,0:01:39.00,0:01:43.00,Default,,0,0,0,,It's all stripey.
@@ -71,12 +78,14 @@ Dialogue: 0,0:04:20.00,0:04:25.00,Default,,0,0,0,,But as we think further it see
 Dialogue: 0,0:04:25.00,0:04:29.00,Default,,0,0,0,,When the light shines on these tweezers
 Dialogue: 0,0:04:29.00,0:04:34.00,Default,,0,0,0,,The shadow ought only be cast onto this desk.
 Dialogue: 0,0:04:34.00,0:04:39.00,Default,,0,0,0,,and yet somehow a shadow appears in the sand?
+Dialogue: 0,0:04:46.36,0:04:55.77,white-large,,0,0,0,,{\pos(202,268)}Thinking\NObservation
 Dialogue: 0,0:04:57.11,0:04:59.71,black-large,,0,0,0,,{\pos(308,257)}Dedenion
 Dialogue: 0,0:04:57.11,0:04:59.71,black-small,,0,0,0,,{\pos(319,58)}Hypothesis
 Dialogue: 0,0:04:57.11,0:04:59.71,black-small,,0,0,0,,{\pos(501,90)}love
 Dialogue: 0,0:05:02.68,0:05:05.18,white-large,,0,0,0,,{\pos(417,320)}Episode 3: The Mysterious Footprints
 Dialogue: 0,0:06:00.77,0:06:05.58,black-large,,0,0,0,,{\pos(519,96)}Dedenion
 Dialogue: 0,0:06:02.64,0:06:05.58,black-small,,0,0,0,,{\pos(546,325)}Animation: milligram
+Dialogue: 0,0:06:06.85,0:06:13.39,white-large,,0,0,0,,{\pos(479,78)}Yu Aoi's\NThinking Practice
 Dialogue: 0,0:06:14.00,0:06:21.00,Default,,0,0,0,,Today's problem deals with this triangular stand and a ball bearing.
 Dialogue: 0,0:06:21.00,0:06:26.00,Default,,0,0,0,,This triangular stand is placed on a scale.
 Dialogue: 0,0:06:26.00,0:06:29.00,Default,,0,0,0,,There's a rail attached to this stand.
@@ -99,6 +108,7 @@ Dialogue: 0,0:07:23.00,0:07:27.00,Default,,0,0,0,,Everyone, please think hard ab
 Dialogue: 0,0:07:38.00,0:07:45.00,Default,,0,0,0,,Observation, hypothesis, experiment and reflection.
 Dialogue: 0,0:07:45.00,0:07:50.00,Default,,0,0,0,,Thinking scientifically. Thinking Crow.
 Dialogue: 0,0:08:00.00,0:08:03.00,Default,,0,0,0,,And now the answer from earlier.
+Dialogue: 0,0:08:01.09,0:08:06.40,white-large,,0,0,0,,{\pos(519,174)}Yu Aoi's\NThinking Practice
 Dialogue: 0,0:08:06.40,0:08:18.44,black-small,,0,0,0,,{\pos(304,111)}Q: When the Ball starts to roll what will happen to the weight on the scale?
 Dialogue: 0,0:08:08.93,0:08:18.44,black-small,,0,0,0,,{\pos(375,197)}1. The weight will increase.
 Dialogue: 0,0:08:11.44,0:08:18.44,black-small,,0,0,0,,{\pos(414,247)}2. The weight will remain at 200 grams.
@@ -119,4 +129,10 @@ Dialogue: 0,0:09:40.00,0:09:42.00,Default,,0,0,0,,When the ball is held by the t
 Dialogue: 0,0:09:42.00,0:09:47.00,Default,,0,0,0,,The weight of the ball is entirely contributed to this stand.
 Dialogue: 0,0:09:47.00,0:09:49.00,Default,,0,0,0,,But when the ball is rolling...
 Dialogue: 0,0:09:49.00,0:09:53.00,Default,,0,0,0,,From here on we think for ourselves.
+Dialogue: 0,0:09:49.70,0:10:00.88,black-small,,0,0,0,,{\pos(139.2,62.8)}Translation: on3
+Dialogue: 0,0:09:49.70,0:10:00.88,black-small,,0,0,0,,{\pos(198.4,86.8)}https://github.com/on-three/kurasu
+Dialogue: 0,0:09:49.70,0:10:00.88,black-small,,0,0,0,,{\pos(456,62)}#/tv/shows@rizon
+Dialogue: 0,0:09:49.70,0:10:00.88,black-large,,0,0,0,,{\pos(285,238)}Thinking Crow
+Dialogue: 0,0:09:49.70,0:10:00.88,black-small,,0,0,0,,{\pos(272,122)}thinking scientifically
 Dialogue: 0,0:09:53.00,0:09:57.00,Default,,0,0,0,,From here on we're all thinking crows.
+Dialogue: 0,0:09:56.27,0:10:00.95,black-small,,0,0,0,,{\pos(530,227)}end
