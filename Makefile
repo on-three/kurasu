@@ -3,13 +3,16 @@ ifndef EP
 $(error episode number is not defined. e.g. EP=02)
 endif
 
+GROUP := [squap]
+SERIES := 考えるカラス(Thinking.Crow)
+OUTNAME := $(GROUP)$(SERIES).s01e$(EP)
 NAME := Thinking.Crow.s01e$(EP)
-OUT_DIR := ./out/$(NAME)
+OUT_DIR := ./$(GROUP)$(SERIES)
 SUBS_DIR := ./subs
 DATA_DIR := ./data
 VIDEO_DIR := ./video
 TS := $(VIDEO_DIR)/$(NAME).ts
-MKV := $(OUT_DIR)/$(NAME).mkv
+MKV := $(OUT_DIR)/$(OUTNAME).mkv
 SRT_EN := $(SUBS_DIR)/$(NAME).en_us.srt
 SRT_JP := $(SUBS_DIR)/$(NAME).ja_jp.srt
 ASS_EN := $(SUBS_DIR)/$(NAME).en_us.ass
